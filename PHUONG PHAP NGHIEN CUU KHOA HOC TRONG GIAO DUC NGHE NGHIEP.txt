@@ -1,0 +1,1047 @@
+﻿ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH Lời nói đầu 
+TRƯỜNG CAO ĐẲNG NGHỀ THÀNH PHỒ HỒ CHÍ MINH   
+Nghiên cứu khoa học được coi là một quá trình nhận thức chân lý khoa  học, một hoạt động lao động trí tuệ phức tạp, gian khổ nhưng đầy hào hứng và  hứa hẹn. Hiện nay vấn đề nghiên cứu khoa học nói chung và nghiên cứu khoa  học giáo dục nghề nghiệp nói riêng đã trở thành hoạt động tìm kiếm tri thức của  mọi giáo viên kỹ thuật nghề nghiệp. 
+Việc nắm vững phương pháp luận nghiên cứu khoa học giáo dục nghề  nghiệp sẽ tạo cho giáo viên biết cách tiến hành có hiệu quả các công trình  nghiên cứu khoa học, biết lựa chọn phương pháp nghiên cứu hợp lý để thực hiện  nhiệm vụ nghiên cứu và đạt được mục đích đã đề ra. 
+TÀI LIỆU HỌC TẬP 
+Tà liệu môn Phương pháp nghiên cứu khoa học giáo dục nghề nghiệp  được biên soạn theo tinh thần của những định hướng lớn cho sự phát triển khoa  PHƯƠNG PHÁP NGHIÊN CỨU KHOA HỌC  học và công nghệ trong thời kỳ công nghiệp hoá, hiện đại hoá đất nước, dựa trên  
+TRONG GIÁO DỤC NGHỀ NGHIỆP 
+cơ sở chương trình mới mà Tổng cục Dạy nghề đã quy định đồng thời có tham  khảo tài liệu của các tác giả có kinh nghiệm nhiều năm nghiên cứu và đào tạo  sau đại học. 
+  
+Hy vọng rằng cuốn sách này được coi là bạn đồng hành đáng tin cậy  
+giúp cho người học có những hành trang cần thiết trong công tác nghiên cứu  khoa học của mình. 
+Do thời gian và điều kiện biên soạn còn có khó khăn nên chúng tôi  không tránh khỏi có những thiếu sót. Chúng tôi rất mong nhận được sự đóng  góp ý kiến của độc giả để tài liệu được chỉnh sửa tốt hơn trong lần in ấn tiếp  theo. 
+ Các tác giả 
+Năm 2023
+1 
+  
+MỤC LỤC 
+Bảng những cụm từ viết tắt................................................................................................................. Chương 1: Những vấn đề lý luận chung về Nghiên Cứu Khoa học và Phương Pháp Nghiên  Cứu Khoa học Giáo Dục....................................................................................................................... 1.1. Khái quát chung về nghiên cứu khoa học .............................................................. 
+1.1.1. Khái niệm về nghiên cứu khoa học ................................................................ 1.1.2. Các loại hình nghiên cứu khoa học ................................................................ 1.2. Một số quan điểm phương pháp luận NCKHGD ................................................. 1.2.1. Quan điểm hệ thống cấu trúc.......................................................................... 1.2.2. Quan điểm logic - lịch sử ............................................................................... 1.2.3. Quan điểm thực tiễn ....................................................................................... 1.3. Phương pháp nghiên cứu khoa học giáo dục......................................................... 1.3.1. Khái niệm về phương pháp NCKHGD .......................................................... 1.3.2. Hệ thống các phương pháp tổng quát trong NCKHGD ................................. 1.3.3. Các phương pháp nghiên cứu cụ thể. ............................................................. Chương 2: Các giai đoạn thực hiện một công trình nghiên cứu khoa học giáo dục................... 2.1. Giai đoạn chuẩn bị nghiên cứu ............................................................................... 2.1.1. Xác định đề tài nghiên cứu ............................................................................. 2.1.2. Xây dựng đề cương nghiên cứu...................................................................... 2.1.3. Chi tiết hoá và cụ thể hoá các phương pháp nghiên cứu................................ 2.1.4. Chuẩn bị các điều kiện vật chất - kỹ thuật cơ sở nghiên cứu ......................... 2.2. Giai đoạn triển khai nghiên cứu ............................................................................. 2.2.1. Thu nhập tài liệu thực tế ................................................................................. 2.2.2. Xử lý tài liệu thực tế ....................................................................................... 2.3. Giai đoạn kiểm tra kết quả nghiên cứu.................................................................. 2.3.1. Kiểm tra sơ bộ ................................................................................................ 2.3.2. Kiểm tra chính thức ........................................................................................ 2.4. Giai đoạn viết công trình nghiên cứu ..................................................................... 2.4.1. Hoàn thiện dàn ý công trình nghiên cứu ........................................................ 2.4.2. Viết công trình nghiên cứu .............................................................................
+2 
+  
+2.5. Giai đoạn bảo vệ công trình nghiên cứu................................................................. 2.5.1. Chuẩn bị bảo vệ .............................................................................................. 2.5.2. Bảo vệ công trình nghiên cứu ......................................................................... 
+Chương 3: Đánh giá và tổ chức thực hành Nghiên Cứu Khoa học Giáo Dục.............................. 3.1. Đánh giá một công trình NCKHGD ....................................................................... 3.1.1. Hiệu quả các quá trình NCKH........................................................................ 3.1.2. Phương pháp đánh giá một công trình khoa học giáo dục ............................. 3.2. Thực hành nghiên cứu KHGD ................................................................................ 
+3.2.1. Chi tiết hoá, cụ thể hoá các phương pháp nghiên cứu và xây dựng đề  cương nghiên cứu một công trình KHGD - NN tự chọn. ......................................... 3.2.2. Xây dựng các biên bản mạn đàm (thảo luận), các hoạt động quan sát, thực  nghiệp phục vụ cho mục đích nghiên cứu một công trình NCKHGD - NN cụ thể.......... 
+3.3. Thảo luận nhóm về các giai đoạn thực hiện một công trình NCKHGD - NN ......... Phụ lục ...................................................................................................................................................... Tài liệu tham khảo..................................................................................................................................
+3 
+  
+Bảng những cụm từ viết tắt 
+TT Viết tắt Viết đầy đủ  
+1. DH Dạy học 
+2. DHTH Dạy học thực hành 
+3. GD Giáo dục  
+4. GV Giáo viên 
+5. GvdN Giáo viên dạy nghề 
+6. HSSV Học sinh sinh viên 
+7. HTGDQD Hệ thống giáo dục quốc dân 
+8. KH- CN Khoa học - công nghệ 
+9. NC Nghiên cứu 
+10. NCKH Nghiên cứu khoa học 
+11. NCKHGD Nghiên cứu khoa học giáo dục 
+12. MHH Mô hình hoá 
+13. PP Phương pháp 
+14. PPNCKH Phương pháp nghiên cứu khoa học 15. PPNCKHGDGD Phương pháp nghiên cứu khoa học giáo dục 16. QTDH Quá trình dạy học 
+17. SV Sinh viên 
+18. SPKTNN Sư phạm kỹ thuật nghề nghiệp
+4 
+  
+Chương 1 
+Những vấn đề lý luận chung về Nghiên Cứu Khoa học 
+và Phương Pháp Nghiên Cứu Khoa học Giáo Dục nghề nghiệp 
+1.1. Khái quát chung về nghiên cứu khoa học 
+1.1.1. Khái niệm về nghiên cứu khoa học 
+1. Khái niệm về khoa học 
+Trong lịch sử phát triển của khoa học đã có nhiều định nghĩa khác nhau về  khoa học. Khoa học là hệ thống những tri thức về các quy luật tự nhiên, xã hội và tư  duy được tích luỹ trong lịch sử. Khoa học có nguồn gốc sâu xa từ trong thực tiễn lao  động sản xuất. Những hiểu biết (tri thức) ban đầu thường được tồn tại dưới dạng kinh  nghiệm, có tri thức lý luận và tri thức kinh nghiệm. Tri thức kinh nghiệm là những  hiểu biết được tích luỹ một cách ngẫu nhiên trong đời sống hàng ngày mà nhờ đó con  người hình dung ra được sự vật, biết cách phản ứng trước tự nhiên, biết ứng xử trong  quan hệ xã hội. Tuy chưa đi sâu vào bản chất của sự vật song những tri thức kinh  nghiệm cũng có tác dụng làm cơ sở cho sự hình thành các tri thức khoa học. Tri thức  khoa học là những hiểu biết được tích luỹ một cách có hệ thống và được khái quát hoá  nhờ hoạt động nghiên cứu khoa học. Nó không phải là sự kế tục giản đơn các tri thức  kinh nghiệm mà là sự khái quát hoá thực tiễn từ những sự kiện ngẫu nhiên, rời  rạc…thành hệ thống các tri thức phản ánh bản chất về sự vật hiện tượng. Các tri thức  khoa học được xắp xếp thành hệ thống cấu trúc trong các bộ môn khoa học. Như vậy,  khoa học được ra đời từ thực tiễn và phát triển cùng với sự vận động, phát triển của  thực tiễn. Ngày nay, khoa học đã trở thành lực lượng sản xuất trực tiếp thậm chí, nó có  thể vượt trước hiện thực. Vai trò của khoa học ngày càng gia tăng và đang trở thành  động lực trực tiếp cho sự phát triển của nền kinh tế, văn hóa- xã hội. 
+Khoa học là một quá trình nhận thức, một lọai vận động xã hội đặc biệt nhằm  tìm tòi, phát hiện ra các quy luật của sự vật, hiện tượng và vận dụng chúng nhằm để  sáng tạo ra nguyên lý, các giải pháp tác động để biến đổi trạng thái của chúng theo  mục đích của con người. Khoa học chỉ tìm thấy chân lý khi nào nó áp dụng được các  lý thuyết của mình vào thực tiễn một cách có hiệu quả. 
+Khoa học là một bộ phận hợp thành của ý thức xã hội. Nó tồn tại mang tính độc lập  và được phân biệt với các hình thái ý thức xã hội khác ở chỗ nó có đối tượng, hình thức  phản ánh, mang một chức năng xã hội riêng biệt. Nhưng nó cũng có mối quan hệ đa dạng,  phức tạp đối với các hình thái ý thức xã hội khác và có sự tác động mạnh mẽ đến chúng. 
+5 
+  
+Ngược lại, các hình thái ý thức xã hội khác cũng có những ảnh hưởng nhất định đến sự  phát triển của khoa học, đặc biệt đối với sự truyền bá, ứng dụng các tiến bộ khoa học vào  sản xuất và đời sống. 
+Nghiên cứu khoa học là một hoạt động mang tính chất nghề nghiệp xã hội đặc  thù. Đó là hoạt động sản xuất tinh thần mà sản phẩm của nó ngày càng tham gia mạnh  mẽ và đầy đủ vào mọi mặt của đời sống xã hội, đặc biệt vào nền sản xuất vật chất  thông qua sự đổi mới hình thức, nội dung, trình độ kỹ thuật, công nghệ và làm thay đổi  chính cả bản thân con người . Xuất phát từ đó, xã hội luôn có yêu cầu phải tạo ra cho  khoa học một đội ngũ những nhà nghiên cứu chuyên nghiệp có trình độ chuyên môn  nhất định, biết phương pháp làm việc theo yêu cầu của từng lĩnh vực khoa học. Khi  tổng hợp và khái quát hóa lại toàn bộ những vấn đề đã nêu, có thể đưa ra một quan  niệm chung về khoa học như sau: 
+Khoa học là hệ thống những tri thức được hệ thống hoá, khái quát hoá từ thực  tiễn và được nó kiểm nghiệm. Nội dung của nó phản ánh dưới dạng logic, trừu tượng  và khái quát toàn bộ những thuộc tính, những cấu trúc, những mối liên hệ bản chất,  những quy luật của tự nhiên, xã hội và tư duy. Tri thức khoa học còn bao gồm hệ  thống những tri thức về những phương thức tác động một cách có kế hoạch đến thế  giới đối tượng cũng như nhận thức và làm biến đổi nói nhằm phục vụ lợi ích của con  người. 
+a/ Sự phát triển của khoa học  
+Quá trình phát triển của khoa học được diễn ra theo hai xu hướng ngược chiều  nhau nhưng không loại trừ mà thống nhất với nhau là tích hợp và phân lập tri thức.  Sự phân lập các tri thức khoa học thành những nghành khoa học khác nhau tức là từ  một khoa học ban đầu đã tiến hành tách ra thành những khoa học mới. Sự tích hợp  những tri thức của các ngành khoa học lại thành một hệ thống chung theo một tiêu chí  xác định. 
+b/ Phân biệt khoa học, kỹ thuật, công nghệ 
+Khoa học là hệ thống những tri thức chung về bản chất và quy luật của thế giới  tự nhiên tự nhiên, xã hội và tư duy cũng như những phương thức tác động làm biến đổi  và cải tạo chúng theo lợi ích của con người. Các tiêu chí nhận để biết một khoa học  hoặc bộ môn khoa học là nó phải có đối tượng nghiên cứu, phương pháp nghiên cứu  riêng và phục vụ một mặt nhất định của thực tiễn 
+6 
+  
+Đối tượng nghiên cứu là bản thân sự vật hoặc hiện tượng được đặt trong phạm vi  quan tâm của các hoạt động nghiên cứu khoa học. 
+Có một hệ thống tri thức khoa học bao gồm những khái niệm, phạm trù, quy luật,  định luật, định lý, quy tắc… Hệ thống lý thuyết của một bộ môn khoa học thường gồm  bộ phận riêng có đặc trưng cho bộ môn khoa học đó và bộ phận kế thừa từ các khoa  học khác. Có một hệ thống phương pháp luận và phương pháp nghiên cứu xác định  theo đặc thù các của bộ môn khoa học. Có mục đích ứng dụng. Do khoảng cách giữa  khoa học và đời sống ngày càng rút ngắn mà người ta dành nhiều mối quan tâm tới  mục đích ứng dụng. Tuy nhiên, trong nhiều trường hợp, người nghiên cứu chưa biết  trước được mục đích ứng dụng chẳng hạn có nghiên cứu cơ bản thuần túy. Vì vậy,  không nên vận dụng một cách máy móc tiêu chí này.  
+Kỹ thuật được hiểu là việc ứng dụng bất kỳ kiến thức kinh nghiệm hoặc kỹ năng  có tính chất hệ thống hoặc thực tiễn được sử dụng cho việc chế tạo ra sản phẩm hoặc  để áp dụng chúng vào các quá trình sản xuất, quản lý hoặc thương mại, công nghiệp  hoặc trong các lĩnh vực khác nhau của đời sống xã hội. 
+Thuật ngữ kỹ thuật mang một ý nghĩa hẹp hơn. Nó chỉ những yếu tố vật chất mà con  người tác dụng vào vật thể, chẳng hạn như máy móc, thiết bị và sự tác nghiệp, vận hành theo  một quy trình công nghệ xác định để biến đổi đầu vào ra sản phẩm. 
+Công nghệ có một ý nghĩa tổng hợp và bao hàm một trong những hiện tượng  mang đặc trưng xã hội như tri thức, tổ chức, phân công lao động, quản lý… Vì vậy,  khi nói đến công nghệ là nói đến phạm trù xã hội, một phạm trù phi vật chất. Theo  quan điểm của ESCAP trong dự án mang tên Technology Atlas Project cho rằng công  nghệ gồm bốn phần: kỹ thuật, thông tin, con người và tổ chức. Các nhà xã hội học đã  xem xét công nghệ như là một thiết chế xã hội có tác dụng quy định sự phân công lao  động xã hội cũng như cơ cấu công nghệ và nền công nghiệp. Có thể nêu ra sự so sánh  giữa khoa học và công nghệ. Công nghệ được xác nhận qua thử nghiệm để kiểm chứng  là không còn rủi ro về mặt kỹ thuật thực hiện. Nghĩa là nó đã qua giai đoạn nghiên cứu  để đi vào vận hành ổn định, đủ điều kiện khả thi về mặt kỹ thuật để chuyển giao cho  người sử dụng. Tác giả: Vũ Cao Đàm đã so sánh các đặc điểm khoa học và công nghệ trong cuốn “Phương pháp luận nghiên cứu khoa học” 
+7 
+  
+Bảng 1: So sánh các đặc điểm của khoa học và công nghệ 
+TT 
+	Khoa học 
+	Công nghệ
+	1 
+	Lao động linh hoạt và tính sáng tạo cao 
+	Lao động bị định khuôn theo quy định
+	2 
+	Hoạt động khoa học luôn đổi mới,  không lặp lại
+	Hoạt động công nghệ được lặp lại theo  chu kỳ
+	3 
+	Mang tính xác xuất 
+	Mang tính xác định
+	4 
+	Có thể mang mục đích tự thân 
+	Có thể không mang mục đích tự thân
+	5 
+	Phát minh khoa học tồn tại với thời  gian lâu dài
+	Sáng chế công nghệ tồn tại nhất thời và  bị tiêu vong theo lịch sử tiến bộ kỹ thuật
+	6 
+	Sản phẩm khó được định hình trước  và mang đặc trưng thông tin
+	Sản phẩm được định hình theo thiết kế và  nó có đặc trưng tuỳ thuộc đầu vào
+	
+
+
+
+Cũng cần nhấn mạnh thêm rằng: Khoa học luôn hướng tới tìm tòi tri thức mới,  còn công nghệ hướng tới tìm tòi quy trình tối ưu. 
+c/ Phân loại khoa học  
+Phân loại khoa học là tiến hành chỉ ra chỉ ra những hệ thông cấu trúc mối liên hệ  tương hỗ giữa các ngành khoa học trên cơ sở những nguyên tắc xác định. Đó là sự phân  chia khoa học thành những nhóm bộ môn theo một tiêu thức nào đó để nhận dạng cấu trúc  của hệ thống tri thức, xác định vị trí của chúng trong hệ thống tri thức, đồng thời lấy đó làm  cơ sở để xác định con đường mà chúng phải đi.  
+Trong lịch sử phát triển của khoa học đã có nhiều cách phân loại khác nhau:  1/ Aristốt (384 - 322 TCN ) đã dựa theo mục đích ứng dụng của khoa học mà  chia nó thành: Khoa học lý thuyết, khoa học sáng tạo, khoa học thực hành . 2/ K. Marx đã dựa vào đối tượng mà chia ra khoa học tự nhiên và khoa học  xã hội. Khoa học tự nhiên có đối tượng là các dạng vận động của giới tự nhiên.  Khoa học xã hội có đối tượng là những dạng vận động xã hội. Giữa các khoa học  có khoa học trung gian. 
+3/ Trong cuốn “Triết học bách khoa toàn thư” NXB “Bách khoa toàn thư Liên Xô”,  Matxcơva, 1964. B.M.Kedrov đã chia khoa học thành các khoa học triết học, khoa học toán  học, khoa học tự nhiên và khoa học kỹ thuật, khoa học xã hội. 
+4/ Theo UNESCO nếu dựa vào đối tượng nghiên cứu của khoa học thì, có 5  nhóm như: nhóm các khoa học tự nhiên và khoa học chính xác, nhóm các khoa học và 
+8 
+  
+kỹ thuật công nghệ, nhóm các khoa học về sức khoẻ (y học), nhóm các khoa học nông  nghiệp, nhóm các khoa học xã hội và nhân văn. 
+5/ Trong giáo dục nếu theo cơ cấu của hệ thống tri thức hoặc chương trình đào tạo  người ta chia ra các khoa học cơ bản, khoa học cơ sở và khoa học chuyên ngành. Ngoài ra, người ta có thể phân loại khoa học theo nguồn gốc hình thành, theo  mức độ khái quát, theo tính tương liên giữa chúng với nhau. 
+Mỗi cách phân loại khoa học đều dựa trên một tiêu thức riêng, có ý nghĩa ứng  dụng nhất định, chỉ ra mối liên hệ giữa chúng làm cơ sở để nhận dạng cấu trúc của hệ  thống tri thức. Sự phát triển của khoa học đã dẫn đến sự phá vỡ ranh giới cứng nhắc  trong phân loại nó, do đó, mọi cách phân loại cần được xem như hệ thống mở để phải  luôn luôn bổ xung và phát triển. 
+2. Khái niệm về NCKH 
+Nghiên cứu khoa học là quá trình khám phá, phát hiện, nhận thức và phản  ánh những thuộc tính bản chất của sự vật, hiện tượng trong thực tại theo mục  đích của con người. Đây là một dạng họat động đặc biệt, mang tính mục đích, tính  kế hoạch, tính tổ chức chặt chẽ của một đội ngũ các nhà khoa học được đào tạo ở  một trình độ cao. Hoạt động nghiên cứu khoa học được định hướng vào các vấn  đề của hiện thực khách quan nhằm thỏa mãn nhu cầu nhận thức và cải tạo thế  giới. Đây được coi là một loại hoạt động đặc thù của con người. Những mục đích  của nghiên cứu khoa học là tiến hành khám phá ra các thuộc tính bản chất của sự  vật hiện tượng của thế giới hiện thực, phát hiện ra các quy luật của sự vật trong  hiện thực, vận dụng những quy luật để sáng tạo , tìm ra các giải pháp tác động vào sự vật. 
+Như vậy, nghiên cứu khoa học được coi là một dạng lao động phức tạp nhất trong  các hoạt động của xã hội loài người. Nghiên cứu khoa học có khả năng tạo ra sự bùng  nổ và sự đổi mới thông tin. 
+a/ Chức năng của NCKH 
+Nghiên cứu khoa học có chức năng mô tả, giải thích, tiên đoán và sáng tạo ra  cái mới. 
+Mô tả là tiến hành trình bày sự vật bằng ngôn ngữ hình ảnh chung nhất, làm rõ  cấu trúc trạng thái, sự vận động của nó trong hiện thực khách quan… để phản ánh  xem nó đang tồn tại như thế nào. Mô tả có tác dụng xây dựng được bức chân dung của  đối tượng nghiên cứu làm công cụ cho sự nhận thức của con người về thế giới. Đây là 
+9 
+  
+một chức năng quan trọng của nghiên cứu khoa học. Có thể tiến hành mô tả về mặt  định tính, định lượng hoặc cả hai. 
+Giải thích được thực hiện nhằm làm rõ nguyên nhân dẫn đến sự hình thành,  phát triển của sự vật với các quy luật của nó. Mục đích của giải thích là đưa ra  những thông tin về thuộc tính bản chất của sự vật để có thể nhận thức được đầy đủ  về hình thức và nội dung của nó đồng thời có thể lý giải rõ sự hình thành, phát  triển và quy luật vận động của đối tượng. Giải thích có tác dụng giúp quá trình  nhận thức của con người có đầy đủ các thông tin về bản chất của sự vật để lý giải  được tại sao nó lại có sự tồn tại và vận động.  
+Tiên đoán được coi là phán đoán trước được trạng thái mới của sự vật, hiện tượng  trong tương lai, nhìn thấy trước quá trình hình thành, tiêu vong, sự vận động và những biểu  hiện của đối tượng. Để tiên đoán, các nhà khoa học phải dựa vào quá trình thay đổi trạng  thái từ quá khứ đến hiện tại để phán đoán ra trạng thái mới trong tương lai hoặc dựa vào dấu  hiệu của hiện tại để chẩn đoán sự tồn tại và vận động của sự vật trong quá khứ hoặc trong  tương lai. Nhờ chức năng mô tả và giải thích kể trên mà con người có khả năng loại suy,  nhìn thấy trước được xu thế vận động và quá trình hình thành phát triển của sự vật để tiên  đoán về nó. Nhờ có chức năng này, con người mới nhận thức được quá trình hình  thành, phát triển của sự vật để từ đó tìm ra giải pháp thích hợp nhằm tác động vào  chúng làm thúc đẩy những mặt tích cực và tiến tới hạn chế những mặt tiêu cực của nó  trong hoàn cảnh phục vụ mục đích của con người. Công cụ của tiên đoán là phép loại  suy hoặc suy luận trong hoạt động tư duy khoa học của con người. Nó có thể sai lệch,  vì vậy trong quá trình tiên đoán con người phải thường xuyên biết điều chỉnh mình.  
+Sáng tạo là tiến hành tạo ra cái mới thuần khiết, những đối tượng sự vật mới  chưa từng có trong thực tại. Đây là chức năng quan trọng bậc nhất của nghiên cứu  khoa học. Nó sáng tạo ra sự vật mới, sản phẩm mới, giải pháp mới chưa từng tồn  tại. Nhờ chức năng này mà thế giới khách quan ngày càng được phát triển phong  phú, đáp ứng nhu cầu ngày càng cao của con người. 
+b/ Đặc điểm của NCKH 
+Nghiên cứu khoa học mang đặc điểm chung là mới mẻ, tính tin cậy, tính thông  tin,tính khách quan, tính kế thừa, tính cá nhân, tính rủi ro.  
+Quá trình nghiên cứu hướng vào phát hiện, sáng tạo ra những cái mới khách quan  và chủ quan. Đây là thuộc tính quan trọng số một của lao động khoa học vì nghiên cứu  khoa học là quá trình thâm nhập vào thế giới của các sự vật mà con người chưa biết. 
+10 
+  
+Tính tin cậy của kết quả nghiên cứu chỉ được người ta thừa nhận nhờ vào các phương  pháp nghiên cứu nào đó có thể kiểm chứng được nhiều lần do nhiều người thực hiện  trong nhiều hoàn cảnh khác nhau nhưng cho kết quả thu được phải giống nhau về mặt  định tính. 
+Tính thông tin: Nghiên cứu khoa học là quá trình vận dụng phân tích, sáng tạo và  xử lý thông tin. Sản phẩm của hoạt động khoa học luôn mang đặc trưng thông tin. Các  thông tin trong nghiên cứu khoa học được chứa đựng dưới dạng ngôn ngữ hoặc ký tự  đã được mã hóa để con người có thể trao đổi với nhau. 
+Tính khách quan: Nghiên cứu khoa học phản ánh đúng đắn các thuộc tính  bản chất, các quy luật vận động của sự vật, các sự vật này phải được lật đi lật lại  các khía cạnh, các vấn đề liên quan mới đi đến kết luận. Phải đi từ bản chất của  chúng để kiểm chứng kết quả. Người nghiên cứu phải xác định xem: kết luận đó  có đúng không? Còn cách nào khác không để cho ta kết quả khác? Đã tìm được  lời giải đáp trọn vẹn cho giả thiết chưa?...Các phát hiện khoa học thường được bắt  đầu từ các kết quả nghiên cứu trước đó, mỗi nghiên cứu phải kế thừa các kết quả  nghiên cứu cũ trong các lĩnh vực khoa học rất khác nhau và nó lại làm tiền đề lý luận  cho các phát kiến sau không có một công trình khoa học nào lại bắt đầu từ chỗ hoàn  toàn không có gì về kiến thức. 
+Tính cá nhân: Thể hiện nhưng đặc điểm cá biệt của chủ thể trong tư duy và chủ  kiến riêng họ khi phản ánh cái mới. Vai trò cá nhân trong sáng tạo mang tính chất  quyết định kể cả quá trình nghiên cứu khoa học do một tập thể thực hiện. Tính cá nhân  được thể hiện ở sự khác biệt khi định hướng vấn đề, ở cách thức (phương pháp) hình  thức phương tiện nghiên cứu và khả năng vận dụng trong những cái đã có thể sáng tạo  ra cái mới trong quá trình nghiên cứu… 
+Trong quá trình nghiên cứu khoa học nhà nghiên cứu có thể không tìm ra kết  quả, hay lời giải, song nó cũng được thừa nhận là có đóng góp cho công trình để mách  bảo cho việc thực hiện những nghiên cứu sau này tránh được sai lầm mà nghiên cứu  trước đó đã trải qua hay mắc phải. 
+c/ Các yêu cầu trong nghiên cứu khoa học 
+Hiệu quả của hoạt động nghiên cứu khoa học phụ thuộc vào các yếu tố cơ bản  như trình độ nhân cách nhà khoa học và các điều kiện, phương tiện nhiên cứu, chúng  được coi là các yêu cầu cần phải đảm bảo thì quá trình nghiên cứu thì mới đạt kết quả. 
+11 
+  
+Trong khi thực hiện nhiệm vụ nghiên cứu, người ta đề ra các phương hướng và  phương châm nhất định. 
+Phương hướng nghiên cứu được coi như là hướng đi và cách làm mà nhà khoa học  phải thực hiện để đạt mục tiêu khi hướng vào đối tượng. Sự lựa chọn phương hướng của  chủ thể mà sai sẽ dẫn đến việc đề xuất nhiệm vụ nghiên cứu không đúng làm cho hoạt  động nghiên cứu không đạt hiệu quả, lãng phí, thiệt hại về vật chất và thời gian. Hiện nay  toàn bộ nội dung nghiên cứu khoa học của thầy trò trong các nhà trường hay cơ sở đào tạo  nghề là nhằm vào việc: Phục vụ yêu cầu của đời sống thực hoặc của sản xuất; góp phần  nâng cao chất lượng đào tạo và xây dựng nền khoa học kỹ thuật tiên tiến hiện đại và phát  triển vững mạnh. 
+Phương châm nghiên cứu được coi là tư tưởng chỉ đạo hành động của chủ thể  trong (quá trình) nghiên cứu. Nếu thiếu sự định hướng, dẫn lối chỉ đường của phương  châm nghiên cứu thì quá trình chủ thể giải quyết nhiệm vụ cũng khó đạt được kết quả  như mong ước. Phương châm nghiên cứu khoa học trong các nhà trường và các cơ sở  hiện đào tạo hiện nay là: Lý luận phải kết hợp với thực tiễn, chủ thể phải độc lập tự  chủ thực hiện nhiệm vụ tiếp thu có phê phán, kế thừa có chọn lọc, những thành tựu.  Nghiên cứu có kế hoạch, có trọng điểm có trọng tâm, kết hợp các vấn đề trước mắt, và  lâu dài, dựa trên tư tưởng triết học duy vật biện chứng và duy vật lịch sử của (quan  điểm của chủ nghĩa Mác Lênin) để xác định phương pháp luận khoa học để nhằm nhận  thức và cải tạo thế giới đối tượng. Theo đó người nghiên cứu phải biết: Nhìn sự vật  trong sự vận động và phát triển không ngừng trong không gian, thời gian như là những  hình thức tồn tại của vật chất. Nhà nghiên cứu phải thấy rõ tính khách quan do vật chất  vận động quy định, từ đó biết đi sâu vào bản chất của sự vật, biết xem xét đối tượng  một cách sự vật toàn diện thông qua các mối quan hệ và biết coi thực tiễn là cơ sở và  động lực của nhận thức khoa học. ở người nghiên cứu phải có được những phẩm chất  và năng lực xác định mới có thể giải quyết hợp lý các nhiệm vụ nghiên cứu: 
+Để đáp ứng yêu cầu của hoạt động nghiên cứu, nhà khoa học phải nắm được hệ  thống lý thuyết phương pháp luận biết dùng phương pháp nghiên cứu, phương tiện  nghiên cứu, kinh nghiệm thực tiễn nhất định về lĩnh vực khoa học mà mình sẽ nghiên  cứu, có thái độ và phong cách nghiên cứu hợp lý.  
+3. Khái niệm về nghiên cứu khoa học giáo dục
+12 
+  
+Nghiên cứu khoa học giáo dục được hiểu là thông qua các tác động hình thành,  nhà khoa học tiến hành xác định bản chất và tính quy luật của các họat động sư phạm.  Đó là quá trình phát hiện ra những quy luật và tìm kiếm những giải pháp cho các tác  động giáo dục nhằm thúc đẩy sự hình thành và phát triển nhân cách cho đối tượng  theo đúng mục tiêu của xã hội. Nghiên cứu khoa học giáo dục là hoạt động tìm tòi,  phát hiện và vận dụng những quy luật trong giáo dục và đào tạo con người theo yêu  cầu của thực tiễn xã hội. 
+Nội dung của các công trình nghiên cứu khoa học giáo dục là bản và quy luật sư  phạm của các tác động giáo dục, đào tạo nhân cách theo mục tiêu đã hướng đích.  Những tài liệu về bản chất và quy luật của quá trình sư phạm như dạy học, giáo dục do  nhà nghiên cứu thực hiện việc do quan sát, điều tra thực nghiệm, tổng kết kinh  nghiệm, phân tích thực tiễn để xác định thông qua các hoạt động tư duy sư phạm độc  lập, gắng sức, thiết thân của mình. 
+Thông qua những hành động nghiên cứu và hành động tư duy đó mà nội dung,  nguyên tắc, phương pháp, hình thức tổ chức và phương tiện giáo dục đào tạo được tìm  tòi khám phá để xác định tính quy luật sư phạm cho vấn đề. 
+Trong quá trình nghiên cứu nhà khoa học giáo dục còn thực hiện quy trình vận  dụng lý thuyết giáo dục vào thực tiễn dạy học và giáo dục, tìm ra phương hướng triển  khai công nghệ giáo dục như công nghệ dạy học, công nghệ đào tạo. + Đặc điểm của NCKHGD 
+Đối tượng của hoạt động nghiên cứu khoa học giáo dục là sự vận động có quy  luật của bản chất và quy luật của quá trình sư phạm như dạy học, giáo dục.  Sản phẩm của công trình nghiên cứu của khoa học giáo dục là quy luật của việc  hình thành nhân cách con người. Nhân cách vừa có các đặc tính cá nhân vừa mang  đặc tính của lịch sử xã hội, chúng vừa là sản phẩm tinh thần vừa có tính chất biến động  cao. ở đây phương pháp nghiên cứu chủ yếu mà chủ thể dùng là tiếp cận gián tiếp với  những phương tiện do chính nhà nghiên cứu tạo ra, nên tính tin cậy của kết quả phụ  thuộc rất lớn vào năng lực của họ. Kết quả nghiên cứu có thể đúng trong điều kiện  thời điểm lịch sử này song có thể lại không đúng với điều kiện và thời điểm lịch sử  khác.
+13 
+  
+1.1.2. Các loại hình nghiên cứu khoa học 
+1. Nghiên cứu cơ bản (fundamental research) 
+- Nghiên cứu cơ bản là hoạt động nghiên cứu được thực hiện nhằm phát hiện bản  chất và quy luật của các sự vật, hiện tượng trong tự nhiên, xã hội, tư duy nhờ đó, làm  thay đổi nhận thức của con người. 
+- Sản phẩm của nghiên cứu cơ bản có thể là các khám phá, phát hiện, phát kiến,  phát minh và thường dẫn đến việc hình thành nên một hệ thống lý thuyết có ảnh hưởng  đến một hoặc nhiều lĩnh vực khoa học. Chẳng hạn như qua nghiên cứu cơ bản  archimède phát minh ra định luật sức nâng của nước, Marie và Piere Cuire phát hiện ra  nguyên tố phóng xạ radium, Karl Marx phát hiện ra quy luật giá trị thặng dư, Adam  Smith phát hiện ra quy luật “bàn tay vô hình” của kinh tế thị trường v.v.. 
+Phát hiện 
++ Phát hiện là sự khám phá ra những vật thể, những quy luật tự nhiên, xã hội hay  tư duy đang tồn tại một cách khách quan. Ví dụ như Kock đã phát hiện ra vi trùng lao,  Galileo phát hiện các vệ tinh của sao hỏa, Christoph Colomb phát hiện ra châu Mỹ… 
++ Phát hiện mới là sự khám phá ra các vật thể, các quy luật của thế giới tự nhiên,  xã hội hay tư duy làm thay đổi nhận thức mà chúng chưa thể áp dụng trực tiếp, chỉ có  thể áp dụng thông qua các giải pháp. Vì vậy, phát hiện không có giá trị thương mại,  không cấp bằng và không được bảo hộ pháp lý. 
+Phát minh 
++ Phát minh là sự khám phá ra những quy luật, những tính chất hoặc những hiện  tượng của thế giới vật chất tồn tại một cách khách quan mà trước đó chưa ai biết, nhờ  đó làm thay đổi cơ bản nhận thức con người. Ví dụ: Newton phát minh định luật vạn  vật hấp dẫn trong vũ trụ; Lêbêdev phát minh tính chất áp suất của ánh sáng; Nguyễn  Văn Hiệu phát minh quy luật bất biến kích thước của tiết diện các quá trình sinh  hạt,...v.v. 
++ Đối tượng của phát minh là những hiện tượng, tính chất, quy luật của thế giới  vật chất đang tồn tại một cách khách quan. Nhưng theo quy ước thì những đối tượng  sau đây không được xem là phát minh mà chỉ xem là các phát hiện hoặc phát kiến:  phát hiện về địa lý tự nhiên, địa chất, tài nguyên và điều kiện thiên nhiên, phát hiện  khảo cổ học, phát hiện trong khoa học xã hội… 
++ Phát minh cũng chỉ mới là những khám phá về các quy luật khách quan, chưa  có ý nghĩa áp dụng trực tiếp vào sản xuất hoặc đời sống. Vì vậy, phát minh không có 
+14 
+  
+giá trị thương mại, không được cấp bằng phát minh và không được bảo hộ pháp lý.  Tuy nhiên, người ta lại công nhận quyền ưu tiên của phát minh tính từ ngày phát minh  được công bố. 
+Xét trên góc độ ý tưởng và mục đích nghiên cứu có thể chia nghiên cứu cơ bản  thành hai loại: Nghiên cứu cơ bản thuần tuý và nghiên cứu cơ bản định hướng. + Nghiên cứu cơ bản thuần tuý 
+Nghiên cứu cơ bản thuần tuý còn được gọi là nghiên cứu cơ bản tự do hoặc nghiên  cứu cơ bản không định hướng. Đây là những hoạt động nghiên cứu với mục đích thuần  tuý là phát hiện ra bản chất, quy luật của sự vật, hiện tượng tự nhiên, xã hội để nâng cao  nhận thức mà chưa có hoặc chưa bàn đến ý nghĩa ứng dụng. 
++ Nghiên cứu cơ bản định hướng 
+Nghiên cứu cơ bản định hướng là hoạt động nghiên cứu cơ bản nhằm vào mục  đích nhất định hoặc để ứng dụng vào những dự kiến định trước. Ví dụ: Hoạt động  thăm dò địa chất mỏ hướng vào mục đích phục vụ nhu cầu khai thác khoáng sản; các  hoạt động điều tra cơ bản tài nguyên, kinh tế, xã hội… đều có thể xem là nghiên cứu  cơ bản định hướng. Nghiên cứu cơ bản định hướng được chia thành nghiên cứu nền  tảng và nghiên cứu chuyên đề.  
+Nghiên cứu nền tảng (Background research): là hoạt động nghiên cứu về quy  luật tổng thể của một hệ thống sự vật. Chẳng hạn, điều tra cơ bản tài nguyên; nghiên  cứu khí tượng; nghiên cứu bản chất vật lý, hoá học, sinh học của vật chất; điều tra cơ  bản về kinh tế, xã hội… đều thuộc về nghiên cứu nền tảng. 
+Nghiên cứu chuyên đề (Thematic research): là hoạt động nghiên cứu về một hiện  tượng đặc biệt của sự vật. Chẳng hạn: trạng thái thứ tự (plasma) của vật chất, từ trường  trái đất, bức xạ vũ trụ, gen di truyền… 
+Nghiên cứu cơ bản là một hoạt động, một công việc không thể thiếu trong nghiên  cứu khoa học. Nó trở thành nền tảng, cơ sở cho các hoạt động nghiên cứu khác như  nghiên cứu ứng dụng và nghiên cứu triển khai. 
+2. Nghiên cứu ứng dụng (Applied research) 
+a. Nghiên cứu ứng dụng là hoạt động nghiên cứu vận dụng các quy luật đã được  phát hiện từ nghiên cứu cơ bản để giải thích sự vật, tạo dựng các nguyên lý công nghệ  mới, nguyên lý sản phẩm mới và nguyên lý dịch vụ mới và áp dụng chúng vào sản  xuất và đời sống.
+15 
+  
+b. Sản phẩm của nghiên cứu ứng dụng có thể là những giải pháp mới về tổ chức,  quản lý, công nghệ, vật liệu, sản phẩm. Một số giải pháp hữu ích về công nghệ có thể trở  thành sáng chế. Sáng chế là loại thành tựu trong khoa học, kỹ thuật và công nghệ, trong  khoa học xã hội và nhân văn không có loại sản phẩm này. 
+Sáng chế (Invention) 
+Sáng chế là một giải pháp kỹ thuật mang tính mới về nguyên lý kỹ thuật, tính  sáng tạo và áp dụng được. Ví dụ: Máy hơi nước của James Wart, công thức thuốc nổ  TNT của Nobel, công nghệ di truyền… là những sáng chế. Sáng chế có khả năng áp  dụng nên nó có ý nghĩa thương mại, được cấp bằng sáng chế (patent). Có thể mua bản  sáng chế hoặc ký kết các hợp đồng cấp giấy phép sử dụng cho người có nhu cầu và được  bảo hộ quyền sở hữu công nghiệp. Điều cần lưu ý là điểm xuất phát của nghiên cứu ứng  dụng là ở chỗ nhận thức của con người không bao giờ có mục đích tự thân mà kết quả  nhận thức phải quay trở về thực tiễn, phục vụ cho thực tiễn. Do đó, việc nghiên cứu  ứng dụng là một tất yếu trong hoạt động nghiên cứu khoa học và nó gắn bó chặt chẽ  với nghiên cứu cơ bản. Kết quả của nghiên cứu ứng dụng luôn được cụ thể hoá kết quả  nghiên cứu cơ bản vào trong các lĩnh vực của sản xuất và đời sống. Nó là khâu quan  trọng làm cho khoa học, kỹ thuật trở thành lực lượng sản xuất trực tiếp. Tuy nhiên để  có thể đưa kết quả nghiên cứu ứng dụng vào thực tiễn thì còn cần tiến hành loại hình  nghiên cứu triển khai. 
+3. Nghiên cứu triển khai (Developmental research) 
+Nghiên cứu triển khai là hoạt động nghiên cứu vận dụng các quy luật (thu được từ  nghiên cứu cơ bản) và các nguyên lý công nghệ hoặc nguyên lý vật liệu (thu được từ  nghiên cứu ứng dụng) để đưa ra những hình mẫu về một phương diện kỹ thuật mới, sản  phẩm mới, dịch vụ mới với những tham số đủ mang tính khả thi về mặt kỹ thuật. Điều cần  lưu ý là kết quả của nghiên cứu triển khai thì chưa triển khai được (!). Sản phẩm của  nghiên cứu triển khai mới chỉ là những hình mẫu có tính khả thi (không còn rủi ro) về mặt  kỹ thuật. Để áp dụng được còn phải nghiên cứu những tính khả thi về tài chính, cũng như  về kinh tế, khả thi về môi trường và về xã hội…Nghiên cứu triển khai bao gồm cả quá  trình thiết kế thử nghiệm và mô hình thử nghiệm. Vì vậy, nghiên cứu triển khai được chia  thành hai loại: 
+a/ Triển khai trong phòng thí nghiệm là loại hình triển khai thực nghiệm hướng  vào việc áp dụng trong điều kiện của phòng thí nghiệm những nguyên lý thu được từ 
+16 
+  
+nghiên cứu ứng dụng nhằm khẳng định kết quả sao cho ra được sản phẩm chưa quan  tâm đến quy mô áp dụng. 
+b/ Triển khai bán đại trà còn gọi là pilot trong các nghiên cứu thuộc lĩnh vực  khoa học kỹ thuật và khoa học công nghệ; là dạng triển khai nhằm triển khai kiểm  chứng giả thuyết về một hình mẫu trên một quy mô nhất định, thường là quy mô áp  dụng bán đại trà nhằm xác định những điều kiện cần và đủ để mở rộng áp dụng đại trà. 
+Nghiên cứu triển khai được áp dụng cả trong nghiên cứu khoa học kỹ thuật và  khoa học xã hội. Trong khoa học kỹ thuật hoạt động triển khai được áp dụng khi chế  tạo một mẫu công nghệ mới, mẫu vật liệu mới hoặc sản phẩm mới; trong khoa học xã  hội có thể thử nghiệm một phương pháp dạy học ở các lớp thí điểm, thí điểm một mô  hình quản lý mới tại một cơ sở được lựa chọn. 
+4. Nghiên cứu thăm dò (Survey research) 
+Nghiên cứu thăm dò là hoạt động nghiên cứu nhằm xác định hướng nghiên cứu,  là dạng thăm dò thị trường để tìm kiếm cơ hội nghiên cứu. Nghiên cứu thăm dò có ý  nghĩa chiến lược với sự phát triển của khoa học, nó đặt nền tảng cho việc nghiên cứu,  khám phá những bí ẩn của thế giới vật chất, là cơ sở để hình thành nhiều bộ môn,  nhiều ngành khoa học mới, nhưng nghiên cứu thăm dò không thể tính toán được hiệu  quả kinh tế. Sự phân chia các loại hình nghiên cứu là để nhận thức rõ bản chất của  nghiên cứu khoa học, để có cơ sở lập kế hoạch nghiên cứu, tổ chức nghiên cứu, cụ thể  hoá các cam kết trong hợp đồng nghiên cứu giữa các đối tác. Tuy nhiên, các loại hình  nghiên cứu khoa học có mối quan hệ với nhau ở những mức độ nhất định và trên thực  tế, trong một đề tài khoa học có thể tồn tại cả bốn, ba hoặc hai loại hình nghiên cứu. 
+5. Nghiên cứu dự báo 
+- Dự báo là những luận điểm có căn cứ khoa học trên cơ sở những nguyên  nhân, những quy luật vận động, phát triển của đối tượng mà từ đó dự báo những  tình huống và xu thế có thể xảy ra trạng thái khả dĩ của đối tượng trong tương lai và  các con đường, các biện pháp cũng như thời hạn để đạt tới trạng thái tương lai đó. 
+- Dự báo là sự phản ánh trước, phản ánh đón đầu hiện thực, nó thể hiện tư tưởng  tiên phong, tiến bộ của tư tưởng khoa học. 
+- Dự báo thường được tiến hành theo các phương pháp tiếp cận dự báo khác  nhau, đặc biệt nhấn mạnh dự báo nhờ khai thác các thông tin trong các công trình 
+17 
+  
+nghiên cứu khoa học, nhất là các công trình phát minh, sáng chế bao giờ cũng chứa  đựng một lượng các thông tin nhất định về sự đánh giá nhu cầu và điều kiện đáp ứng  nhu cầu của khoa học trong tương lai, khai thác và xử lý thông tin để làm dự báo khoa  học là phương pháp tiếp cận dự báo có hiệu quả nhất. 
+- Có nhiều phương pháp dự báo khoa học, song cần kể đến một số phương pháp  cơ bản: phương pháp ngoại suy, phương pháp đánh giá ý kiến chuyên gia, phương  pháp mô hình hoá… 
+a. Phương pháp ngoại suy 
+Là phương pháp dự báo tương lai của đối tượng bằng cách suy trực tiếp từ xu thế  phát triển hiện tại của nó (Phương pháp này còn gọi là phương pháp ngoại suy xu hướng). - Cơ sở của phương pháp này là những nguyên lý về sự phát triển của sự vật, hiện  tượng trong phép biện chứng duy vật… 
+Muốn thực hiện được phương pháp ngoại suy cần phải có những điều kiện  thích hợp sau: 
++ Đối tượng của dự báo phải hình thành được quy luật trong quá trình vận  động của nó. 
++ Đối tượng dự báo là những hiện tượng hay quá trình có “sức ỳ” rõ rệt - nghĩa là quá trình sau được bảo tồn, duy trì những xu hướng, những quan hệ cấu  trúc của quá trình trước. 
++ Tương lai phải là môi trường tương đối ổn định, ít thay đổi và đặc biệt  không có biến động. 
+Như vậy, phương pháp ngoại suy có thể được áp dụng rộng rãi và có kết quả  tốt nếu đối tượng cần dự báo có một lịch sử lâu dài rõ rệt. Phương pháp này  thường áp dụng cho dự báo cấp 1(cơ sở xuất phát của dự báo là khả năng đã được  xác định của tiến bộ khoa học, công nghệ và thông thường phù hợp với kế hoạch  phát triển kinh tế - xã hội). 
+b. Phương pháp dự báo qua các ý kiến chuyên gia 
+Đây là phương pháp trưng cầu các ý kiến các chuyên gia. Về thực chất, phương  pháp chuyên gia là phương pháp dự báo từ các thông số do các chuyên gia đưa lại; là  sự huy động trình độ lý luận uyên bác, thành thạo chuyên môn, phong phú về kinh  nghiệm, thực tiễn và khả năng nhạy cảm về tương lai của các nhà khoa học đầu ngành. 
+Thực hiện phương pháp chuyên gia cần phải qua các bước sau:
+18 
+  
++ Lập một nhóm công tác có nhiệm vụ trưng cầu ý kiến các chuyên gia, xử lý tài  liệu do các chuyên gia đặt ra, tìm kiếm các chuyên gia có trình độ thích hợp với việc  dự báo đối tượng. 
++ Làm chính xác các phương hướng cơ bản của sự phát triển của đối tượng dự  báo. Xây dựng hệ thống các câu hỏi đề nghị các chuyên gia cho ý kiến trả lời. + Tiến hành xử lý các đánh giá của chuyên gia. 
+Phương pháp chuyên gia có ưu điểm là có tầm dự báo rộng, có thể dự báo được  những đối tượng có cấu trúc phức tạp. Nhưng phương pháp này cũng có nhược điểm là  tính khách quan bị hạn chế. Chính vì vậy, hiệu quả của phương pháp này tuỳ thuộc vào  sự lựa chọn hội đồng chuyên gia và biện pháp, hình thức tổ chức hoạt động của nó. 
+c. Phương pháp mô hình hoá 
+Là phương pháp dự báo bằng cách mô hình hoá các quá trình và hiện tượng để  nghiên cứu và dự báo tương lai của chúng. Phương pháp mô hình hoá là phương pháp  người ta không trực tiếp nghiên cứu chính đối tượng, mà nghiên cứu và dự báo thông  qua mô hình của nó và sau đó chuyển dịch kết quả vào đối tượng dự báo. Mô hình hoá  thường được tiến hành theo ba bước: 
+- Lập mô hình của đối tượng dự báo. 
+- Thí nghiệm trên mô hình. 
+- Dựa vào sự tương đồng giữa mô hình và đối tượng để chuyển dịch các kết quả  nghiên cứu trên mô hình sang đối tượng. 
+Trên đây là một số phương pháp thường được sử dụng trong nghiên cứu khoa học.  Tuy nhiên, khi lựa chọn và sử dụng các phương pháp nghiên cứu trên cần lưu ý: + Phải căn cứ vào mục tiêu và loại hình nghiên cứu của đề tài mà lựa chọn  phương pháp cho phù hợp. 
++ Không thể và không bao giờ có một hay một số phương pháp nghiên cứu thích  hợp cho mọi loại đề tài. Cũng không thể có một đề tài nào đó chỉ sử dụng một phương  pháp nghiên cứu duy nhất. 
++ Bản thân mỗi đề tài bao giờ cũng đòi hỏi một hệ các phương pháp nghiên cứu  để bổ xung cho nhau, giúp cho người nghiên cứu trong việc thu thập, phân tích, xử lý,  kiểm tra thông tin, thể hiện kết quả nghiên cứu…
+19 
+  
+1.2. Một số quan điểm phương pháp luận nckhgd 
+Cơ sở phương pháp luận nghiên cứu khoa học giáo dục là những luận điểm chung,  có tính chất phương hướng, chỉ đạo quá trình NCKHGD. Những luận điểm này còn  được gọi là phương pháp tiếp cận hay quan điểm tiếp cận đối tượng. Quan điểm  phương pháp luận có ý nghĩa to lớn đối với quá trình nghiên cứu; sự thành công hay  thất bại, chất lượng cao hay thấp của công trình khoa học một phần rất lớn phụ thuộc  vào cách tiếp cận đối tượng. Quan điểm phương pháp luận là một hệ thống có thứ bậc.  Quan điểm chung nhất cho mọi lĩnh vực khoa học… Đó là quan điểm duy vật biện  chứng và duy vật lịch sử. Có những quan điểm chung cho nhiều ngành và cũng có  những quan điểm riêng cho một ngành cụ thể. Đối với khoa học giáo dục cần quán  triệt những quan điểm sau đây trong quá trình nghiên cứu của mình. 
+Những tư tưởng của quan điểm hệ thống - cấu trúc, logic - lịch sử, thực tiễn, phát triển,  khách quan được coi như là sợi chỉ đỏ xuyên suốt tiến trình nghiên cứu của nhà khoa học để  tìm ra bản chất và quy luật của hoạt động giáo dục nghề nghiệp. 
+1.2.1. Quan điểm hệ thống cấu trúc 
+Đây là quan điểm triết học có tác dụng làm cơ sở phương pháp luận quan  trọng chỉ đạo cho việc nghiên cứu khoa học giáo dục. Quan điểm hệ thống - cấu  trúc là quan điểm quan trọng nhất của logic biện chứng, yêu cầu xem xét đối  tượng một cách toàn diện nhiều mặt, nhiều mối quan hệ khác nhau, trong trạng  thái vận động và phát triển, với việc phân tích những điều kiện nhất định, để tìm  ra bản chất và quy luật vận động của đối tượng. 
+1. Nội dung quan điểm 
+Để hiểu rõ bản chất của quan điểm hệ thống - cấu trúc, ta cần phân biệt một  số khái niệm. 
+a/ Hệ thống 
+Là một tập hợp các yếu tố nhất định có mối quan hệ biện chứng với nhau tạo thành  một chỉnh thể trọn vẹn, ổn định và có quy luật vận động tổng hợp. 
+Trong thực tiễn mọi sự vật bao giờ cũng là một hệ thống có cấu trúc bởi nhiều bộ  phận, nhiều thành tố. Các bộ phận này có một vị trí độc lập, có chức năng riêng, có  quy luật vận động riêng. Nhưng chúng lại có quan hệ biện chứng với nhau, theo mối  quan hệ vật chất và mối quan hệ chức năng và vận động theo quy luật của toàn hệ  thống. Một hệ thống bao giờ cũng có mối liên hệ với những hệ thống và đối tượng  khác cùng nằm trong một môi trường nhất định. Môi trường chính là hệ thống lớn 
+20 
+  
+chứa các hệ thống nhỏ mà ta đang nghiên cứu và các đối tượng khác bên cạnh nó.  Giữa môi trường và hệ thống có có mối quan hệ hai chiều. Môi trường tác động và quy  định hệ thống, còn hệ thống tác động cải tạo môi trường. 
+b/ Tính hệ thống 
+Là một thuộc tính quan trọng của thế giới, là hình thức diễn đạt tính chất phức  tạp của đối tượng và nó chính là một thông số quan trọng để đánh giá đối tượng. Một  công trình nghiên cứu khoa học phải tìm và phát hiện cho được tính hệ thống của đối  tượng và trình bày nó một cách rành mạch và khúc triết chặt chẽ nhất. Tính hệ thống  có khía cạnh phương pháp luận và khía cạnh ứng dụng. Nhận thức đầy đủ về chúng là  điều quan trọng đối với cả lý luận và thực tiễn. Tính hệ thống là công cụ phương pháp  luận bởi vì việc nghiên cứu những thuộc tính và quy luật của những hệ thống hoàn  chỉnh là cơ sở để xây dựng quy trình nhận thức và phân tích mọi hiện tượng phức tạp.  Chính nó tạo nên giá trị thực tiễn đem lại những kết quả thật sự có ích cho quá trình  nghiên cứu khoa học và công nghệ (NCKH&CN). 
+c/ Phương pháp hệ thống 
+Là con đường nghiên cứu một đối tượng phức tạp. Trên cơ sở phân tích đối  tượng thành các bộ phận, các thành phần để nghiên cứu chúng một cách sâu sắc, tìm ra  tính hệ thống của đối tượng. Phương pháp hệ thống là công cụ của phương pháp luận,  nó giúp ta nghiên cứu thành công một đối tượng phức tạp và cho ta một sản phẩm  khoa học mang tính logic chặt chẽ. 
+d/ Quan điểm hệ thống 
+Là một luận điểm quan trọng chỉ dẫn quá trình nghiên cứu đối tượng phức tạp, là  cách tiếp cận đối tượng bằng phương pháp hệ thống, để tìm ra cấu trúc của đối tượng,  phát hiện ra tính hệ thống, một thuộc tính quan trọng của đối tượng. Quan điểm hệ  thống yêu cầu nghiên cứu đối tượng theo quy luật của cái toàn thể có tính hệ thống và  cái thành phần có mối tương tác biện chứng hữu cơ. Trong mọi lĩnh vực của cuộc  sống, ở các mức độ khác nhau ta đều phát hiện ra tính hệ thống trong các đối tượng. 
+- Đối tượng đơn giản nhất là sự vật, hiện tượng riêng lẻ tồn tại độc lập nhất thời,  ta cô lập để nghiên cứu. 
+- Đối tượng phức tạp hơn, có kết cấu trọn vẹn như một chỉnh thể, một hệ  thống. Đây là một đối tượng rất phổ biến trong NCKH và nó cho chúng ta tri thức  tổng hợp, đầy đủ.
+21 
+  
+- Đối tượng phức tạp nhất là hiện thực bao gồm nhiều khách thể có mối liên hệ  với nhau, tạo thành siêu hệ thống. 
+Đối tượng nghiên cứu của ta có thể được xem xét từ quan điểm “vật tâm” sang “hệ  tâm” rồi “nhiều trung tâm”, “siêu hệ thống”. Tri thức được khám phá theo nhiều bậc thang  từ đối tượng ở dạng cô lập ta có tri thức đặc thù, cá thể, bậc thang thứ hai đối tượng nhận  thức như một hệ thống, một phần của sự phát triển lịch sử. Bậc thang thứ ba cho ta tri thức  tổng hợp, khái quát bao trùm nhiều đối tượng. 
+2. Yêu cầu khi vận dụng quan điểm 
+Nhà nghiên cứu khi xem xét các hiện tượng giáo dục theo quan điểm này cần tìm  hiểu vấn đề trong một hệ thống- cấu trúc. 1/ Nghiên cứu hiện tượng đó một cách toàn  diện, trên nhiều mặt dựa vào việc phân tích đối tượng thành các bộ phận. 2/ Xác định  mối quan hệ hữu cơ giữa các yếu tố của hệ thống để tìm quy luật phát triển của hiện  tượng giáo dục. 3/ Nghiên cứu hiện tượng giáo dục trong mối tương tác với các hiện tượng  xã hội khác, với toàn bộ nền văn hoá xã hội. Tìm môi trường thuận lợi cho sự phát triển  giáo dục. 4/ Trình bày kết quả NCKHGD rõ ràng, khúc triết, theo hệ thống chặt chẽ, có  tính logic cao. 
+Như vậy, NCKHGD theo quan điểm hệ thống - cấu trúc cho phép nhìn nhận một  cách sâu sắc, toàn diện, khách quan về hiện tượng giáo dục, thấy được mối quan hệ  của hệ thống với các đối tượng khác trong hệ thống lớn, từ đó xác định được các con  đường tổng hợp, tối ưu để nâng cao chất lượng giáo dục.  
+1.2.2. Quan điểm logic - lịch sử  
+1. Nội dung quan điểm 
+Quan điểm logic - lịch sử trong NCKH là quan điểm hướng dẫn tiến trình  tìm tòi sáng tạo khoa học. Thực hiện quan điểm này một mặt cho phép ta nhìn  thấy toàn cảnh sự xuất hiện, sự phát triển, diễn biến và kết thúc của các đối tượng  khách quan, mặt khác giúp ta phát hiện quy luật tất yếu của sự phát triển đối  tượng, điều cần đạt tới trong mọi công trình nghiên cứu. 
+a/ Lịch sử 
+Theo quan điểm duy vật biện chứng, lịch sử là sự phát triển, diễn biến có thật của  các hiện tượng và sự vật khách quan. Diễn biến lịch sử phức tạp, quanh co, đầy mâu  thuẫn, trong những hoàn cảnh cụ thể nhất định, chứa đựng cả thành công lẫn thất bại.  Sự diễn biến của lịch sử bao giờ cũng có nguyên nhân, từ nguyên nhân dẫn tới hậu
+22 
+  
+quả. Điều kiện kịch sử thuận lợi thúc đẩy nhanh quá trình lịch sử. Lịch sử là sự thật  khách quan ngoài ý muốn chủ ý của con người. 
+b/ Logic 
+Logic phản ánh trong tư duy của con người qua trình diễn biến lịch sử của hiện  tượng khách quan. Logic là cái tất yếu có quy luật của sự phát triển lịch sử, là trật tự  của quá trình phát triển, là con đường ngắn nhất của diễn biến lịch sử. Logic là kết quả  nhận thức của con người; NCKH chính là phát hiện ra cái logic tất yếu của sự kiện. 
+c/ Quan điểm lịch sử - logic trong NCKHGD chính là việc thực hiện quá trình  nghiên cứu đối tượng bằng phương pháp lịch sử. Tìm hiểu phát hiện sự nảy sinh phát  triển của giáo dục trong những thời gian và không gian cụ thể, với những điều kiện  hoàn cảnh cụ thể, để phát hiện cho được quy luật tất yếu của quá trình sư phạm, quá  trình giáo dục và dạy học. Nghiên cứu giáo dục phải thống nhất của cái lịch sử và cái  logic, từ cái lịch sử tìm ra cái logic, cái logic trên cơ sở của cái lịch sử khách quan.  Logic và lịch sử tuy là hai nhưng lại thống nhất biện chứng với nhau. Xem xét quá  trình diễn biến lịch sử để tìm ra quy luật tất yếu của sự phát triển lịch sử đó. 
+2. Yêu cầu khi vận dụng quan điểm 
+Khi nghiên cứu những vấn đề của khoa học giáo dục nhà nghiên cứu phải thực  hiện các tác động nhận thức, khám phá, phản ánh, sáng tạo đối tượng theo cách tiếp  cận logic - lịch sử. Nguyên tắc lịch sử trong NCKHGD thực hiện nhiều chức năng: 
+a. Dùng các sự kiện lịch sử để minh hoạ, chứng minh làm sáng tỏ các luận điểm  khoa học, các nguyên lý sư phạm hay kết quả của các công trình KHGD. b. Dùng các tài liệu lịch sử, theo một chuẩn mực, để đánh giá những kết luận sư  phạm, đánh giá chân lý khoa học. 
+c. Đưa các kết luận lịch sử, với các quy luật tất yếu, các logic khách quan mà xây  dựng các giả thuyết KHGD và chứng minh các giả thuyết đó. 
+d. Dựa vào xu thế phát triển của lịch sử giáo dục để nghiên cứu thực tiễn giáo  dục, tìm ra những khả năng mới, dự đoán các khuynh hướng phát triển của các hiện  tượng giáo dục. 
+e. Dựa vào lịch sử để thiết kế mô hình các biện pháp, các hình thức giáo dục  mới, thiết kế triển vọng phát triển của quá trình giáo dục. 
+g. Sưu tập, xử lý thông tin, kinh nghiệm giáo dục để giải quyết các nhiệm vụ giáo  dục, để ngăn ngừa và tránh khỏi những sai lầm khuyết điểm có thể lặp lại trong tương lai.
+23 
+  
+Tóm lại, bảo đảm sự thống nhất giữa tính lịch sử và tính logic trong NCKHGD  là tôn trọng lịch sử khách quan, là hiểu thấu được những điều kiện có thật của mọi sự  phát sinh, phát triển, diễn biến của các hiện tượng giáo dục để tìm ra các quy luật phát  triển chung nhất của sự thật lịch sử ấy, giúp các nhà nghiên cứu và hoạt động thực tiễn  giáo dục và các phong trào giáo dục tránh khỏi những vấp váp không cần có. 
+1.2.3. Quan điểm thực tiễn 
+1. Nội dung quan điểm 
+a/ Thực tiễn 
+Thực tiễn giáo dục là hiện tượng khách quan, với những sự kiện phức tạp, với  những diễn biến đa dạng, nhiều khuynh hướng khác nhau; có những thực tiễn giáo dục  tiên tiến, điển hình xuất sắc, có những thực tiễn yếu kém và thực tiễn có nhiều mâu  thuẫn cần giải quyết. Thực tiễn giáo dục đang diễn ra hàng ngày quanh ta. Nghiên cứu  giáo dục là nghiên cứu khám phá các hiện thực giáo dục, tìm ra bản chất, quy luật phát  triển của chúng, để cải tạo chúng, phục vụ cho mục đích giáo dục con người. Thực tiễn  giáo dục là nguồn gốc của các đề tài nghiên cứu, các mâu thuẫn của thực tiễn là những  gợi ý cho các đề tài. Những yêu cầu của thực tiễn giáo dục nhằm nâng cao chất lượng  giáo dục và đào tạo là động lực thúc đẩy quá trình triển khai nghiên cứu. Thực tiễn  giáo dục là tiêu chuẩn để đánh giá các kết quả nghiên cứu giáo dục. Kết quả nghiên  cứu được ứng dụng nhằm cải tạo thực tiễn giáo dục. Vì vậy, thực tiễn giáo dục là  nguồn gốc, là động lực, là tiêu chuẩn và mục đích của toàn bộ quá trình NCKHGD.  Nghiên cứu và ứng dụng là hai mắt xích của chu trình NCKH - nghiên cứu thực tiễn và  ứng dụng kết quả nghiên cứu vào thực tiễn, cải tạo thực tiễn. Vì vậy quan điểm thực  tiễn trong NCKH có một ý nghĩa phương pháp luận tương ứng. 
+b/ Quan điểm thực tiễn 
+Quan điểm thực tiễn trong NCKHGD đòi hỏi NCKHGD bám sát thực tiễn, phục  vụ cho sự nghiệp giáo dục của đất nước. 
+2. Yêu cầu khi vận dụng quan điểm 
+Để thực hiện quan điểm thực tiễn, khi NCKH cần lưu ý những quan điểm sau: - Phát hiện những mâu thuẫn, những khó khăn, những cản trở trong thực tiễn  giáo dục và lựa chọn trong số đó những vấn đề nổi cộm, cấp thiết làm đề tài nghiên  cứu. Như vậy đối tượng nghiên cứu sẽ là một trong những vấn đề của thực tế khách  quan, có nhu cầu cấp thiết phải nghiên cứu và giải quyết.
+24 
+  
+- Phân tích sâu sắc những vấn đề của thực tiễn giáo dục, tìm cho được bản chất  của chúng. Những thông tin từ thực tiễn giúp ta minh họa, chứng minh cho những  nguyên lý, lý thuyết giáo dục, và giúp ta khái quát tạo thành những quy luật giáo dục  hoặc là hình thành những quy luật giáo dục mới. Những vấn đề của giáo dục hiện nay  thường là: Vấn đề tổ chức, cơ cấu của hệ thống giáo dục quốc dân; vấn đề cải tiến, tìm  tòi những phương pháp dạy học mới trên cơ sở lấy người học làm trung tâm, làm sao  để người học nắm được kiến thức, biết hành động và luôn luôn năng động sáng tạo  trong cuộc sống; vấn đề tìm ra các hình thức tổ chức giáo dục cho SV, phù hợp với lứa  tuổi, phù hợp với hứng thú, với nền văn minh của thời đại; vấn đề tổ chức quản lý giáo  dục, đưa sự nghiệp giáo dục của chúng ta lên tầm cao mới, tiến kịp nền giáo dục thế  giới… 
+- Luôn bám sát thực tiễn giáo dục làm sao cho lý luận và thực tiễn phải luôn gắn  bó với nhau. Tổ chức nghiên cứu, thực nghiệm những lý thuyết KHGD, để kiểm  nghiệm lý thuyết từ đó mà ứng dụng vào thực tiễn một cách có hiệu quả. 
+- Lý luận giáo dục và thực tiễn giáo dục phải song hành. Lý luận không xa rời  thực tế, thực tiễn không thể là chống đối, phủ định lý luận. Lý luận giáo dục chỉ có giá  trị khi nó soi sáng thực tiễn, cải tạo thực tiễn, lý luận phải là những luận điểm có thể  ứng dụng được và đem lại những hiệu quả thiết thực. Thực tiễn là miếng đất phì nhiêu  đem lại sức sống cho lý luận giáo dục. 
+1.3. Phương pháp Nghiên Cứu Khoa học Giáo Dục 
+1.3.1. Khái niệm về phương pháp NCKHGD 
+Phương pháp nghiên cứu khoa học là một phạm trù của khoa học, một điều kiện  đầu tiên, cơ bản nhất của hoạt động nghiên cứu khoa học. Hiệu quả của hoạt động  nghiên cứu khoa học sẽ phụ thuộc vào khả năng chủ thể dùng phương pháp. Phương  pháp mà được sử dụng hợp lý sẽ đem lại kết quả cho cả công trình nghiên cứu.  Phương pháp được sử dụng đúng, phù hợp sẽ đảm bảo cho sự thành công của nhà khoa  học và là điều kiện cơ bản, quyết định để họ có thể hoàn thành thắng lợi công trình nghiên  cứu. 
+1. Khái niệm chung về PPNCKH  
+- Dưới góc độ thông tin thì phương pháp nghiên cứu khoa học là cách thức, con  đường, phương tiện thu thập, xử lý thông tin khoa học (số liệu, sự kiện) nhằm làm  sáng tỏ vấn đề nghiên cứu để giải quyết nhiệm vụ nghiên cứu và cuối cùng đạt tới mục  đích nghiên cứu. Nói cách khác, phương pháp nghiên cứu khoa là những phương thức 
+25 
+  
+thu thập và xử lý thông tin khoa học nhằm mục đích thiết lập nên những mối liên hệ và  quan hệ phụ thuộc có tính quy luật của đối tượng và xây dựng lý luận khoa học mới. - Dưới góc độ hoạt động thì phương pháp nghiên cứu khoa học là hoạt động  có đối tượng, chủ thể (người nghiên cứu) sử dụng những thủ thuật, biện pháp, thao tác tác động để khám phá bản chất của đối tượng nghiên cứu nhằm biến đổi nó theo mục  tiêu mà chủ thể tự giác đặt ra làm thoả mãn nhu cầu nghiên cứu của bản thân cũng như  của xã hội. Như vậy, ta có thể rút ra khái niệm chung về phương pháp NCKH là tổ  hợp các thao tác, biện pháp thực tiễn hoặc lý thuyết mà nhà khoa học sử dụng để nhận  thức khám phá đối tượng, tạo ra hệ thống những kiến thức về đối tượng. Phương pháp nghiên cứu khoa học là sự tích hợp tư tưởng của phương pháp luận,  phương pháp hệ, phương pháp nghiên cứu cụ thể và tuân theo quy luật đặc thù của  việc nghiên cứu đề tài. Kết quả giải quyết các nhiệm vụ nghiên cứu của chủ thể luôn  luôn phụ thuộc vào nội dung của phương pháp luận, tính chất của phương pháp hệ  cũng như phương thức tổ chức và thực hiện một cách nghiêm túc các thao tác khám  phá khoa học. Do đó, nó đòi hỏi ở người nghiên cứu phải có phương thức tiếp cận  đúng đắn với đối tượng, biết tìm, chọn, sử dụng các phương pháp nghiên cứu thích  hợp, hiệu nghiệm. 
+- Hệ thống ba bậc của lý luận về phương pháp 
++ Phương pháp  
+Phương pháp nghiên cứu cụ thể được coi là tổ hợp các cách thức, các thao tác mà  nhà khoa học sử dụng để tác độngvào đối tượng nhằm khám phá ra bản chất, tính quy  luật của nó, thu thập và xử lý thông tin, xem xét, lý giải đúng đắn vấn đề tìm ra cái mới.  Phương pháp nghiên cứu mà chủ thể dùng phải phù hợp với nội dung của các vấn đề  nghiên cứu. Vì vậy, nhà khoa học phải biết cách tìm tòi, lựa chọn và sử dụng các hợp  lý phương pháp nghiên cứu sao cho phù hợp với đặc điểm đối tượng, mục đích, nhiệm  vụ, nội dung và chiến lược nghiên cứu. 
++ Phương pháp hệ 
+Khi giải quyết nhiệm vụ nghiên cứu, các phương pháp nghiên cứu được chủ thể  dùng trong một hệ thống. Phương pháp hệ bao gồm nhóm các phương pháp được sử  dụng trong khi nghiên cứu một lĩnh vực khoa học hay một đề tài cụ thể. Đó là hệ thống  các thủ thuật hoặc biện pháp được dùng để thực hiện các nhiệm vụ nghiên cứu một  cách có trình tự, có hiệu quả cho một công trình nghiên cứu khoa học. Sử dụng phối  hợp các phương pháp nghiên cứu được coi là cách tốt nhất để phát huy điểm mạnh và 
+26 
+  
+khắc phục mặt hạn chế của từng phương pháp. Đồng thời chúng cũng có tác dụng hỗ  trợ, bổ xung, kiểm tra lẫn nhau trong quá trình nghiên cứu và để khẳng định tính xác  thực của các luận điểm khoa học. 
++ Phương pháp luận 
+Phương pháp luận được coi như là lý thuyết về phương pháp nhận thức thế giới  chủ đạo cho việc dùng các thủ thuật nghiên cứu hiện thực, một loại lý luận tổng quát,  những quan điểm triết học chung nhất quy định cách tiếp cận đối tượng và sợi chỉ đỏ  xuyên suốt tiến trình nhận thức, phản ánh, sáng tạo ra cái mới của chủ thể. Những  quan điểm phương pháp luận được coi như là kim chỉ nam cho hoạt động nghiên cứu  của chủ thể khi tìm tòi, nghiên cứu. Phương pháp luận luôn có tác dụng quan trọng,  đóng vai trò chủ đạo, chỉ đường, quy định hiệu quả và chất lượng trong nghiên cứu  khoa học của mọi nhà khoa học. 
+2. Khái niệm về phương pháp NCKHGD 
+PPNCKHGD được xem như là tổ hợp các thao tác, biện pháp thực tiễn hoặc lý  thuyết mà nhà khoa học sử dụng để phát hiện ra những quy luật, giải pháp thực tiễn  giáo dục nhằm thúc đẩy sự hình thành và phát triển nhân cách cho đối tượng theo mục  tiêu đã hướng đích.  
+a/ Đặc điểm của phương pháp NCKHGD 
++ Tính mục đích của phương pháp 
+Phương pháp nghiên cứu khoa học giáo dục luôn được nhà khoa học sử dụng với  mục đích là tìm tòi và sáng tạo khoa học. Mọi hành động nghiên cứu đều có tính mục  đích. Mục đích của công việc nghiên cứu luôn quy định việc lựa chọn phương pháp  của nhà khoa học. phương pháp nghiên cứu được lựa chọn mà càng chính xác thì công  việc sẽ đạt kết quả nhanh. Tính mục đích của phương pháp là nét đặc trưng cơ bản, nổi  bật nhất của nó. ở chủ thể có mục đích nào, thì có sự tìm kiếm phương pháp như thế  ấy. Mục đích chỉ đạo việc chủ thể tìm tòi và lựa chọn phương pháp nghiên cứu. Muốn  cho phương pháp nghiên cứu đạt hiệu quả, hoạt động nghiên cứu thành công chủ thể  cần đảm bảo được hai điều kiện là tiến hành xác định đúng mục đích và tìm ra được  phương pháp thích hợp với mục đích. 
+b/ PPNCKHGD với nội dung vấn đề nghiên cứu 
+Phương pháp được coi như là hình thức vận động của nội dung. Nội dung  nghiên cứu luôn quy định cách thức lựa chọn phương pháp của chủ thể. Trong khi  nghiên cứu những vấn đề của thực tiễn nhà khoa học sẽ tìm kiếm hệ phương pháp 
+27 
+  
+đặc trưng. Trong khi giải quyết nội dung của đề tài nghiên cứu nhà khoa học cần  có một hệ phương pháp cụ thể. Nội dung nào, phương pháp ấy. Sự thống nhất giữa  nội dung và phương pháp thể hiện ở logic phát triển của bản thân đối tượng nghiên  cứu. đúng như Heghen đã khẳng định rằng phương pháp là sự ý thức về hình thức vận  động bên trong của nội dung trong não của chủ thể. Mối quan hệ qua lại của mục đích,  nội dung, phương pháp nghiên cứu sẽ được diễn ra theo quy luật: là mục đích (M) và  nội dung (N) luôn quy định phương pháp (P), còn phương pháp lại là phương tiện để  thực hiện mục đích và nội dung. 
+M N 
+P
+Mối quan hệ giữa mục đích, nội dung, phương pháp trong NCKH 
+Trong khi nghiên cứu, nhà khoa học cần tìm tòi và lựa chọn được phương pháp  sao cho phù hợp, thống nhất với mục đích cũng như nội dung, tức là phải bảo đảm sự  thống nhất biện chứng của mục đích, nội dung và phương pháp nghiên cứu khoa học . 
+c/ PPNCKHGD liên quan chặt chẽ với phương tiện nghiên cứu 
+Phương pháp nghiên cứu khoa học giáo dục được nhà khoa học sử dụng có sự liên quan chặt chẽ với phương tiện nghiên cứu. Trong nghiên cứu khoa học,  phương pháp và phương tiện là hai phạm trù khác nhau song chúng lại tồn tại, vận  hành có sự gắn bó chặt chẽ với nhau. Dựa vào phương tiện mà nhà khoa học tiến  hành lựa chọn phương pháp nghiên cứu cho phù hợp và ngược lại. Mặt khác, tùy  theo đặc trưng của phương pháp nghiên cứu nhà khoa học sẽ tiến hành lựa chọn  phương tiện thực hiện cho phù hợp. Phương pháp nghiên cứu một khi được xác  định lại luôn luôn cần có các phương tiện kỹ thuật đặc biệt hỗ trợ. Phương tiện kỹ  thuật hiện đại, tinh xảo đã tạo ra được những điều kiện thuận lợi cho việc thực hiện  các phương pháp, đảm bảo cho quá trình nghiên cứu đạt tới độ chính xác và sự tin  cậy cao. 
+d/ PPNCKHGD là hệ thống các thao tác được sắp xếp một cách hợp lý Nghiên cứu khoa học là một hoạt động có kế hoạch, có sự tổ chức thực hiện  một cách hợp lý, bao gồm nhiều hành động mà mỗi hành động lại bao gồm một hệ  thống thao tác được xắp sếp tuân thủ logic của đối tượng. Việc chủ thể tiến hành thực  
+28 
+  
+hiện một loạt các hành động nghiên cứu với những thao tác có hệ thống logic chặt chẽ  được sắp xếp theo một trình tự xác định, có kế hoạch rõ ràng theo mục tiêu đã hướng  đích sẽ gọi là sự Algôrit hóa của phương pháp. 
+e/ Tính chủ quan của PPNCKHGD 
+Phương pháp được coi là cách thức làm việc của chủ thể nhà khoa học do họ tự  xác định và lựa chọn. Việc vận dụng phương pháp nghiên cứu luôn bị phụ thuộc vào  năng lực, trình độ, kinh nghiệm của chủ thể. Vì vậy, trong quá trình nghiên cứu khoa  học, công việc nghiên cứu luôn đòi hỏi ở các nhà khoa học phải có trình độ trí tuệ  uyên thâm, năng lực tư duy siêu việt, kinh nghiệm dày dạn, thái độ trung thực, tình  cảm tích cực, ý chí sáng tạo cao, niềm tin khoa học, sự say mê sáng tạo, khát vọng  tưởng tượng sao cho xác định được đúng chiến lược nghiên cứu, kỹ năng nhìn nhận - đánh giá - nhận thức - phản ánh cái mới, khả năng bừng tạo kỹ thuật vv… 
+g/ Tính khách quan của PPNCKHGD 
+Phương pháp được chủ thể dùng luôn phụ thuộc vào đối tượng nghiên cứu. đối  tượng nghiên cứu càng phức tạp nó đòi hỏi chủ thể càng phải có phương pháp tinh vi.  Phương pháp nghiên cứu có hiệu quả chỉ khi nào nó phù hợp với đặc điểm và quy luật  vận động của đối tượng. 
+3. Phân loại phương pháp NCKHGD 
+Khi nghiên cứu khoa học cần sử dụng rất nhiều phương pháp phối hợp các phương  pháp, dùng các phương pháp để hỗ trợ nhau, kiểm tra lẫn nhau và để khẳng định kết quả  nghiên cứu. Vì sự đa dạng của phương pháp mà người ta tìm cách phân loại phương pháp  để tiện sử dụng. Có nhiều cách phân loại phương pháp  
+- Dựa vào quy trình nghiên cứu, người ta chia phương pháp thành ba nhóm: mô  tả, giải thích và chẩn đoán. 
+- Dựa vào các bước của công việc nghiên cứu, người ta chia phương pháp thành  ba nhóm: thu thập, gia công và xử lý thông tin. 
+- Dựa vào trình độ tiếp cận đối tượng nghiên cứu, người ta chia thành ba nhóm:  các phương pháp nghiên cứu thực tiễn, các phương pháp nghiên cứu lý thuyết và  phương pháp nghiên cứu sử dụng toán học. Việc sử dụng hệ thống các phương pháp  phải nhất quán theo một các phân loại. Trong thực tế cách phân loại thứ ba được chấp  nhận rộng rãi. 
+1.3.2. Hệ thống các phương pháp tổng quát trong NCKHGD 
+1. Nhóm các phương pháp nghiên cứu thực tiễn
+29 
+  
+a/ Quan sát sư phạm 
+Quan sát khoa học là phương pháp thu thập thông tin về đối tượng nghiên cứu  bằng cách tri giác trực tiếp đối tượng và các nhân tố khác có liên quan đến đối tượng.  Quan sát với tư cách là phương pháp nghiên cứu khoa học là một hoạt động có mục  đích, có kế hoạch và được tiến hành một cách có hệ thống. Đây là một trong những  hình thức chủ yếu của nhận thức kinh nghiệm, để tạo ra thông tin ban đầu, nhờ có nó  mà sau này xây dựng lý thuyết và kiểm tra lý thuyết bằng thực nghiệm và như vậy nó  là con đường ngắn nghiên cứu lý thuyết với nghiên cứu hoạt động thực tiễn. 
+Quan sát sư phạm là phương pháp thu nhận thông tin về quá trình giáo dục, trên  cơ sở tri giác trực tiếp các hoạt động sư phạm, cho ta những tài liệu sống về thực tiễn  giáo dục để có thể khái quát rút ra những quy luật nhằm chỉ đạo quá trình tổ chức  giáo dục thế hệ trẻ tốt hơn. 
+- Phân loại quan sát 
++ Căn cứ theo dấu hiệu về mối quan hệ giữa người nghiên cứu và đối tượng thì  có các loại hình cụ thể như: Quan sát trực tiếp; quan sát gián tiếp; quan sát công khai,  kín đáo; quan sát có tham dự, không tham dự 
++ Theo dấu hiệu không gian, thời gian tiến hành việc quan sát, người ta thấy có  loại: Quan sát liên tục, gián đoạn; quan sát theo đề tài tổng hợp, theo chuyên đề + Theo mục đích của việc quan sát, người ta thấy có loại: Quan sát khía cạnh,  toàn diện; quan sát có bố trí; quan sát phát hiện, kiểm nghiệm 
+- Chức năng của quan sát 
+Trong nghiên cứu khoa học, phương pháp quan sát được coi như là phương thức  cơ bản để nhận thức thu thập những tài liệu cảm tính về đối tượng sự vật. Quan sát  nhằm những mục đích khác nhau. Nhiệm vụ quan sát được chủ thể thực hiện nhằm  phát hiện vấn đề nghiên cứu, trên cơ sở đó mà làm hình thành nên giả thuyết khoa học  và tiến hành tác động nhằm kiểm chứng nó. Thông qua quan sát để đặt giả thuyết  nghiên cứu, nhà khoa học tiến hành đối chiếu kết quả nghiên cứu lý thuyết với thực  tiễn nhằm xác định xem nó phù hợp hay không phù hợp. 
+- Đặc điểm của quan sát 
+Đối tượng quan sát là hoạt động sư phạm phức tạp mà nó luôn vận động, biến đổi  vì vậy, chủ thể phải biết thực hiện thao tác quan sát tinh vi, linh hoạt và hợp lý theo  cấu trúc của đối tượng. Quá trình quan sát dễ mang dấu ấn chủ quan của nhà nghiên  cứu, đòi hỏi phải thực hiện nhiệm vụ một cách khách quan, khoa học. Chủ thể của các 
+30 
+  
+quá trình quan sát sư phạm là nhà khoa học hay các cộng tác viên. Đó là con người đều  mang lại tính riêng tư, đó là tính chủ quan. Chủ quan ở trình độ, ở kinh nghiệm, ở thế  giới quan, ở cảm xúc tâm lý. Sự quan sát bao giờ cũng thông qua lăng kính chủ quan  của “cái tôi” ngay cả khi sử dụng kỹ thuật hiện đại để quan sát, thí dụ máy quay phim,  “vô tư” làm việc nhưng chính con người cầm máy quay theo góc độ mà họ muốn. Đây  có thể là nguồn gốc của sự sai lệch hay “xuyên tạc” sự thật, chứ chưa kể đến các quy  luật ảo giác của cảm giác, tri giác trong hoạt động nhận thức. Vì vậy khi tiến hành  quan sát, chủ thể phải chú ý tới các quy luật của tri giác. Tài liệu quan sát dù khách  quan đến mấy vẫn phụ thuộc vào việc lựa chọn của người nghiên cứu, do đó cần được lựa  chọn theo các chuẩn nhất định, được xử lý hoá bằng toán học và theo một lý thuyết nhất  định, được hệ thống hoá. 
+- ưu, nhược điểm của phương pháp quan sát sư phạm 
+Phương pháp quan sát sư phạm có ưu điểm là giữ được tính tự nhiên (khách quan  vốn có) của các sự kiện, hiện tượng các biểu hiện trung thực của đời sống tâm lý con  người, cung cấp cho chúng ta những số liệu sống động, cụ thể, phong phú và nhiệm vụ  quan sát được thực hiện một cách đơn giản, không tốn kém. Khi sử dụng phương pháp  này, người quan sát bị đóng vai trò thụ động, phải chờ đợi các diễn biến của hiện tượng,  không thể chủ động làm chúng diễn ra theo ý muốn được. Khi tiến hành quan sát tự nhiên,  nhà nghiên cứu phải biết sử dụng các thiết bị hiện đại để ghi âm ghi hình những biểu  hiện của đối tượng, trên cơ sở đó phải nỗ lực tư duy, tưởng tượng dể xác định bản chất,  quy luật của chúng. Quan sát là phương pháp nghiên cứu các hiện tượng giáo dục. Quan  sát có thể tiến hành trong điều kiện tự nhiên với hoàn cảnh đang có thường ngày. Quan sát  có thể được thực hiện bằng cách tạo ra các tình huống khác thường, trong các hoạt động  được tổ chức có định hướng, qua đó đối tượng tự bộc lộ bản chất rõ ràng hơn. 
+- Yêu cầu của phương pháp quan sát 
+Nhà nghiên cứu phải biết xác định rõ đối tượng quan sát. Quá trình quan sát phải  được tiến hành trong điều kiện tự nhiên của hoạt động mà người bị quan sát không  biết. Người quan sát không nên can thiệp vào hoạt động tự nhiên và làm thay đổi hành  vi của đối tượng nếu là con người. Trong quá trình nghiên cứu, nhà khoa học phải tự  mình tham gia vào các hoạt động lao động, học tập, vui chơi cùng với người được  quan sát để đảm bảo tính tự nhiên của hiện tượng, quá trình nghiên cứu. Chủ thể phải  biết xác định rõ mục đích, nhiệm vụ quan sát, từ đó tiến hành xây dựng kế hoạch và  chương trình của từng quan sát. Điều quan trọng là nhà nghiên cứu phải xác định quan 
+31 
+  
+sát toàn bộ hay có chọn lọc từ đó mới ghi lại tất cả cái gì mắt thấy tai nghe hay những  biểu hiện của một mặt nào đó. Không tiến hành quan sát có chương trình, kế hoạch thì  tài liệu đã thu thập khó đảm bảo được độ tin cậy, không loại trừ hết các nhân tố ngẫu  nhiên, yếu tố này gây nhiễu. Chủ thể phải biết cách ghi lại kết quả quan sát những biểu  hiện của hiện tượng, điều kiện, hoàn cảnh diễn ra sự kiện. Khi quan sát, nhà nghiên  cứu có ghi lại những biểu hiện lâu dài và có hệ thống của đối tượng mới thiết lập  được mối quan hệ, liên hệ bản chất, điển hình của những hiện tượng sự kiện hay quy  luật của các hiện tượng tâm lý khác nhau. Ghi chép kết quả quan sát có thể bằng các cách: Ghi vắn tắt “theo dấu vết”, ghi theo phiếu in sẵn, ghi biên bản, ghi nhật ký, theo  thời gian, không gian, điều kiện và diễn biến của sự kiện. Khi thực hiện nhiệm vụ nghiên  cứu kiểm tra lại kết quả quan sát bằng nhiều cách kể cả việc trò chuyện với người  tham gia tình huống. Mặt khác, nhà nghiên cứu phải biết sử dụng các tài liệu có liên  quan đến diễn biến để đối chiếu các sự kiện với nhau mà rút ra quy luật, bản chất của  đối tượng. Việc quan sát lặp lại lần thứ hai hay nhiều lần nếu thấy cần thiết là cách làm  mà nhà nghiên cứu phải chú ý để có được cứ liệu khách quan. Trong trường hợp đặc  biệt phải biết sử dụng việc người có trình độ cao hơn tiến hành thực hiện nhiệm vụ  quan sát lại để kiểm nghiệm lại các kết quả đã có. Tóm lại, quan sát là phương pháp  nghiên cứu khoa học quan trọng giúp cho chúng ta thu thập được những thông tin thực  tiễn có giá trị. Cần phối hợp quan sát với việc sử dụng các phương pháp nghiên cứu  khác để có thể nhận thức được những thuộc tính bản chất và quy luật của đối tượng. Vì  vậy, phương pháp quan sát cần được chuẩn bị cẩn thận trước khi tiến hành xử lý khách  quan tài liệu. 
+b/ Điều tra giáo dục 
+Điều tra là phương pháp dùng những câu hỏi nhất loạt đặt ra cho một số lớn người  nhằm thu được những ý kiến chủ quan của họ về một vấn đề nào đó. Điều tra giáo dục  thường được tiến hành bằng các phương pháp: Phương pháp điều tra phỏng vấn hay còn  gọi là điều tra bằng trò chuyện (Đàm thoại), Điều tra bằng phiếu (Ankét), Điều tra bằng  trắc nghiệm (TEST) 
+b1. Phương pháp điều tra phỏng vấn 
+- Định nghĩa: Phương pháp điều điều phỏng vấn là phương pháp thu thập thông  tin theo một chương trình đã định qua việc trò chuyện, trao đổi trực tiếp với người  được khảo sát. Đây là phương pháp nghiên cứu mang tính chất độc lập hay bổ trợ  nhằm làm sáng tỏ những điều chưa rõ khi quan sát, do đó cần được thực hiện theo kế 
+32 
+  
+hoạch định trước với những câu hỏi chuẩn bị trước để làm sáng tỏ vấn đề. Các phương  pháp: phỏng vấn, tọa đàm, hỏi chuyện, trưng cầu ý kiến thuộc dòng họ của phương  pháp trò chuyện (Đàm thoại). 
+- ưu, nhược điểm của PP  
++ Ưu điểm: 
+Bằng phương pháp điều tra phỏng vấn có thể khai thác những suy nghĩ nội tâm  của người được nghiên cứu mà các phương pháp khác không làm được. + Nhược điểm:  
+Không thể đảm bảo câu trả lời hoàn toàn trung thực (nhất là khi tâm lý trò  chuyện không thuận lợi, quan hệ không cởi mở, không lịch thiệp, tế nhị và niềm nở  khi trò chuyện). Vì vậy, đây chỉ là phương pháp bổ trợ để thu thập tài liệu bổ sung  hoặc tìm hiểu sơ bộ về đối tượng nghiên cứu trong giai đoạn đầu và chỉ nên sử  dụng phương pháp này trong việc nghiên cứu nhân cách nói chung và một số đặc  điểm tâm lý nói riêng của con người. Mất nhiều thời gian và dễ lạc đề nếu không  chú ý bám sát mục đích nghiên cứu. Những ý kiến thu được có tính chất cá nhân,  nên chưa chắc đã mang tình phổ biến. 
+- Yêu cầu  
+Câu hỏi cần uyển chuyển sinh động và thay đổi theo không khí của buổi toạ đàm. Thái độ trao đổi cần tự nhiên cởi mở. Câu hỏi phải rõ ràng, lý thú phù hợp với vấn đề  mà người ta am hiểu và quan tâm, sao cho người được hỏi có thể trả lời một cách thoải  mái, tự nhiên có chất lượng. 
+b2. Phương pháp điều tra viết (An két)  
+- Định nghĩa 
+Câu hỏi được sử dụng thu thập thông tin dưới dạng viết được gọi là anket. Anket  là bản in những câu hỏi và cả những câu trả lời có liên quan theo những nguyên tắc  nhất định. Bố cục, sự sắp xếp các câu hỏi, ngôn ngữ, văn phong diễn đạt, những chỉ  dẫn về cách trả lời có ý nghĩa đặc biệt quan trọng. Anket có hai loại đóng và mở.  Anket đóng là loại anket mà người trả lời chọn một trong các phương án đã có sẵn để  đánh dấu là loại câu hỏi mà người được hỏi chọn một trong những câu trả lời cho sẵn.  Câu hỏi điều tra sâu nhằm khai thác một số vấn đề chi tiết, những số liệu cụ thể. Loại  câu hỏi này dễ xử lý nhưng tài liệu thu được chỉ đóng khung trong giới hạn của các  câu trả lời đã cho trước. Còn anket mở, người được nghiên cứu phải tự mình biểu đạt  trả lời cho những câu hỏi đặt ra người trả lời có thể bổ sung những phương án mới, ý 
+33 
+  
+kiến mới. Đây là loại câu hỏi phạm vi rộng để thăm dò phát hiện vấn đề. Loại này giúp  ta thu được tài liệu đầy đủ phong phú hơn về đối tượng nhưng rất khó xử lý kết quả  thu được vì các câu trả lời rất đa dạng. Xử lý các kết quả thu được sau điều tra là điều  rất quan trọng. Người ta sử dụng thống kê toán học, máy vi tính để xử lý thông tin, kết  quả đó cho ta những tài liệu khách quan về đối tượng ta cần biết. 
+- ưu, nhược điểm của PP  
+Anket là phương pháp nghiên cứu có nhiều ưu điểm và cũng có nhược điểm.  Anket không phải là phương pháp trưng cầu ý kiến vạn năng. Trong một số trường  hợp, nhờ có anket người ta thu được một số thông tin quan trọng, nhưng trong những  tình huống khác anket lại chỉ đóng vai trò là phương pháp bổ sung. Anket là hình thức  trưng cầu ý kiến nhanh nhất giúp ta thu được những ý kiến cần thiết của số đông và  tiết kiệm được chi phí. Kết quả của anket có thể bị hạn chế do nhiều nguyên nhân như:  Câu hỏi khó hiểu, nhiều nghĩa, sai sót do cách lý giải khác nhau đối với một câu hỏi,  người được hỏi không trả lời trung thực do sợ động chạm đến uy tín, mức độ hiểu biết  thông tin của người được hỏi yếu, xử lý thông tin không thích hợp. 
+- Yêu cầu  
++ Phải xác định rõ mục đích và những đối tượng điều tra.  
++ Phải xây dựng nội dung Ankét với hệ thống câu hỏi và những phương án  trả lời sao cho rõ ràng chính xác, đảm bảo cho tất cả mọi người hiểu dễ dàng và  hiểu như nhau. 
++ Phải hướng dẫn trả lời rõ ràng  
++ Phải xử lý những thông tin cho chính xác khách quan  
+b3. Điều tra bằng trắc nghiệm (TEST) 
+Trắc nghiệm trong nghiên cứu khoa học là phương pháp đo lường khách  quan một hay nhiều khía cạnh của một nhân cách hoàn chỉnh qua những câu trả  lời bằng ngôn ngữ hay phi ngôn ngữ (ký hiệu) hoặc bằng những loại hành vi khác  (như biểu hiện tâm lý ...) 
+- Đặc điểm 
++ Tính tiêu chuẩn hoá của việc trình bày và xử lý kết quả . 
++ Tính không phụ thuộc của kết quả vào nhân cách nhờ nghiên cứu và tình  huống trắc nghiệm. 
++ Tính đối chiếu của tài liệu cá nhân với tài liệu chuẩn. 
+- ưu, nhược điểm của Test:
+34 
+  
+Test có ưu điểm: Tính ngắn gọn, tính tiêu chuẩn, tính đơn giản về kĩ thuật và  thiết bị, sự biểu đạt kết quả dưới hình thức số lượng (lượng hoá cao). Test có tác dụng  tích cực là tiến hành nhanh chóng, tốn ít thời gian, đảm bảo tính khách quan trong  đánh giá; khảo sát được một giới hạn rộng về nội dung của các môn học hoặc bài học;  gây hứng thú và kích thích tính tích cực học tập của sinh viên. 
+- Nhược điểm của Test: Tính không rõ ràng về bản chất tâm lý của cái được xác  định bằng Test, chỉ quan tâm tới kết quả thống kê mà ít chú ý đến quá trình diễn biến  của kết quả, dễ bị đánh tráo đối tượng nghiên cứu, không tính đến sự phát triển của  năng lực nói riêng của tâm lý nói chung, không tính đến các nhân tố đa dạng có ảnh  hưởng đến kết quả. Vì vậy, Test được coi là phương pháp nghiên cứu khoa học nhưng  chỉ đóng vai trò bổ trợ, cho phép thu được tài liệu định hướng có giá trị. Có thể sử  dụng nhiều loại Test tuỳ theo cách đặt câu hỏi trắc nghiệm khác nhau. Thông thường  sử dụng các loại Test sau: 
+Trắc nghiệm đúng, sai (có, không): Trắc nghiệm đúng sai là những câu hỏi  cần có câu trả lời lựa chọn trong đó người trả lời phải chọn một trong hai câu trả  lời đã cho trước. 
+Trắc nghiệm nhiều lựa chọn (đa phương án) là một trong những dạng trắc  nghiệm phổ biến, linh hoạt và đa dạng nhất. Câu hỏi lựa chọn đa phương án là câu hỏi  lựa chọn trong đó người được điều tra được yêu cầu lựa chọn câu trả lời đúng trong  các phương án trả lời đã cho. Mỗi câu chứa một phần gốc, cốt lõi; nó cung cấp câu hỏi  trung tâm hay vấn đề trung tâm mà đối tượng phải trả lời. Mỗi câu có nhiều câu trả lời  mà đối tượng phải lựa chọn ra câu đúng. Những câu không đúng gọi là câu nhiễu. 
+Trắc nghiệm đối chiếu cặp đôi (ghép đôi): Câu hỏi trắc nghiệm đối chiếu  ghép đôi thường có hai dãy thông tin: Một dãy là danh mục thông tin dẫn, dãy kia  là danh mục các câu đáp. Nhiệm vụ của đối tượng là ghép chúng thành từng đôi  sao cho phù hợp nhất. 
+Trắc nghiệm điền thế (điền khuyết): Loại câu hỏi này cấn cung cấp câu trả  lời bằng một từ hay một số từ cho một câu hỏi trực tiếp hay một câu nhận định  chưa đầy đủ. 
+Mỗi loại test đều có ưu, nhược điểm riêng. Dùng test phải đúng mục đích, đúng  lúc, đúng chỗ; cần có những chuẩn hoá hình thức đơn giản, tuỳ theo điều kiện, hoàn  cảnh và tình huống cụ thể mà lựa chọn sử dụng và phối hợp tối ưu các test để đạt được  hiệu quả của hoạt động
+35 
+  
+- Test khi sử dụng cần đảm bảo các yêu cầu:  
++ Tính tin cậy: Khi dùng các hình thức khác nhau của cùng một Test hoặc tiến  hành cùng một Test nhiều lần trên cùng một đối tượng (cá nhân hay nhóm) đều thu  được kết quả giống nhau. 
++ Tính ứng nghiệm (hiệu lực): Test phải đo dược chính xác cái định đo. + Tính quy chuẩn: Test phải được thực hiện theo thủ tục tiêu chuẩn và phải có  những quy chuẩn, được căn cứ theo một nhóm chuẩn và nhóm này phải đông đảo và  mang tính chất giống với những người sau này đưa ra trắc nghiệm nghĩa là phải đại  diện cho một quần thể (dân số). Các quy chuẩn của nhóm là một hệ thống các chuẩn  cứ để kiến giải kết quả trắc nghiệm của bất cứ một cá nhân nào. 
+c/ Phương pháp tổng kết kinh nghiệm giáo dục 
+Sự nghiệp giáo dục của chúng ta phát triển hết sức mạnh mẽ và đem lại những  thành tựu to lớn. Các nhà giáo trong công tác của mình đã tích luỹ được nhiều kinh  nghiệm, trong hoạt động giáo dục đã đào tạo được nhiều thế hệ thanh niên ưu tú, đầy  tài năng phục vụ cho đất nước. Những kinh nghiệm này cần phải được nghiên cứu,  tổng kết và đây chính là một phương pháp cho ta những thông tin thực tiễn có giá trị. 
+- Mục đích của tổng kết kinh nghiệm giáo dục 
++ Tìm hiểu bản chất, nguồn gốc, nguyên nhân và cách giải quyết những tình huống  giáo dục đã xảy ra trong một lớp học, một trường hay một địa phương. + Nghiên cứu con đường thực hiện có hiệu quả quá trình giáo dục và dạy học ở  các cơ sở. 
++ Tổng kết các sáng kiến của các nhà sư phạm tiên tiến. 
++ Tổng kết những nguyên nhân, để loại trừ những sai lầm, thất bại trong hoạt  động giáo dục, loại bỏ những khuyết điểm có thể lặp lại. 
+ Tổng kết kinh nghiệm giáo dục mang tính quần chúng rộng rãi. Tuy nhiên cần  chú ý tổng kết kinh nghiệm giáo dục tiên tiến để từ đó kiểm tra lý thuyết và cũng từ đó  mà tổng kết tạo nên những lý thuyết mới có giá trị. 
+- Có hai loại kinh nghiệm giáo dục tiên tiến: 
+Một là: Nghệ thuật sư phạm, trong việc thực hiện tốt quá trình giáo dục và dạy  học trên cơ sở ứng dụng thành tựu của khoa học giáo dục. 
+Hai là: Những sáng kiến giáo dục và dạy học, nghĩa là việc các nhà sư phạm tìm  được những con đường mới có giá trị thực tiễn cao. 
+- Tiêu chuẩn để lựa chọn những kinh nghiệm giáo dục tiên tiến:
+36 
+  
++ Cái mới trong hoạt động giáo dục: Đề xuất mới cho khoa học, ứng dụng có  hiệu quả, luận điểm giáo dục mới hay phát hiện mới về tính hợp lý, có hiệu quả của  một giải pháp trong quá trình giáo dục. 
++ Chất lượng và hiệu quả giáo dục cao: Thể hiện trong giáo dục nhân cách,  trong tiếp nhận tri thức khoa học hay hình thành các kỹ năng thực hành của SV. + Phù hợp với những thành tựu khoa học giáo dục tiên tiến trong nước và trên thế giới. + Tính ổn định: kết quả giáo dục đạt được đúng với mọi điều kiện, mọi trường  hợp. Đây là kết quả phù hợp với quy luật, với xu thế chung, không phải ngẫu nhiên.  + Có khả năng ứng dụng được: Các nhà giáo khác dễ hiểu và có thể sử dụng  được vào công việc của mình có kết quả. 
++ Đó là kinh nghiệm tối ưu: Nghĩa là hiệu quả công việc cao nhất, trong khi thời  gian và sức lực lại sử dụng ít nhất, tiết kiệm nhất. 
+- Tổng kết kinh nghiệm giáo dục không phải là hiện tượng tự phát hay hoạt động  có tính chất phong trào mà là một hoạt động có mục đích, một phương pháp nghiên  cứu khoa học, tổng kết khoa học. 
+Tổng kết kinh nghiệm sư phạm bắt đầu từ việc phát hiện ra một sự kiện nổi bật  nào đó của thực tiễn giáo dục mà các giải pháp của nó đem lại kết quả có giá trị thực  tiễn hay lý luận và ngược lại giải pháp của nó đem lại những hậu quả xấu. Như vậy  tổng kết kinh nghiệm sư phạm là tìm ra được các điển hình tích cực hoặc tiêu cực để  phổ biến áp dụng và cũng để ngăn ngừa khả năng lặp lại ở những khu vực khác. 
+- Các bước tiến hành của tổng kết kinh nghiệm là: 
++ Chọn điển hình tốt hoặc xấu của thực tiễn giáo dục; 
++ Mô tả sự kiện đó trên cơ sở quan sát, phỏng vấn, tọa đàm, nghiên cứu tài liệu,  sản phẩm của sự kiện để tìm tài liệu về sự kiện; 
++ Khôi phục lại sự kiện đã xảy ra bằng mô hình lý thuyết; 
++ Phân tích từng mặt của sự kiện, phân tích nguyên nhân sự kiện, hoàn cảnh xảy  ra sự kiện và kết quả sự kiện đã xảy ra như thế nào? Phân tích bản chất của từng vấn  đề, từng sự kiện đã xảy ra; 
++ Hệ thống hoá các sự kiện đó, phân loại những sản phẩm. Những nguyên  nhân, hệ quả, những nguồn gốc, sự diễn biến, quy luật diễn biến theo quy luật  nhân quả; 
++ Sử dụng trí tuệ tập thể của nơi xảy ra sự kiện để phân tích trao đổi diễn biến, hệ  quả của sự kiện, những tài liệu của nhân chứng;
+37 
+  
++ Viết thành văn bản tổng kết trên cơ sở đối chiếu với những lý luận giáo dục  tiên tiến. Đánh giá những kết quả, kinh nghiệm, bằng đối chiếu với thực tiễn khác, làm  sao để tài liệu tổng kết có giá trị về lý luận, có ý nghĩa thực tiễn. Kinh nghiệm sư phạm  phải nêu rõ được bản chất, nguồn gốc sự kiện cơ chế hình thành và quy luật phát triển,  nguyên nhân và hậu quả, để tìm được các điển hình cùng một dạng như vậy việc phổ  biến kinh nghiệm có giá trị hơn. 
+- Các con đường phổ biến kinh nghiệm giáo dục 
+Kinh nghiệm sư phạm cần được phổ biến rộng rãi. Con đường để phổ biến thường  là: 
++ Thông qua các hội thảo khoa học, hội nghị sư phạm, tổng kết liên hoan các đơn  vị tiên tiến trong ngành giáo dục; 
++ Phổ biến của các nhà khoa học, các chuyên gia về các lĩnh vực giáo dục đối  với các trường, các cơ sở giáo dục khác; 
++ Thông qua các ấn phẩm, các tài liệu về phương pháp giáo dục, trên tạp chí,  báo trung ương, địa phương, báo ngành… 
+- ưu, nhược điểm của PP  
++ ưu điểm: kinh nghiệm sư phạm là kinh nghiệm sống, có thực nên có nhiều giá  trị thực tiễn dễ đem ứng dụng ngay. Nó là kinh nghiệm ít nhiều đã thành công, chọn  PP này chủ động hơn, tập trung hơn vào các nhiệm vụ nghiên cứu so với PP quan sát.  Kinh nghiệm sống thường sinh động, nhiều mặt. Do đó, nó có khả năng cung cấp tài  liệu dễ đúc kết ở nhiều khía cạnh, phong phú. PP này gần gũi với PP đúc rút kinh  nghiệm, công tác mà ta vẫn quen làm, dễ quen thuộc có nhiều khả năng đạt kết quả tốt. 
++ Nhược điểm của PP: phương pháp phân tích và tổng kết kinh nghiệm giáo dục  đòi hỏi nhà nghiên cứu phải có phẩm chất, năng lực chuyên môn, nghiệp vụ, trình độ  lý luận khoa học giáo dục. Nếu chính tác giả phải tự trình bày lại kinh nghiệm của  mình thì sẽ tránh khỏi tác động của tính chủ quan. Những bài học lớn thường có nhiều  mặt liên quan đến nhiều lĩnh vực khác nhau của khoa học giáo dục và cả những khoa học  khác. Vì vậy, đòi hỏi phải phối hợp nhiều ngành mà không phải lúc nào ta cũng làm được. 
+- Yêu cầu 
+Các nhà nghiên cứu phải phát hiện và giới thiệu đầy đủ những kinh nghiệm của  mọi cán bộ giáo dục, dù kết quả chưa cao, chưa thật rõ, cần thẩm tra kỹ, thể nghiệm  đầy đủ thời gian, thu thập từ nhiều nguồn xác nhận, phân loại kinh nghiệm, đánh giá  chính xác hiệu quả đã đạt được nhờ kinh nghiệm này. Đối với những kinh nghiệm đã 
+38 
+  
+được khảng định, cần có quá trình nghiên cứu để dựng lại nó một cách đầy đủ, chính  xác nhất. Những lý luận đã tổng kết được phải được tiếp tục khảng định và phát triển.  Việc vận dụng những kinh nghiệm đó vào thực tiễn bằng việc “chỉ đạo điểm” và bằng  những “thực nghiệm khoa học”. 
+d/ Thực nghiệm sư phạm  
+Thực nghiệm là phương pháp mà nhà khoa học chủ động tạo các điều kiện tự  nhiên hoặc trong phòng thí nghiệm được khống chế nhất định để có thể đo đạc tỷ  mỉ, đánh giá chính xác sự biến đổi làm cơ sở cho việc nhận thức thuộc tính bản  chất của các sự vật hay hiện tượng dưới tác động nghiên cứu. Thực nghiệm là  phương pháp đặc biệt, cho phép tác động lên đối tượng nghiên cứu một cách chủ  động; can thiệp có ý thức vào quá trình diễn biến của tự nhiên, để hướng quá trình  ấy diễn ra theo mục đích mong muốn. 
+Thực nghiệm sư phạm là phương pháp thu nhận thông tin về sự thay đổi số lượng và  chất lượng trong nhận thức và hành vi của các đối tượng giáo dục do nhà khoa học tác động  đến chúng bằng một số tác nhân điều khiển và đã được kiểm tra. 
+- Phân loại 
++ Thực nghiệm tự nhiên; 
++ Thực nghiệm trong phòng thí nghiệm. 
+- Đặc điểm của phương pháp thực nghiệm 
++ Thực nghiệm khoa học được tiến hành xuất phát từ một giả thuyết hay một  phỏng đoán về một hiện tượng giáo dục, cho rằng trong sự phát triển của hiện tượng  ấy có những biến số quan trọng và có những biến số thứ yếu không cần chú ý tới.  Thực nghiệm được tiến hành để kiểm tra, để chứng minh tính chân thực của giả thuyết  vừa nêu. Như vậy thực nghiệm thành công sẽ góp phần tạo nên một lý thuyết mới. 
++ Kế hoạch thực nghiệm đòi hỏi phải miêu tả hệ thống các biến số quy định  diễn biến của hiện tượng giáo dục theo một chương trình. Đây là những biến số  độc lập, có thể điều khiển được và kiểm tra được. Biến số độc lập là những nhân  tố thực nghiệm nhờ chúng mà sự kiện sẽ diễn ra khác trước. Sự diễn biến khác  trước do các biến số độc lập quy định gọi là biến số phụ thuộc, đó là hệ quả sau  tác động thực nghiệm. 
++ Theo mục đích kiểm tra giả thuyết, cái nghiệm thể được chia thành hai  nhóm: nhóm thực nghiệm và nhóm kiểm chứng (đối chứng). Nhóm thực nghiệm  và nhóm đối chứng được chọn ngẫu nhiên có số lượng, trình độ ngang nhau và 
+39 
+  
+được kiểm tra chất lượng ban đầu để khẳng định điều đó. Nhóm thực nghiệm sẽ  được tổ chức thực nghiệm bằng tác động của biến số độc lập hay gọi là nhân tố  thực nghiệm, để xem xét diễn biến của hiện tượng có theo đúng giả thuyết hay  không. Nhóm đối chứng là nhóm không thay đổi bất cứ một điều gì khác thường,  nó là cơ sở để so sánh kiểm chứng hiệu quả của những thay đổi ở nhóm bên. Nhờ  có nó mà ta có cơ sở khẳng định hay phủ định giả thuyết của thực nghiệm. 
+- Tổ chức thực nghiệm sư phạm 
++ Một thực nghiệm sư phạm thường bắt đầu từ việc các nhà khoa học phát hiện ra  các mâu thuẫn giáo dục nhưng chưa có biện pháp khắc phục. Từ mâu thuẫn này, đề xuất  các giả thuyết khoa học và các biện pháp khắc phục để nâng cao chất lượng giáo dục. 
++ Trên cơ sở giả thuyết, phân tích các biến số độc lập và chọn các nhóm thực  nghiệm và đối chứng tương đương nhau về mọi phương diện, và tiến hành thực  nghiệm trong điều kiện hoàn toàn giống nhau. 
++ Tiến hành thực nghiệm đối với nhóm thực nghiệm và quan sát tỉ mỉ diễn biến  và kết quả của hai nhóm một cách thật sự khách quan theo từng giai đoạn. + Xử lý tài liệu thực nghiệm là giai đoạn phân tích các kết quả khảo sát điều  tra, theo dõi sự diễn biến của nhóm thực nghiệm, các tài liệu được phân tích, sắp xếp,  phân loại và xử lý theo các công thức toán học, đánh giá trên cơ sở so sánh với kết quả  của nhóm đối chứng. Nhờ sự thuần nhất trong tiến hành thực nghiệm, sử dụng một  cách thích hợp các phương pháp phân tích, thống kê kết quả thực nghiệm, ta có thể  khẳng định mối liên hệ của các biến số trong nghiên cứu không phải là ngẫu nhiên mà  là mối liên hệ nhân quả, xét theo tính chất của nó. 
++ Kết quả xử lý tài liệu cho chúng ta những cơ sở để khẳng định giả thuyết, rút ra  những bài học cần thiết và đề xuất những ứng dụng vào thực tế. 
+- ưu, nhược điểm của các phương pháp thực nghiệm 
+Trong các phương pháp nghiên cứu sư phạm, phương pháp thực nghiệm là một  phương pháp có khả năng lớn nhất khi cần nghiên cứu sâu cấu trúc, bản chất, các mối  quan hệ và quy luật của các đối tượng cần nghiên cứu. Phương pháp này có thể được  làm đi làm lại nhiều lần lên đối tượng cần nghiên cứu để có thể thu được những kết  quả khách quan và giống nhau phản ánh những mối liên hệ có tính quy luật. Thực  nghiệm sư phạm không chỉ có khả năng kiểm chứng các giả thiết mà qua đó có khả  năng phát hiện nhiều vấn đề mới trong lĩnh vực nghiên cứu. Tuy nhiên, cũng như bất 
+40 
+  
+cứ một phương pháp nào, phương pháp thực nghiệm sư phạm cũng có nhiều hạn chế  nổi bật là phương pháp này chỉ có thể cho phép nghiên cứu, kiểm nghiệm mối quan hệ  nhân quả của một số ít nhân tố tác động với đối tượng nghiên cứu trong khi các đối  tượng nghiên cứu rất phức tạp và chịu nhiều yếu tố tác động. Phương pháp này đòi hỏi  có đầu tư lớn về nhân lực, thời gian, phương tiện do vậy rất tốn kém và không phải lúc  nào cũng thoả mãn. Trong thực tế, việc lựa chọn các tập mẫu thực nghiệm đảm bảo  đầy đủ các yêu cầu về số lượng và đặc trưng đại diện là một việc hết sức khó khăn. Do  vậy, các kết luận khái quát rút ra từ thực nghiệm có thể chưa phản ánh đầy đủ bản chất  của đối tượng nghiên cứu. 
+- Yêu cầu khi tiến hành phương pháp thực nghiệm 
+Để đảm bảo tính phổ biến của kết quả thực nghiệm, điều cần chú ý là phải chọn đối  tượng tiêu biểu để nghiên cứu, cần tiến hành ở nhiều địa bàn, trên các đối tượng khác  nhau, và cần thiết hơn nữa là tiến hành thực nghiệm lặp lại nhiều lần trên cùng một đối  tượng ở các thời điểm. Kết quả thực nghiệm sư phạm là kết quả khách quan nhất trong các  kết quả nghiên cứu bằng các phương pháp khác nhau. 
+e/ Phương pháp lấy ý kiến chuyên gia 
+Phương pháp lấy ý kiến chuyên gia là phương pháp thu thập thông tin khoa học,  nhất định, đánh giá một sản phẩm khoa học, bằng cách sử dụng trí tuệ một đội ngũ  chuyên gia có trình độ cao về một lĩnh vực nhất định, ý kiến của từng người sẽ bổ sung  lẫn nhau, kiểm tra lẫn nhau cho ta một ý kiến đa số, khách quan về một vấn đề khoa  học giáo dục. 
+- ưu, nhược điểm của PP  
+Phương pháp lấy ý kiến chuyên gia rất tinh tế, là phương pháp tiết kiệm nhất về  thời gian, sức lực và tài chính để triển khai nghiên cứu. Phương pháp lấy ý kiến  chuyên gia là một trong những phương pháp nghiên cứu sư phạm có hiệu quả trong  nhiều lĩnh vực nghiên cứu. Phương pháp này cho phép thu thập được một lượng thông  tin có giá trị là khá lớn trong một thời gian ngắn, ít tốn kém cơ sở vật chất và thời gian.  Đặc biệt đối với những vấn đề nghiên cứu phức tạp đòi hỏi phải đề cập đến nhiều khía  cạnh khác nhau hoặc quá trình phát triển phức tạp thì phương pháp chuyên gia có ưu  thế hơn hẳn so với các phương pháp khác như: quan sát, thực nghiệm…. Phương pháp  chuyên gia có thể sử dụng có hiệu quả ngay trong giai đoạn đầu của quá trình nghiên  cứu khi người chủ trì đề tài cần xác định rõ đối tượng, nhiệm vụ, nội dung và phương  pháp nghiên cứu (giai đoạn chuẩn bị và lập đề cương nghiên cứu) cũng như trong giai 
+41 
+  
+đoạn tiến hành nghiên cứu và tổng kết các kết quả nghiên cứu. Cũng như bất cứ một  phương pháp nghiên cứu nào, phương pháp chuyên gia cũng mang trong nó những  nhược điểm và hạn chế nhất định. Nhược điểm cơ bản của phương pháp này là khó thu  thập được các ý kiến hoàn toàn khách quan về vấn đề cần quan tâm. Nhiều khi những  tri thức thu được nhiều khi dựa trên cơ sở trực giác hay là kinh nghiệm của các chuyên  gia. Các thông tin thu thập được có giá trị phụ thuộc vào bản thân của người chuyên  gia đó (trình độ nghề nghiệp, quan điểm khoa học, các định kiến cá nhân)…Đặc biệt  các ý kiến trao đổi, đóng góp của các chuyên gia thường thường chỉ phản ánh một khía  cạnh về vấn đề nghiên cứu mà chuyên gia đó am hiểu và có nhiều nghiệm vì vậy dễ  xuất hiện xu hướng cực đoan hoặc phiến diện khi nhìn nhận vấn đề nghiên cứu. ý kiến  cũng dễ bị chi phối bởi quan hệ cá nhân giữa chuyên gia và người nghiên cứu. Để sử  dụng tốt phương pháp này, người nghiên cứu cần tìm hiểu kỹ lý lịch khoa học của  người chuyên gia, thấy rõ những mặt mạnh và mặt yếu của họ trong lĩnh vực mà người  nghiên cứu quan tâm. Các ý kiến chuyên gia cần được sàng lọc, phân tích, tổng hợp kỹ  lưỡng để rút ra những thông tin, những kết quả bổ ích cho người nghiên cứu. 
+- Sử dụng phương pháp này cần thực hiện các yêu cầu sau 
++ Chọn đúng chuyên gia, có năng lực chuyên môn theo vấn đề mà ta nghiên cứu.  Những chuyên gia này phải có phẩm chất trung thực khoa học. 
++ Xây dựng được hệ thống các chuẩn đánh giá cho các tiêu chí cụ thể, dễ hiểu và  tường minh, nếu có thể dùng điểm số thay thế. 
++ Hướng dẫn kỹ thuật đánh giá, theo các thang điểm và các chuẩn khách quan,  giảm tới mức tối thiểu những sai lầm có thể xảy ra. 
++ Hạn chế mức thấp nhất ảnh hưởng qua lại của các chuyên gia về chính kiến,  quan điểm cho nên tốt nhất là không phát biểu công khai hoặc là nếu công khai thì  người có uy tín nhất không phải là người phát biểu đầu tiên. Có thể tiến hành phương  pháp này qua hình thức hội thảo, tranh luận, đánh giá, nghiệm thu công trình khoa  học. Người chủ trì phải ghi chép chu đáo các ý kiến của từng người, nếu thấy cần  thiết phải ghi âm, quay phim hoặc có văn bản do chuyên gia tốc ký. Tất cả các tư  liệu thu được phải xử lý theo cùng một chuẩn, một hệ thống các ý kiến trùng nhau  hay gần nhau của đa số chuyên gia sẽ là kết luận chung về sự kiện ta cần nghiên  cứu. Phương pháp này được sử dụng ở giai đoạn cuối cùng, hoặc khi các phương pháp  nghiên cứu khác không có kết quả. 
+g/ Nghiên cứu sản phẩm hoạt động sư phạm
+42 
+  
+Con người hoạt động và kết quả là làm ra sản phẩm, đó là thành quả độc đáo cá  nhân. Sản phẩm hoạt động của cá nhân để lại dấu ấn của năng lực và phẩm chất của  họ. Sản phẩm hoạt động cá nhân hay của tập thể là tài liệu khách quan quý giá để  nghiên cứu chủ thể hay quá trình hoạt động của chủ thể đó. Phân tích các sản phẩm hoạt  động của người học, của thầy giáo, của một trường, của một tập thể cho ta biết những  thông tin về các cá nhân hay tập thể ấy, về hoạt động dạy và học, về phong trào chung, về  nền nếp tổ chức và bầu không khí, môi trường giáo dục. Nghiên cứu sản phẩm học tập  của người học cho phép ta xác định được khả năng nhận thức, trình độ phát triển trí  tuệ, thái độ, hứng thú, xu hướng của họ trong học tập, trong sinh hoạt, tu dưỡng bản  thân họ. Nghiên cứu sản phẩm của thầy giáo ta biết được trình độ nghiệp vụ, kiến thức,  đặc điểm tính cách và khả năng vươn tới của thầy giáo… 
+- ưu, nhược điểm của PP  
+Nhà nghiên cứu đã bố trí được các sản phẩm hiện hữu của hoạt động tâm lý  người. Điều này cho phép lặp lại nó nhiều lần, so sánh kết quả thu thập được trong các  thời gian khác nhau hay trong các điều kiện khác nhau của con người. Sản phẩm hoạt  động sư phạm không phải lúc nào cũng có thể cho phép ta vạch ra được tất cả sự đa  dạng của hoạt động tâm lý đã tạo ra sản phẩm vật chất. 
+- Yêu cầu  
++ Phương pháp nghiên cứu sản phẩm vật chất hoạt động sư phạm đòi hỏi phải  thu thập nhiều tài liệu khác nhau, phải phân loại và hệ thống hoá tài liệu theo một hệ  thống với những dấu hiệu cơ bản tìm ra những nét đặc thù, nét phổ biến của các cá  nhân và tập thể trong hoạt động dạy và học, kết hợp nghiên cứu đặc điểm lứa tuổi, vị  trí xã hội… của họ và cho ta thông tin chính xác về họ. 
++ Một phần quan trọng của phương pháp nghiên cứu tài liệu và sản phẩm hoạt  động sư phạm là nghiên cứu những tư liệu lưu trữ về cá nhân và tập thể; thí dụ: tiểu sử,  học bạ, giấy khen,… thành tích, bản kiểm điểm, nhật ký… Những tài liệu này giúp ta  hiểu rõ hơn về quá khứ, hiện tại, về trình độ phát triển của cá nhân và tập thể và những  đặc điểm khác của họ. Nghiên cứu sản phẩm kết hợp với tiểu sử là biện pháp có hiệu quả  để hiểu đúng một nhân cách, một tập thể (vì ta đã nghiên cứu cả quá trình và cả kết quả  làm việc của họ). 
+2. Nhóm các phương pháp nghiên cứu lý thuyết
+43 
+  
+Phương pháp nghiên cứu lý thuyết là tổ hợp các phương pháp nhận thức khoa  học bằng con đường suy luận dựa trên các tài liệu lý thuyết đã được thu thập từ các nguồn  khác nhau. Những phương pháp sau đây là PP chung nhất trong nhận thức khoa học. a. Phân tích và tổng hợp lý thuyết 
+ở trình độ nghiên cứu lý thuyết phương pháp khoa học sử dụng các hình thức tư  duy logic trong đó có phân tích và tổng hợp. 
+- Phân tích lý thuyết là thao tác tư duy logic phân tài liệu lý thuyết thành các đơn  vị kiến thức, cho phép ta có thể tìm hiểu những dấu hiệu đặc thù, cấu trúc bên trong  của lý thuyết. Từ đó mà nắm vững bản chất của từng đơn vị kiến thức và của toàn bộ  vấn đề ta nghiên cứu.  
+- Tổng hợp lý thuyết là thao tác tư duy logic trên cơ sở phân tích ta lại phải tổng  hợp kiến thức để tạo ra hệ thống, thấy được mối quan hệ, mối tác động biện chứng  giữa chúng từ đó mà hiểu đầy đủ, toàn diện sâu sắc lý thuyết. 
+- ý nghĩa của PP phân tích và tổng hợp lý thuyết 
+Phân tích và tổng hợp trở thành phương pháp nhận thức đặc biệt cho phép ta xây  dựng lại cấu trúc của các vấn đề nghiên cứu, tìm được các mặt, các vấn đề khác nhau,  các quá trình khác nhau của hiện thực giáo dục. Con đường phân tích tổng hợp cho  phép nhận thức nội dung khách quan, xu hướng khách quan trong hình thức chủ quan  của hoạt động sư phạm của thầy và trò, từ đây tiến hành suy diễn hình thành khái  niệm, tạo thành hệ thống các phạm trù, cho phép xây dựng giả thuyết, tiến tới tạo  thành các lý thuyết khoa học mới. 
+b. Phân loại hệ thống hoá lý thuyết 
+Trên cơ sở phân tích lý thuyết để tiến tới tổng hợp chúng người ta phải thực hiện  quá trình phân loại kiến thức. 
+- Phân loại là thao tác logic người ta sắp xếp tài liệu khoa học theo những vấn đề,  theo những mặt, những đơn vị kiến thức, có cùng một dấu hiệu bản chất, cùng một  hướng phát triển.  
+- Hệ thống hoá được hiểu là chủ thể dùng thao tác trí óc để sắp xếp các đối  tượng, hiện tượng thành các nhóm theo một hệ thống - cấu trúc xác định. Khi tiến  hành hệ thống hoá, chủ thể có thể dựa vào những dấu hiệu giống nhau của nhiều nhóm  nhỏ để họp lại thành nhóm lớn hơn hoặc cũng có thể dựa vào sự khác nhau của các dấu  hiệu tạo nên nhóm lớn mà phân chúng thành các nhóm nhỏ hơn theo một hệ thống - cấu trúc nhất định.
+44 
+  
+- ý nghĩa của PP 
+Phân loại cho ta thấy toàn cảnh của kiến thức khoa học đã nghiên cứu được và  cần nắm vững. Phân loại làm cho khoa học từ phức tạp trong kết cấu, nội dung trở  thành dễ nhận biết, dễ sử dụng theo mục đích của đề tài. Phân loại còn giúp nhìn thấy  các quy luật tiến triển của khách thể, phát triển của kiến thức, từ quy luật được phát  hiện mà có thể dự đoán những xu hướng tiếp theo. Phân loại là bước quan trọng giúp  ta hệ thống hoá kiến thức sắp xếp kiến thức theo mô hình nghiên cứu, làm cho hiểu  biết của ta chặt chẽ, sâu sắc. Nghiên cứu khoa học giáo dục luôn là quá trình phân tích  các hiện tượng giáo dục, để sắp xếp các kiến thức ấy thành hệ thống có thứ bậc, có trật  tự giúp ta nghiên cứu đầy đủ theo nguyên lý tính hệ thống. 
+c/ Mô hình hoá 
+Mô hình hoá là phương pháp nghiên cứu các hiện tượng và quá trình giáo dục  dựa vào mô hình của chúng là sự nghiên cứu gián tiếp đối tượng giáo dục. Trong quá  trình nghiên cứu, các hiện tượng và quá trình giáo dục được tái hiện thông qua hệ  thống mô hình thay thế nguyên bản trong quá trình nhận thức. Mô hình đối tượng là hệ  thống các yếu tố vật chất và ý niệm (tư duy). Hệ thống mô hình giống đối tượng  nghiên cứu và tái hiện những mối liên hệ cơ cấu - chức năng, nhân - quả của các yếu tố  đó. 
+- Tính chất mô hình 
+Tính tương tự: có sự tương tự giữa mô hình và vật gốc, chúng có những đặc  điểm cơ bản có thể so sánh với nhau được như: cấu trúc (đẳng cấu), chức năng,  thuộc tính, cơ chế vận hành… Song, sự tương tự giữa mô hình và đối tượng thực  (vật gốc) chỉ là tương đối; 
+Tính đơn giản: mô hình chỉ phản ánh một hoặc một số mặt nào đó của đối tượng gốc;  Tính trực quan: mô hình là sự tái hiện đối tượng nghiên cứu dưới dạng trực quan;  Tính lý tưởng: khi mô hình hoá đối tượng gốc, ta đã khái quát hoá, trừu tượng  
+hoá, phản ánh đặc tính của đối tượng gốc ở mức độ hoàn thiện hơn (lý tưởng);  Tính quy luật riêng: mô hình có những tính chất riêng được quy định bởi các  phần tử tạo nên nó. 
+- Phân loại mô hình 
+Theo dấu hiệu vật chất và tinh thần, có 2 loại: mô hình vật chất, mô hình tinh  thần (tư duy biểu tượng).  
+Theo loại hình mô hình có các loại: Mô hình lý thuyết, mô hình thực nghiệm…
+45 
+  
+Theo nội dung phản ánh, có 2 loại: Mô hình cấu trúc và mô hình chức năng.  Thực tế nghiên cứu trong các lĩnh vực khoa học khác nhau, tuỳ theo đối tượng  nghiên cứu, người nghiên cứu có thể lựa chọn các mô hình sau: Mô hình toán là mô  hình được sử dụng phổ biến trong nhiều lĩnh vực khoa học hiện đại. Người nghiên cứu  dùng các loại ngôn ngữ toán học như: số liệu, biểu thức, biểu đồ, đồ thị…để biểu thị  các đại lượng và quan hệ giữa các đại lượng của sự vật hoặc hiện tượng. Mô hình vật  lý là mô hình được sử dụng phổ biến trong các nghiên cứu kỹ thuật và công nghệ, là  mô hình mô tả đối tượng thực bằng vật liệu nhân tạo có quy mô lớn hơn, bằng hoặc  nhỏ hơn đối tượng thực, nhưng có hình dạng, cấu trúc không gian, tỉ lệ kích thước và  quá trình vận động tương tự đối tượng thực. Ví dụ: Mô hình động cơ đốt trong. Làm  mô hình con tàu thu nhỏ để nghiên cứu về khả năng chịu đựng của con tàu trước sóng  biển và bão tố. Mô hình sinh học là mô hình thường được sử dụng trong nghiên cứu y  học: dùng chuột bạch, thỏ để tiến hành những thực nghiệm thay thế việc thực nghiệm  trên cơ thể người. Nó giúp người nghiên cứu quan sát được (một cách gần tương tự)  những quá trình xảy ra trên cơ thể người. Mô hình sinh thái là mô hình quần thể sinh học  được tạo ra trong nghiên cứu nông nghiệp, lâm nghiệp, sinh thái học. Mô hình sinh thái  giúp xác định quy hoạch cơ cấu cây trồng, vật nuôi phù hợp quy luật sinh thái, phục vụ  cho các quy hoạch tổng thể những vùng nông nghiệp, lâm nghiệp hoặc nông - lâm nghiệp  kết hợp. Mô hình xã hội học là mô hình được sử dụng trong nghiên cứu khoa học xã  hội và nhân văn. Đây là mô hình xã hội với những điều kiện do người nghiên cứu  khống chế để qua đó rút ra những kết luận về tính khả thi trong những giải pháp được  đề xuất. Ví dụ: trong nghiên cứu cải tiến phương pháp giảng dạy, người nghiên cứu chọn  những lớp điểm (tức mô hình xã hội) để dạy thử với những cách thức tổ chức và tiến hành  khác nhau nhằm rút ra kết luận về mô hình phương pháp cải tiến. 
+- ý nghĩa của PPMHH 
+Phương pháp mô hình hoá là một phương pháp khoa học để nghiên cứu các đối  tượng , các quá trình... bằng việc xây dựng các mô hình của chúng (các mô hình này  bảo toàn các tính chất cơ bản được tách ra của đối tượng đang nghiên cứu) và dựa trên  mô hình đó để nghiên cứu trở lại đối tượng thực. Phương pháp mô hình hóa cho phép  tiến hành nghiên cứu trên những mô hình lớn hơn, lớn bằng hoặc nhỏ hơn để thay thế  việc nghiên cứu đối tượng thực. Điều này thường xảy ra khi người nghiên cứu không thể  hoặc rất khó nghiên cứu trên đối tượng thực. Người nghiên cứu có thể mô phỏng các quá  trình thực tế bằng các mô hình tương tự được chế tạo từ các loại vật liệu khác nhau ví dụ, 
+46 
+  
+làm mô hình con tàu thu nhỏ để nghiên cứu về khả năng chịu đựng của con tàu trước sóng  biển và bão tố (mô hình vật lý). Trong nhiều nghiên cứu, người nghiên cứu xây dựng  các biểu thức toán học để mô tả một quá trình xảy ra trong tự nhiên hoặc xã hội Trước  đây việc nghiên cứu dựa trên các mô hình thường được xem là công việc trong phòng  thí nghiệm, nhưng khái niệm mô hình hóa dần được mở rộng, kể cả trong nghiên cứu  các khoa học tự nhiên và kỹ thuật cũng như trong nghiên cứu khoa học xã hội. 
+Trong nghiên cứu khoa học tự nhiên, người ta tiến hành nghiên cứu trên những  mô hình sinh thái học để triển khai các thực nghiệm về sinh thái học, về cơ cấu cây  trồng vật nuôi trong nông nghiệp. 
+Trong khoa học xã hội, người ta tiến hành nghiên cứu trên những mô hình xã  hội để triển khai các thực nghiệm về tổ chức sản xuất, thậm chí tổ chức một cộng đồng  dân cư trong khuôn khổ các mô hình làng sinh thái. 
+Về nguyên tắc, mô hình là vật tương tự được sử dụng để nghiên cứu đối tượng  gốc. Vì vậy, khi xây dựng mô hình phải đảm bảo những nguyên tắc về tính tương ứng.  Nhất là là tương ứng về cấu trúc, thuộc tính, chức năng, cơ chế vận hành. Tuy nhiên,  không bao giờ có được sự tương tự lý tưởng giữa mô hình và đối tượng gốc, vì vậy  người nghiên cứu cần xác định những quan hệ tương đương giữa mô hình và đối tượng  gốc trong quá trình thực hiện phép loại suy. 
+- Yêu cầu PPMHH 
+Đặc tính quan trọng là mô hình luôn tương ứng với nguyên bản. Mô hình thay  thế đối tượng và bản thân nó cũng trở thành đối tượng nghiên cứu, nó phục vụ cho  nhận thức đối tượng và là phương tiện để thu nhận thông tin mới. 
+Mô hình luôn tái hiện đối tượng nghiên cứu giáo dục dưới dạng đơn giản hoá, tri  thức thu được nhờ có mô hình có thể trở sang nguyên bản. Mô hình trong nghiên cứu  lý thuyết có nhiệm vụ cấu trúc cái mới chưa có trong hiện thực tức là mô hình cái chưa  biết để nghiên cứu chúng, tạo nên mô hình giả thuyết. Mô hình hoá cũng có thể là một  thực nghiệm tư duy, một cố gắng để tìm ra bản chất của các hiện tượng giáo dục. 
+Tóm lại: nghiên cứu giáo dục được thực hiện bằng phương pháp mô hình hoá đó là  con đường gắn cái cụ thể với cái trừu tượng để nhận thức các quy luật giáo dục. d/ Phương pháp giả thuyết 
+- Giả thuyết khoa học là mô hình giả định, là một dự đoán về bản chất của đối  tượng nghiên cứu. Nghiên cứu KHGD được thực hiện bằng việc chứng minh một giả  thuyết. Giả thuyết đó có chức năng tiên đoán sự kiện mới và dẫn dắt nhà khoa học 
+47 
+  
+hướng để khám phá đối tượng. Nhiệm vụ của nhà khoa học là từ lý thuyết đi lần tìm  chân lý. Giả thuyết ở đây đóng vai trò là một phương pháp. Trong giả thuyết, lập luận  có tính giả định - suy diễn. Bằng việc rút ra từ giả thuyết những hệ quả khác nhau ta có  thể rút ra cái thích hợp trong lý thuyết và thực nghiệm; những hệ quả được rút ra từ giả  thuyết có thể mâu thuẫn với nhau, điều đó chứng tỏ bản thân giả thuyết không có căn  cứ. Nếu hệ quả mang tính tích cực và được kiểm chứng bằng thực nghiệm, giả thuyết  mang tính chân thực. Trong trường hợp này giả thuyết đóng vai trò là tiền đề xuất phát  cho việc lập luận hợp lý. 
+- ý nghĩa của PP 
+Với tư cách là một phương pháp suy luận, giả thuyết được sử dụng trong phân  tích thực nghiệm tư duy, trong thiết kế các hành động tương lai. Suy diễn logic, rút ra  các hệ quả từ giả thuyết là bước đi hợp quy luật logic của quá trình nghiên cứu khoa  học. Nghiên cứu lý thuyết trong KHGD giả thuyết - suy diễn vẫn giữ nguyên giá trị  như một phương pháp nghiên cứu khoa học quan trọng. 
+3. Các phương pháp toán học sử dụng trong nghiên cứu KHGD a/ Mục đích  
+Sự phát triển mạnh mẽ trong khoa học hiện đại dẫn đến hai xu hướng:  Một là, sử dụng các thiết bị kỹ thuật hiện đại để tiến hành nghiên cứu khoa học.  Các thiết bị kỹ thuật là công cụ đắc lực giúp cho các nhà nghiên cứu trong quan sát,  thực nghiệm, trong phân tích định tính, định lượng, trong xử lý các tài liệu khoa học. Hai là, sử dụng bộ máy logic - toán học để hoàn thiện quá trình suy luận, tính  toán, nhằm đạt tới những kết quả khách quan. Xu hướng “toán học hoá” mở ra con  đường mới giúp NCKH đạt tới độ sâu sắc, khám phá đúng bản chất và quy luật vận  động của các hiện tượng cần nghiên cứu. 
+C. Mac đã khẳng định: “Một nhà khoa học chỉ thực sự phát triển nếu nó có thể  sử dụng toán học” (cuộc đời chiến đấu vĩ đại của C. Mac, NXB Sự thật 1960). Phương  pháp toán học sử dụng trong nghiên cứu khoa học nói chung có hai mục đích: 
+- Dùng lý thuyết toán học để xây dựng các lý thuyết khoa học chuyên ngành.  Toán học là khoa học suy diễn. Khoa học phải sử dụng suy diễn, nó đảm bảo cho khoa  học đi theo con đường nhất quán, hệ thống mạch lạc; không có suy diễn không thể có  khoa học.
+48 
+  
+- Dùng các công thức toán học để nghiên cứu đối tượng khoa học, tính toán các  thông số liên quan đến đối tượng, tìm các quy luật vận động đối tượng và cuối cùng là  dùng toán học để xử lý tư liệu do kết quả nghiên cứu của các phương pháp khác. 
+Trong NCKHGD, đối tượng là các hiện tượng, quá trình phức tạp, biến động theo  nhiều nguyên nhân, ta không thể làm hai thực nghiệm giáo dục trong điều kiện hoàn  toàn như nhau (trình độ SV, hoàn cảnh, môi trường…) và kết quả hoàn toàn trùng  nhau. Do vậy sử dụng toán học để làm tăng độ tin cậy của các kết quả nghiên cứu.  Trong NCKHGD hiện đại, người ta sử dụng toán học thống kê để xử lý thông tin, định  lượng các dữ kiện thu thập được thông qua phương pháp thực nghiệm, điều tra phỏng  vấn, phương pháp quan sát. 
+b/ ý nghĩa  
+Những kết luận khái quát đảm bảo tính khách quan khi dựa trên việc khái quát  các dữ liệu dựa vào những dấu hiệu bản chất. 
+Có cơ sở để thực hiện sự đối chiếu những sự kiện, những tài liệu với nhau nhằm  tìm ra được những dấu hiệu khác biệt. 
+Đối tượng nghiên cứu của khoa học giáo dục là các hiện tượng phức tạp và biến  động do ảnh hưởng của nhân tố khách quan và chủ quan. Điều đó làm cho người  nghiên cứu khoa học giáo dục khác với người nghiên cứu khoa học tự nhiên. Nhà vật  lý học có thể tiến hành nhiều thí nghiệm trong những điều kiện đồng nhất và kết quả  có thể thu được bao giờ cũng như nhau hoặc gần như nhau. Trái lại, nhà giáo dục học  không thể làm được hai thí nghiệm trong những điều kiện đồng nhất (vì không thể có  hai học sinh sinh viên như nhau về mọi mặt hoặc hai lớp học có những điều kiện hoàn  toàn giống nhau). Không thể dự đoán kết quả chính xác trong từng thí nghiệm riêng lẻ. 
+Thống kê toán học là một bộ phận của lý thuyết xác suất thống kê, có đối tượng  nghiên cứu là việc thu thập các số liệu, đúc kết các số liệu quan sát, thực nghiệm, phân  tích và rút ra các kết luận đáng tin cậy từ những số liệu đó. 
+Các phương pháp toán học được sử dụng trong nghiên cứu khoa học giáo dục  thường là phương pháp thống kê. 
+c/ Các bước thực hiện  
+- Sắp xếp dữ kiện thành danh mục  
+Trong hoạt động giáo dục, người ta thường phải xử lý số lượng rất lớn các số  liệu: Số lượng học sinh, kết quả học tập, ... thống kê toán học giúp ta đúc kết các số  liệu để theo dõi tình hình, cách điều tra đánh giá chất lượng đào tạo, so sánh hiệu quả 
+49 
+  
+của hai phương pháp, phân tích mối liên hệ giữa các hiện tượng giáo dục, phân tích tác  động của các nhân tố đối với hiện tượng giáo dục.  
+Việc lượng hóa các hiện tượng giáo dục là xác định một cách chính xác về mặt  số lượng các đặc trưng của đối tượng nghiên cứu. Việc lượng hóa các dấu hiệu đặc  trưng thường được tiến hành bởi hai phương pháp : 
+Phương pháp ghi dấu: Ghi dấu là tách một dấu hiệu nào đó của đặc trưng  nghiên cứu và đánh dấu mỗi khi trong quan sát hay trong thí nghiệm gặp dấu hiệu đó.  Điểm các dấu cho ta một số biểu hiện đặc trưng của đối tượng nghiên cứu. Trong  những điều kiện hiện nay, chưa có cách nào đo trực tiếp các đặc trưng như chất lượng  kiến thức và kỹ năng, trình độ phát triển của một phẩm chất đạo đức của HSSV thì ghi  dấu những biểu hiện bên ngoài như hành vi của HSSV, số lỗi mà HSSV mắc phải khi  luyện tập tay nghề. Phương pháp này thường lập ra ma trận tần số. 
+Khi lựa chọn và sử dụng các phương pháp nghiên cứu trên cần lưu ý: 
+  
+Phải căn cứ vào mục tiêu và loại hình nghiên cứu của đề tài mà lựa chọn  phương pháp nghiên cứu cho phù hợp. 
+  
+Không thể và không bao giờ có một hay một số phương pháp nghiên cứu thích  hợp cho mọi đề tài. Cũng như không thể có một đề tài nào đó chỉ sử dụng một  phương pháp nghiên cứu duy nhất. 
+  
+Bản thân mỗi đề tài bao giờ cũng đòi hỏi một hệ phương pháp nghiên cứu để bổ  sung cho nhau, giúp cho người nghiên cứu trong việc thu thập, phân tích, xử lí,  kiểm tra thông tin, thể hiện kết quả nghiên cứu. 
+1.3.3. Các phương pháp nghiên cứu cụ thể. 
+Hệ thống các phương pháp NCKH đã được nhà nghiên cứu lựa chọn một cách  thích hợp khi nghiên cứu ở cấp độ khác nhau hoặc nghiên cứu vấn đề cụ thể của khoa  học giáo dục. 
+1. Phương pháp nghiên cứu hệ thống giáo dục quốc dân. 
+Hệ thống giáo dục quốc dân (HTGDQD) là mạng lưới các trường học của một quốc  gia được sắp xếp theo một hệ thống với các cấp, các ngành học, các loại hình, đảm bảo  việc giáo dục và đào tạo các thế hệ mới cho đất nước, để thực hiện nhiệm vụ là nâng cao  dân trí, đào tạo nhân lực và bồi dưỡng nhân tài. Xây dựng vững chắc HTGDQD và đẩy  mạnh hoạt động của hệ thống ấy là nhiệm vụ chiến lược quốc gia.
+50 
+  
+a. Những nguyên tắc xây dựng hệ thống giáo dục quốc dân 
+- Hệ thống giáo dục phù hợp với trình độ phát triển kinh tế, văn hoá, khoa học  và công nghệ của đất nước đồng thời cũng phải tiếp cận với trình độ phát triển giáo  dục của quốc tế. 
+- Giáo dục đảm bảo cho mọi công dân quyền và nghĩa vụ được học tập, hệ thống  giáo dục đáp ứng nhu cầu học tập của nhân dân. 
+- Tổ chức quá trình giáo dục mềm dẻo, tạo điều kiện thuận lợi cho người học,  giáo dục phục vụ nhu cầu thiết thực của xã hội và của từng cá nhân. - Hệ thống giáo dục thống nhất trong cả nước, liên thông các cấp học, ngành  học, đồng bộ và liên tục. Nội dung và phương pháp giáo dục được nghiên cứu xây  dựng trên cơ sở kế thừa và phát triển bền vững 
+- Mở rộng các thành phần kinh tế trong việc ttổ chức các trường học. b. Phương pháp nghiên cứu để xây dựng HTGDQD Việt Nam :  
+- Phương pháp lịch sử: nhằm phân tích quá trình hình thành phát triển hệ thống giáo  dục của đất nước qua các giai đoạn phát triển của lịch sử dân tộc. Tìm qui luật phát triển  của hệ thống gioá dục dân tộc, từ đó mà hoàn thiện phát huy tốt truyền thống giáo dục dân  tộc, các tư tưởng giáo dục tiên tiến của các nhà giáo dục qua các thời đại. 
+- PP phân tích nhu cầu của xã hội về GD, dựa trên phân tích trình độ phát triển của  nền kinh tế, văn hoá của xã hội hiện tại, xu hướng và phát triển chiến lược kinh tế quốc  dân, tìm ra mối quan hệ giữa kinh tế và giáo dục, giữa mục đích và điều kiện phát triển  giáo dục, giữa các hình thức tổ chức giáo dục, để xác định hệ thống giáo dục và đào tạo. 
+- Phương pháp so sánh hệ thống giáo dục thế giới: Nghiên cứu nhân tố ảnh hưởng  đến lí luận và thực tiễn giáo dục thế giới hiện tại, so sánh phân tích hệ thống giáo dục của  các nhóm quốc gia có nền kinh tế phát triển khác nhau để tìm thấy đặc điểm giáo dục thế  giới. Phát hiện những vấn đề chung, những xu thế phát triển giáo dục thế giới. Nghiên cứu  tổng kết kinh nghiệm giáo dục thế giới để áp dụng vào thực tiễn giáo dục quốc gia. 
+- Xây dựng mô hình hệ thống giáo dục và phân tích các khía cạnh của mô hình đó,  để tìm ra một hệ thống giáo dục Việt Nam phù hợp với nhu cầu phát triển của kinh tế, văn  hoá, trong giai đoạn công nghiệp hoá, hiện đại hoá hiện nay. 
+2. Phương pháp nghiên cứu quá trình dạy học.
+51 
+  
+Dạy học là hoạt động đặc trưng của nhà trường, là con đường quan trọng để giáo  dục nhân cách. Giáo dục nhà trường là giáo dục ưu việt, góp phần quan trọng để nâng  cao dân trí, đào tạo nhân lực, bồi dưỡng nhân tài cho đất nước. 
+Nhiệm vụ của quá trình dạy học là giáo dục kiến thức, kỹ năng và thái độ cho HS SV để làm cho họ trở thành một thế hệ năng động, tự chủ và sáng tạo, biết cách sống,  sống tốt, thành đạt và góp phần mình để xây dựng đất nước giàu mạnh văn minh hiện đại.  
+Nghiên cứu quá trình dạy học là nghiên cứu bản chất, các nhân tố tham gia, logic  và các quy luật vận động phát triển quy trình dạy học. Điều quan trọng là từ bản chất  để tìm ra nội dung và phương pháp dạy học và các điều kiện tối ưu bảo đảm cho quá  trình đó phát triển. Nâng cao chất lượng dạy học là vấn đề phức tạp, thường xuyên là  nỗi trăn trở của toàn xã hội, của các nhà nghiên cứu và của các nhà giáo. Nghiên cứu  giáo dục có nhiệm vụ trọng tâm là nghiên cứu nâng cao chất lượng dạy học. Trong quá  trình nghiên cứu đã tìm ra nhiều con đường, nhiều cách thức, dẫn đến nhiều cuộc cải  cách, nhiều thực nghiệm, điểm thực nghiệm giáo dục, nhưng không mấy thành công.  Nền giáo dục hiện đại chưa thỏa mãn với phương pháp đào tạo hiện đại, điều này đặc  biệt nhấn mạnh đối với cả thực tiễn giáo dục Việt Nam. Nghiên cứu quá trình dạy học  tập trung vào một số nội dung và sử dụng các phương pháp sau đây: 
+a. Nghiên cứu sinh viên 
+Sinh viên vừa là đối tượng của dạy học vừa là chủ thể của quá trình nhận thức,  quá trình học tập. Trình độ ban đầu, năng lực sẵn có, sự hào hứng, hăng say, tính tích  cực chủ động của họ có ý nghĩa quyết định chất lượng học tập và chất lượng đào tạo.  Cho nên nghiên cứu quá trình dạy học bắt đầu từ nghiên cứu HS, SV. Phương pháp  thông dụng là: 
++ Phương pháp test (trắc nghiệm): Dùng test để đo đạc trí tuệ, vốn kiến thức đã  được trang bị và chuẩn đoán kết quả học tập của HSSV. Test là bộ công cụ dùng  những phép thử đã được chuẩn hoá, có thông tin và có độ ứng nghiệm cao. Có nhiều  loại test: Test nghiên cứu năng lực và kiến thức, thói quen và nhân cách. Tuỳ theo mục  đích nghiên cứu người ta xây dựng bộ test tương ứng và dùng nó để kiểm tra HSSV. 
+Kết quả của test cho chúng ta những tư liệu quan trọng khách quan. + Phương pháp nghiên cứu sản phẩm hoạt động học tập của HSSV. Sản phẩm là  sách vở, bài kiểm tra, bài thi, bài văn, thơ, báo tường. Ta phân tích số lượng và chất  lượng những sản phẩm đó, nghiên cứu nội dung độc đáo và các phương pháp sáng tạo 
+52 
+  
+mà họ đã thực hiện. Nghiên cứu sản phẩm được kết hợp với nghiên cứu tiểu sử, học bạ  từng năm giúp ta hiểu rõ HSSV trong quá khứ và hiện tại. 
++ Phương pháp quan sát HSSV trong học tập, vui chơi, sinh hoạt tập thể, trong  lao động công ích và sản xuất, trong giao tiếp với mọi người xung quanh để hiểu rõ  hành vi và thái độ của họ. 
+b. Nghiên cứu xây dựng nội dung dạy học 
+Nội dung dạy học là hệ thống kiến thức và kỹ năng, kỹ xảo cần trang bị cho HS SV.  Xây dựng nội dung dạy học phải xuất phát từ mục đích giáo dục và đào tạo theo yêu cầu  của cuộc sống hiện tại, vì vậy nội dung dạy học được chọn lọc kỹ lưỡng phản ánh những  thành tựu khoa học mới nhất, có tính thực tiễn cao. Điều quan trọng là nội dung dạy học  này được nghiên cứu xây dựng thành hệ thống đảm bảo được logic khoa học, đồng thời  đảm bảo được logic sư phạm, theo một chiến lược dạy học. Phương pháp nghiên cứu xây  dựng nội dung dạy học thường là: 
++ Phương pháp truyền thống: Phân tích nội dung dạy học cho từng cấp học, lớp  học để chọn lọc nội dung cho phù hợp, so sánh, phân tích các sách giáo khoa của nhiều  nước, để đối chiếu với sách giáo khoa trong nước và chọn lọc ưu điểm của từng nước  để vận dụng vào Việt Nam. 
++ Phương pháp xây dựng nội dung theo “phương pháp tích cực”, “lấy HSSV làm  trung tâm” là nghiên cứu để thiết kế các bài học nhằm giúp HS, SV tự lực học tập phát  huy năng lực tư duy sáng tạo, năng lực giải quyết vấn đề. Nghiên cứu thiết kế một quy  trình để soạn bài dạy có chất lượng theo kiểu modul. 
++ Phương pháp điều tra thực tiễn, tìm hiểu nhu cầu học tập, trình độ nhận thức,  những thuận lợi và khó khăn thường gặp của HSSV trong học tập, khi sử dụng các tài  liệu, để xây dựng lại nội dung cho hợp lý. 
++ Ngày nay ở các trường dạy nghề và các trường đại học mở đang sử dụng phương  pháp tiếp thị (maketing) tìm hiểu những nội dung, những chuyên ngành mà xã hội yêu  cầu. Để tổ chức nghiên cứu giảng dạy đáp ứng yêu cầu của thực tiễn cuộc sống. c. Nghiên cứu hoàn thiện phương pháp dạy học 
+Phương pháp dạy học là một thành tố quan trọng của quá trình dạy học. Ngày nay  không ai nghi ngờ rằng phương pháp dạy học giữ một vai trò quyết định đối với chất  lượng đào tạo và giáo dục. Phương pháp dạy học là một phạm trù phức tạp, phức tạp cả về  lý thuyết và cả về phương diện thực hành. Người ta đã cố gắng rất nhiều để tìm tòi và  hoàn thiện hệ thống phương pháp dạy học. Những cuộc phát kiến phương pháp dạy học 
+53 
+  
+mới (ví dụ: phương pháp dạy học nêu vấn đề, phương pháp angorit, chương trình hoá…).  Người ta đã tổ chức những thực nghiệm dạy học (thực nghiệm công nghệ giáo dục) rút  cục cũng chưa đẩy được chất lượng dạy học hơn lên là bao nhiêu. Bởi vì thứ nhất nó còn  gây tranh luận về bản chất, thứ hai nó khó thực hiện đại trà, thứ ba ở các trường sư phạm  chưa đào tạo theo các phương pháp này. Xét cho cùng phương pháp dạy học vẫn là điểm  nóng, một đòi hỏi cấp thiết, trong toàn bộ những vấn đề của nghiên cứu giáo dục. Phương  pháp dạy học là sự phối hợp của phương pháp dạy và phương pháp học. Đành rằng  phương pháp giảng dạy giữ vai trò chủ đạo nhưng phải chú trọng đến phương pháp học,  vì người học là chủ thể, họ sẽ làm nên lịch sử của mình do vậy, cần phải nghiên cứu đầy  đủ về phương pháp học. Phương pháp dạy học vừa là khoa học vừa là kỹ thuật, vừa là  nghệ thuật, bởi vì đối tượng hoạt động của người thầy giáo vừa là khoa học, vừa là con  người. Con người tiếp thụ khoa học để hình thành nhân cách.  
+Phương pháp nghiên cứu thường là:  
++ Quan sát, điều tra hoạt động dạy và học của thầy giáo và HS, SV để tìm thấy  thực trạng: điểm yếu, điểm mạnh trong phương pháp mà tìm cách khắc phục. + Tổng kết kinh nghiệm giảng dạy và kinh nghiệm học tập là phương pháp rất  quan trọng để tìm những bài học thực tế bổ ích. 
+Dựa vào thành quả hiện đại của tâm lý học, xã hội học, điều khiển học, công  nghệ tiên tiến để tìm các phương pháp dạy học mới, trên lớp phân tích lý thuyết, tìm  tòi những con đường vận dụng lý thuyết đúng vào thực tiễn. 
++ Cần tiến hành những thực nghiệm sư phạm với các quy mô để tìm ra được các  quy trình dạy học hợp lý, các thao tác dễ huấn luyện và dễ thực hiện đối với GV đại trà. + Cần nghiên cứu, so sánh kinh nghiệm dạy học của nước ngoài, tiến hành  chuyển giao công nghệ dạy học, sẵn sàng tiếp thu những phương pháp dạy học mới  của các nước, để nghiên cứu vận dụng vào hoàn cảnh cụ thể của nước ta. Học hỏi bạn  bè thế giới là một trong những con đường để hoàn thiện phương pháp dạy học Việt  Nam. 
++ Phương pháp phát huy tính tích cực của HSSV, phương pháp tích cực là một ý  tưởng luôn luôn đúng cần nghiên cứu tìm ra hệ thống các phương pháp cụ thể bằng  con đường hợp lý để thực hiện chúng có hiệu quả nhất). 
+d. Nghiên cứu hệ thống phương tiện dạy học 
+Thực tế lịch sử đã chứng minh các cuộc cách mạng về công nghiệp về thực chất  là cuộc cách mạng về công cụ sản xuất. Sản xuất gắn với công cụ, công cụ tạo ra năng 
+54 
+  
+suất lao động. Với công cụ thô sơ không thể tạo ra nền sản xuất hiện đại có năng suất  cao. Công nghệ tiên tiến là công nghệ với thiết bị hiện đại và quy trình sản xuất tinh vi.  Dạy học cũng vậy, muốn đạt được chất lượng cao phải sử dụng các thiết bị hiện đại  cùng với nó là phương pháp dạy học hiện đại. Một trong những nguyên nhân của chất  lượng thấp hiện nay là do chưa có phương tiện dạy học cần thiết phù hợp với nội dung  mục đích và phương pháp tiên tiến. 
+Phương pháp nghiên cứu hệ thống phương tiện dạy học là: 
++ Phân tích nội dung dạy học để tìm ra các phương tiện dạy học tương ứng. + Phân tích các phương pháp dạy học để tìm ra phương tiện dạy học hỗ trợ phù  hợp, nghĩa là phải phân tích mối quan hệ mật thiết của ba phạm trù: Nội dung - phương pháp - phương tiện dạy học. 
++ Nghiên cứu sử dụng thành quả của điện tử, tin học tìm các con đường để vận dụng  các kết quả đó vào việc tổ chức quá trình dạy học. Kết hợp giữa phương tiện dạy học hiện  đại và phương tiện dạy học truyền thống nghe nhìn khác. 
+3. Phương pháp nghiên cứu quá trình giáo dục  
+Quá trình giáo dục theo nghĩa hẹp là quá trình hình thành những phẩm chất nhân  cách cho SV. Quá trình giáo dục này là quá trình rất phức tạp về nội dung, phương pháp  và phức tạp bởi đối tượng giáo dục có những đặc điểm đa dạng và phong phú. Giáo dục bị  chi phối bởi yếu tố chủ quan và khách quan với những tình huống cụ thể và diễn ra lâu  dài, đầy mâu thuẫn, có lúc là những xung đột kịch tính. 
+Trong thực tế hiện nay so với dạy học giáo dục là khâu yếu, có nhiều nguyên  nhân, trong đó có nguyên nhân là nhà trường, gia đình chưa làm tốt nhiệm vụ này. để  khắc phục tình trạng đó cần phải nghiên cứu cụ thể về quá trình giáo dục bằng các  phương pháp sau đây: 
+a. Nghiên cứu đặc điểm cá biệt 
+- Mỗi HS, SV là một cá thể, nó có những đặc điểm phong phú có thể lặp lại hay  không lặp lại ở người khác. Chính đặc điểm này chi phối kết quả giáo dục ở nước ta.  Nghiên cứu HS, SV cần tìm hiểu: 
++ Đặc điểm xuất thân, hoàn cảnh gia đình về mọi mặt: kinh tế, văn hoá truyền  thống, tình cảm gia đình và trình độ giáo dục của cha mẹ. 
++ Đăc điểm nhân thân: năng lực trí tuệ, đặc điểm nhân cách, sở trường, sở đoản,  hứng thú, xu hướng…
+55 
+  
++ Đặc điểm hoạt động học tập: kiến thức, phương pháp, chăm chỉ, chuyên cần,  kiên trì, lười biếng. 
++ Đặc điểm giao tiếp: trong tình bạn tình yêu, thái độ ân cần, đoàn kết, khiêm  tốn, thật thà. 
+- Những nội dung này được thực hiện bằng các phương pháp sau: 
++ Phương pháp test nhân cách  
++ Phương pháp nghiên cứu sản phẩm hoạt động 
+- Nghiên cứu phương pháp giáo dục 
+Phương pháp giáo dục phụ thuộc vào đặc điểm HS, SV và tình huống nảy sinh sự  kiện. Về thực chất phương pháp giáo dục là cách thức tác động vào cá nhân để chuyển  hoá trong bản thân cá nhân tự ý thức, tự xây dựng niềm tin để hình thành thói quen  hành vi. Phương pháp giáo dục hướng vào tập thể và cũng hướng vào các cá nhân. Với  tập thể cũng như cá nhân tổ chức tốt cuộc sống, hoạt động và giao lưu là tạo thành nếp  sống văn hoá và thói quen hành vi đạo dức. Để nghiên cứu phương pháp giáo dục ta dựa vào kết quả 
++ Nghiên cứu đặc điểm cá biệt của HS, SV. 
++ Nghiên cứu môi trường sống, môi trường giáo dục của HS, SV đó là gia đình,  tập thể, bạn bè. 
++ Nghiên cứu đặc điểm hoạt động của các bản thân HS, SV. 
++ Nghiên cứu tình huống tạo ra sự kiện 
++ Tổng kết kinh nghiệm giáo dục tiên tiến 
++ Quan sát sư phạm 
++ Thực nghiệm giáo dục ở những cá nhân, tập thể HS SV để tìm ra con đường thích hợp. 
+b. Nghiên cứu các hình thức tổ chức giáo dục 
+Các hình thức tổ chức giáo dục là biện pháp lôi cuốn HSSV vào hoạt động để  hình thành ở họ những thói quen hành vi văn minh. Hình thức giáo dục càng phong  phú càng hấp dẫn đối với HSSV, chúng có hiệu quả lớn, vì vậy, để tìm ra con đường  giáo dục cần sử dụng các phương pháp sau đây: 
++ Quan sát hứng thú và thói quen hoạt động của HS, SV. Tìm ra nét điển hình nhân cách. + Điều tra nguyện vọng, hứng thú nhu cầu, hoạt động học tập vui chơi của họ để  có phương pháp tổ chức đúng.
+56 
+  
++ Tổng kết các kinh nghiệm của các điển hình tiên tiến của cá nhân hay tập  thể sư phạm. 
+4. Phương pháp nghiên cứu quản lý giáo dục 
+- Hệ thống giáo dục quốc dân đã phát triển với một quy mô rộng lớn với chức năng  và tổ chức ngày càng phức tạp, đòi hỏi có một khoa học quản lý và đội ngũ quản lý có  trình độ cao. Vì vậy, cần nghiên cứu hệ thống quản lý giáo dục trên một số mặt như: 
++ Nghiên cứu cơ cấu tổ chức và chức năng của cơ quan quản lý giáo dục từ cấp  cơ sở đến trung ương, đặc biệt cấp trường học, cấp huyện. 
++ Nghiên cứu phương pháp tổ chức quản lý và điều hành giáo dục như là một  khoa học. 
+- Các phương pháp nghiên cứu được sử dụng là: 
++ Tổng kết kinh nghiệm quản lý giáo dục tiên tiến 
++ Phân tích các nhân tố tham gia vào quản lý giáo dục để tìm ra biện pháp quản  lý phù hợp. 
++ Phương pháp sử dụng ý kiến của chuyên gia 
++ Thực nghiệm quản lý giáo dục cơ sở 
++ Xây dựng mô hình giáo dục tối ưu. 
+Phương pháp nghiên cứu khoa học rất đa dạng. Cần nghiên cứu bản chất, đặc  điểm, nội dung và cách sử dụng từng phương pháp để áp dụng cho phù hợp với từng  đề tài, từng chương trình nghiên cứu khoa học. Nghiên cứu khoa học giáo dục luôn  phải sử dụng phối hợp toàn bộ hệ thống các phương pháp một cách hợp lý phù hợp với  đối tượng, mục đích và nội dung nghiên cứu. 
+5. Các PP nghiên cứu khoa học sư phạm kỹ thuật nghề nghiệp 
+Cũng giống như việc nghiên cứu KHGD, việc nghiên cứu khoa học sư phạm  nghề nghiệp đã vận dụng hệ thống các phương pháp nghiên NCKHGD một cách thích  hợp vào nhằm xác định được mục đích giáo dục nghề nghiệp hợp lý; hướng tới xác  định lại nội dung cho phù hợp với mục đích giáo dục nghề nghiệp. Nghiên cứu tìm ra  các phương pháp dạy học theo hướng tích cực; tìm ra phương tiện dạy học phù hợp và  nâng cao chất lượng quản lý quá trình sư phạm nghề nghiệp.
+57 
+  
+HS-SV 
+học nghề 
+Các khoa học  
+Công nghệ  
+chuyên ngành 
+Tâm lý học nghề  nghiệp (lứa tuổi, sư  phạm lao động, kỹ  sư, dạy lý thuyết và  thực hành 
+Khoa học giáo dục kỹ thuật  &nghề nghiệp 
+Trong và ngoài nhà trường (công ty, xí nghiệp) 
+Quá trình đào tạo  
+kỹ thuật nghề nghiệp 
+(Mục tiêu,nội dung; phương  pháp, phương tiện, hình thức  tổ chức, kỹ thuật đánh giá…) 
+Giáo dục 
+học 
+nghề nghiệp 
+Giáo viên  
+dạy nghề 
+Khoa học quản lý (Đào tạo 
+nghề nghiệp) 
+Kinh tế  
+ đào tạo –  nghề nhgiệp 
+Hình 1: Cấu trúc các chuyên ngành trong lĩnh vực sư phạm kỹ thuậtQuá trình nghiên cứu các vấn đề trong lĩnh vực khoa học sư phạm kỹ thuật nghề  nghiệp (SPKTNN) thực chất là quá trình khám phá bản chất, phát hiện các quy luật,  các mối liên hệ và tác động qua lại trong quá trình vận động và phát triển của các sự  vật và hiện tượng trong quá trình giáo dục SPKTNN. Các sự vật và hiện tượng này  hình thành và phát triển, vận động theo các quy luật khách quan nằm ngoài ý thức con  người và chịu sự tác động chi phối của các nhân tố bên trong và bên ngoài… Chính vì  vậy, việc vận dụng các phương pháp nhận thức khoa học, khách quan có ý nghĩa quyết  định chất lượng và hiệu quả nghiên cứu các vấn đề trong lý luận và thực tiễn  
+58 
+  
+SPKTNN; vận dụng và phát triển hàng loạt các phương pháp nghiên cứu khoa học ở các  ngành khoa học khác phù hợp với đặc điểm đối tượng và nhiệm vụ nghiên cứu của mình  (Hình 1).  
+Trong quá trình nghiên cứu với nhiều phương án phân loại theo các tiêu chí  khác nhau. Chẳng hạn, theo trình độ nhận thức có 3 nhóm phương pháp chủ yếu là  nhóm các phương pháp nghiên cứu thực tiễn, nhóm các phương pháp tư duy lý luận và  nhóm các phương pháp so sánh - lịch sử. Sự phân chia này cũng chỉ mang tính chất  tương đối bởi giữa chúng có mối quan hệ đan xen trực tiếp lẫn nhau, tạo cơ sở và tiền  đề cho nhau trong quá trình nghiên cứu các vấn đề sư phạm kỹ thuật (Xem hình 2). 
+Các phương pháp nghiên cứu khoa  
+học sư phạm kỹ thuật nghề nghiệp 
+Các PPNC trực tiếp - kinh nghiệm 
+- Quan sát khoa học - Lịch sử 
+- Thực nghiệm SPKT - NC thực tế 
+- Phỏng vấn điều tra  (Ankét); Chẩn đoán - Phân tích nội dungcác  tài liệu sư phạm 
+Các phương pháp  nghiên cứu lý luận 
+- Phân tích – tổng hợp 
+- Trừu tượng hoá, khái  quát hoá  
+- Diễn dịch – quy nạp  -Mô hình hoá . 
+Các phương pháp so  sánh - lịch sử 
+- Phương pháp so sánh - Phương pháp lịch sử.
+Hình 2: Phân nhóm các phương pháp nghiên cứu 
+Sau đây là một số phương pháp nghiên cứu cụ thể thường vận dụng trong nghiên  cứu khoa học sư phạm kỹ thuật nghề nghiệp. 
+a/ Vận dụng phương pháp nghiên cứu lý luận trong NCKHSPNN 
+ Bản chất của các nghiên cứu khoa học nói chung và khoa học giáo dục kỹ thuật  và nghề nghiệp nói riêng là quá trình nhận thức, là quá trình sử dụng các hình thức tư  duy khoa học để nghiên cứu các đặc trưng, các thuộc tính bản chất, các quy luật và đặc  thù của các quá trình đào tạo kỹ thuật và nghề nghiệp. Các hiện tượng về quá trình đào  tạo kỹ thuật và nghề nghiệp diễn ra trong thực tiễn rất phức tạp và đa dạng. Theo  M.A.Đanhilốp thì “Các quá trình sư phạm luôn xuất hiện như là một quá trình  
+59 
+  
+tổng hợp trong đó thống nhất các bộ phận cấu thành về mục tiêu và nội dung;  phương pháp – phương tiện; hoạt động của nhiều yếu tố: phức tạp và đơn giản;  chung và riêng; tất yếu và ngẫu nhiên, ổn định và tạm thời; khách quan và chủ  quan …”Tính đa dạng và phức tạp của các hiện tượng và quá trình đào tạo kỹ  thuật và nghề nghiệp càng tăng thêm khi các quá trình này chủ yếu diễn ra trong  môi trường Công nghệ (trong và ngoài nhà trường) rất đa dạng về trình độ, loại  hình trong nhiều lĩnh vực sản xuất - dịch vụ và chúng luôn luôn biến đổi phát  triển. Trong các nghiên cứu về lý luận về giáo dục kỹ thuật và nghề nghiệp  thường sử dụng hàng loạt các phương pháp tư duy khoa học như phân tích - tổng  hợp, diễn dịch - quy nạp; trừu tượng hoá- khái quát hoá..v.v… 
+ Phân tích và tổng hợp là những phương pháp sử dụng phổ biến trong các khoa  học nói chung và khoa học sư phạm nói riêng. Các phương pháp phân tích và tổng hợp  thường được sử dụng kết hợp chặt chẽ với nhau trong một nhiệm vụ nghiên cứu và tất  cả các giai đoạn nghiên cứu.  
+ Phương pháp phân tích có tác dụng đặc biệt khi tiếp cận nghiên cứu các hiện  tượng và quá trình sư phạm phức tạp chứa đựng nhiều yếu tố, nhiều thành phần và  thuộc tính khác nhau như vấn đề phân tích các xu hướng lớn trong quá trình phát triển  các phương thức đào tạo kỹ thuật - nghề nghiệp; phân tích đặc điểm chuyên môn  nghề; phân tích các tài liệu sư phạm kỹ thuật, phân tích quá trình hoạt động của thầy  và trò trong một bài giảng thực hành nghề.v.v… Các phân tích khoa học sư phạm vấn  đề nghiên cứu cho phép đi sâu vào cấu trúc vi mô, tìm hiểu sâu các thuộc tính bản  chất, các đặc trưng và các mối liên hệ nội tại của các vấn đề nghiên cứu. Đồng thời,  chính qua phân tích mà chúng ta có thể phát hiện các cấu trúc mới, các giá trị hoặc  đặc trưng mới, các mối liên hệ mới trong các hiện tượng và quá trình sư phạm cũng  như quá trình vận động và phát triển của chúng.  
+ Trong thực tiễn nghiên cứu chúng ta thường thực hiện các loại hình phân tích  thuộc tính - đặc trưng; phân tích cấu trúc, phân tích các mối quan hệ và các giai đoạn  phát triển của hiện tượng và quá trình nghiên cứu. Đặc biệt trong phân tích các mối  quan hệ cần phân biệt rõ các mối quan hệ bên trong và bên ngoài; các mối liên trực  tiếp và gián tiếp; cơ bản hoặc thứ yếu, lâu dài hoặc tạm thời, nhân - quả hoặc các mối  liên hệ thuận - ngược.v.v… Chính quá trình phân tích, phát hiện các mối quan hệ này 
+60 
+  
+cho phép người nghiên cứu hiểu rõ các đặc trưng bản chất, phát hiện các đặc điểm  trong quá trình hình thành - vận động và phát triển của các hiện tượng và quá trình  nghiên cứu tạo cơ sở đề xuất các giả thiết lý luận và các giải pháp thực tiễn trong  nghiên cứu sư phạm kỹ thuật. 
+ Tuỳ thuộc vào các đối tượng và nhiệm vụ nghiên cứu cụ thể mà các phân tích  khoa học có thể là dạng phân tích định tính hoặc phân tích định lượng. Các phân tích  định tính chủ yếu phản ánh các tính chất, các xu thế các đặc trưng, các thuộc tính của  hiện tượng và quá trình nghiên cứu còn các phân tích định hướng cho phép xác định,  đánh giá các vấn đề nghiên cứu theo các tiêu chí đánh giá định lượng đã lựa chọn và  phù hợp với các thang đánh giá chuẩn cho từng đối tượng phân tích. Chẳng hạn khi  nghiên cứu về tính tích cực của học sinh học nghề trong quá trình học thực hành nghề  thì chúng ta có thể đánh giá tính tích cực của học sinh thông qua quá trình phân tích  định tính về thái độ, cử chỉ mà còn có thể đánh giá thông qua các chỉ số định lượng về  số lần trao đổi, thảo luận; độ chính xác và tốc độ các thao tác thực hiện, tỷ lệ sản  phẩm đạt chất lượng cao cùng các thông số về kỹ thuật, mỹ thuật của sản phẩm,  chỉ số về năng suất lao động.v.v… Vấn đề phân tích định lượng cũng được đặt ra  khi nghiên cứu về nhóm nghề và thiết kế chương trình đào tạo theo nhóm nghề. 
+ Các chương trình đào tạo theo nhóm nghề thường được xây dựng trên cơ sở  nội dung chương trình đào tạo các nghề trong nhóm có mức độ đồng nhất từ 50%- 70%. Nhìn chung, vấn đề phân tích định lượng trong các nghiên cứu về nội dung đào  tạo là một vấn đề phức tạp và khó khăn đòi hỏi có sự đầu tư nghiên cứu sâu theo từng  lĩnh vực chuyên ngành và phát triển các mô hình định lượng trong nghiên cứu khoa  học sư phạm (Bảng 1).
+Vấn đề phân tích 
+	Đặc trưng định tính 
+	Đặc trưng định lượng
+	Tính tích cực của HSSV  và GV trong bài giảng 
+……………………… Chất lượng sản phẩm  của HSSV làm ra trong 
+	- Rất tích cực 
+- Tích cực 
+- Bình thường 
+- Không tích cực 
+- Hoàn toàn thụ động ……………………… - Tốt  
+- Khá
+	- Số câu hỏi GV phỏng vấn - Số HSSV trả lời câu hỏi tham gia xây dựng bài giảng - Số điểm giỏi được đánh giá 
+……………………… 
+- Số lưọng sản phẩm 
+- Kích thước
+	
+
+
+
+61 
+  
+giờ thực hành 
+	- Trung bình 
+- Kém
+	- Hình dáng 
+- Các thông số kỹ thuật
+	
+
+
+
+Bảng 1. Các đặc trưng định tính và định lượng vấn đề phân tích.  Phương pháp tổng hợp: Trong các nghiên cứu về giáo dục nói chung và nghiên  cứu về giáo dục kỹ thuật và nghề nghiệp nói riêng chúng ta đều có nhu cầu nhận thức  các hiện tượng, quá trình sư phạm trong dạng tổng thể và trọn vẹn. Quá trình đi từ các  thành phần cấu thành riêng biệt, các khái niệm riêng lẻ, cụ thể đến các cấu trúc tổng  thể, trọn vẹn hoặc các hệ thống khái niệm.v.v… được thực hiện qua các thao tác tổng  hợp khoa học. Quá trình tổng hợp thông thường được dựa trên các kết quả nghiên cứu  phân tích sâu sắc các hiện tượng, quá trình riêng lẻ trong lý luận và thực tiễn sư phạm  và đưa đến những nhận thức khách quan, những bước phát triển mới của vấn đề nghiên cứu. 
+Như vậy, phương pháp tổng hợp không phải là một phép cộng đơn thuần mà là  một phép biến đổi biện chứng, khách quan và khoa học. Các sản phẩm tổng hợp trong  nghiên cứu sư phạm rất đa dạng. Chúng có thể là một hệ thống phạm trù, khái niệm lý  thuyết trong một lĩnh vực khoa học; hệ thống các mô hình hoạt động - nhân cách - đào  tạo giáo viên dạy nghề; sơ đồ tổng hợp các hoạt động dạy - học của giáo viên và học  sinh trong giờ giảng dạy học thực hành nghề, bảng tổng hợp các cứ liệu khoa học và  kết quả thực nghiệm sư phạm.v.v… Trong phương pháp tổng hợp, kỹ năng hoặc độ  nhạy bén của tư duy khoa học về nhận biết các dấu hiệu chung, các đặc tính đồng  dạng, đồng tính của các hiện tượng và quá trình riêng lẻ như những sợi chỉ đỏ xuyên  suốt giữa chúng có tầm quan trọng và có ý nghĩa đặc biệt. ở đây không chỉ cần có sự  phân tích sâu sắc mà cần có năng lực đối chiếu, so sánh khái quát, một tầm nhìn bao  quát rộng rãi, khoáng đạt trong lĩnh vực hoặc vấn đề nghiên cứu. Trong quá trình nhận  thức khoa học, năng lực tư duy, tổng hợp là một bước tiến lớn về trình độ nhận thức  những vấn đề thực tiễn và lý luận. Quá trình tổng hợp các vấn đề nghiên cứu có thể được  tiến hành theo từng bước, từng giai đoạn phù hợp hoặc từng lĩnh vực riêng rẽ trong tổng  thể các lĩnh vực nghiên cứu và trên cơ sở đó thực hiện các bước tổng hợp khái quát ở trình  độ cao hơn. Chẳng hạn trên cơ sở nghiên cứu sâu sắc mục tiêu, nội dung cơ bản đào tạo ở  các loại hình đào tạo trung học phổ thông, cao đẳng nghề và trung cấp chuyên nghiệp.  Chúng ta có thể sử dụng phương pháp tổng hợp để nghiên cứu mục tiêu tổng hợp chung 
+62 
+  
+của các loại hình đào tạo này cùng các phần giao thoa của chúng với định hướng về mục  tiêu đào tạo chung và mô hình nhân cách chung của các loại hình đào tạo - giáo dục (H.3). 
+Mục tiêu chung 
+Mục tiêu GD Phổ thông 
+Mục tiêu đào tạo CĐN - TCN 
+Mục tiêu đào tạo TCCN 
+H3. Sơ đồ tổng hợp mục tiêu đào tạo các loại hình  
+trung học PT - DN - TCCN
+Quá trình tổng hợp luôn luôn gắn với quá trình khái quát hoá, trừu tượng hoá  các đặc trưng, tính chất chung, điển hình về đối tượng nghiên cứu hoặc các kết  quả nghiên cứu để hình thành các biểu tượng, khái niệm.v.v… Năng lực trừu  tượng hoá, khái quát hoá là một trong những năng lực quan trọng đối với những  người làm công tác nghiên cứu khoa học hoặc nói chung và nghiên cứu các vấn đề  giáo dục kỹ thuật và nghề nghiệp nói riêng. Có thể nói rằng phương pháp nghiên  cứu lý luận không chỉ đòi hỏi người nghiên cứu phải dựa trên một vốn kinh  nghiệm dồi dào, hiểu biết đối tượng nghiên cứu sâu sắc mà còn đòi hỏi người  nghiên cứu phải có trình độ cao về tư duy lý luận khoa học nói chung và lý luận  sư phạm kỹ thuật nói riêng. Phương pháp nghiên cứu về lý luận sư phạm kỹ thuật  là một công cụ quan trọng trong hàng loạt các công trình nghiên cứu sư phạm kỹ  thuật góp phần thúc đẩy sự phát triển mạnh mẽ của ngành khoa học sư phạm kỹ  thuật đáp ứng nhu cầu phát triển công tác đào tạo kỹ thuật - nghề nhiệp ở nước ta. 
+b. Phương pháp mô hình hoá trong NCKHSPNN 
+Trong thực tiễn nghiên cứu giáo dục nói chung và giáo dục kỹ thuật và nghề  nghiệp nói riêng có rất nhiều vấn đề nghiên cứu không thể trực tiếp trên các đối tượng  hoặc đối tượng nghiên cứu quá phức tạp rất khó khăn khi chúng ta muốn trực tiếp tìm  hiểu bản chất và các quy luật vận động của chúng như nhân cách người giáo viên dạy  nghề, quá trình hình thành và phát triển kỹ năng, kỹ xảo nghề nghiệp trong một giờ dạy  thực hành.v.v…Trong những trường hợp đó người ta thường sử dụng phương pháp mô  hình hoá - một phương pháp đã được sử dụng rộng rãi trong nhiều ngành khoa học- công  nghệ để nhận thức, nghiên cứu các hiện tượng và đối tượng khác nhau. Mô hình của đối  tượng được nghiên cứu (đối tượng thực) được xây dựng trên cơ sở người nghiên cứu phải  
+63 
+  
+có hiểu biết sâu sắc về đối tượng đó và có năng lực tư duy (phân tích, tổng hợp, khái quát  hoá.v.v…cao). Mô hình phản ảnh những đặc trưng, cấu trúc và các mối quan hệ cơ bản  của đối tượng nghiên cứu hay nói cách khác là phải đảm bảo đồng dạng, đồng hình, đồng  cấu, đồng tính.v.v…giữa mô hình và vật thực. Mô hình được xây dựng không phải với  mục đích tự thân mà là phương tiện để nghiên cứu khám phá các đặc trưng bản chất, các  quy luật vận động, các mối quan hệ của đối tượng nghiên cứu. Trong thực tế có nhiều loại  mô hình khác nhau: mô hình vật chất (mô hình máy, mô hình cầu, các công trình.v.v…)  hoặc các dạng mô hình tư duy (mô hình toán học, mô hình vật lý, mô hình sơ đồ cấu trúc,  mô hình thông tin.v.v…). 
++ Mô hình vật thể: Dựng lại trên mô hình những đặc trưng cơ bản của đối tượng.  Các đặc trưng này bao gồm các đặc trưng cấu trúc, hình dáng, chức năng, động thái.v.v…  Thường thì mô hình này cho ta hình ảnh cụ thể của đối tượng nghiên cứu ở các kích  thước nhỏ hơn và đơn giản hơn (mô hình máy, mô hình toà nhà.v.v…). 
++ Mô hình vật lý - toán: Nghiên cứu các hiện tượng, quá trình vật lý trên các mô  hình nhân tạo hoặc trong các điều kiện phòng thí nghiệm (thí dụ như dòng chuyển  động của không khí trong ống động học để thiết kế máy bay). Các mô hình vật lý  thông thường được sử dụng rộng rãi các công cụ toán học. 
++ Mô hình thông tin: Sử dụng hệ thống ký hiệu để mô tả các đặc trưng, tính chất  của đối tượng nghiên cứu, tuỳ thuộc vào từng đối tượng nghiên cứu cụ thể và năng  lực của người nghiên cứu mà chúng ta có thể lựa chọn xây dựng các loại mô hình phù  hợp đáp ứng nhu cầu của nhiệm vụ nghiên cứu. Các kết quả nghiên cứu trên mô hình  cần được kiểm nghiệm trên đối tượng thực nhằm bảo đảm tính chính xác, khách quan  và phù hợp với các điều kiện thực tế. Quá trình kiểm nghiệm các kết quả này đồng thời  cũng là quá trình điều chỉnh, bổ xung cho mô hình thêm hoàn chỉnh và chính xác.  Chẳng hạn khi nghiên cứu vấn đề đào tạo và bồi dưỡng giáo viên dạy nghề, nhóm  nghiên cứu đề tài này của Viện khoa học dạy nghề đã tiến hành mô hình hoá các hoạt  động của đội ngũ giáo viên dạy nghề. Những kết quả nghiên cứu về mô hình hoạt động  nghề nghiệp của giáo viên dạy nghề trên tạo điều kiện nhận thức sâu sắc các hoạt động  sư phạm kỹ thuật của đội ngũ giáo viên trong các cơ sở đào tạo nghề và tạo cơ sở đề  xuất các giải pháp đào tạo bồi dưỡng giáo viên dạy nghề. Tuỳ thuộc vào từng loại đối  tượng nghiên cứu và hiểu mô hình thiết lập mà quá trình mô hình hoá đối tượng  nghiên cứu có nhiều bước khác nhau. Nhìn chung quá trình này có các bước cơ bản  sau: 1/ Nghiên cứu, tìm hiểu đối tượng trong chừng mực có thể được: hình dạng, đặc 
+64 
+  
+trưng, tính chất, các quan hệ.v.v….2/ Lập mô hình đối tượng nghiên cứu. 3/ Nghiên  cứu, thí nghiệm trên mô hình được xác lập. 4/ Dựa vào tính đối xứng, đồng dạng, đồng tính giữa các đối tượng thực và mô hình để chuyển kết quả nhận được từ mô hình  sang vật thật. 5/ Kiểm nghiệm kết quả nghiên cứu. 
+Khi nghiên cứu quá trình hình thành và phát triển kỹ năng nghề nghiệp người ta  đã sử dụng mô hình toán (đường biểu diễn hình học) như sau (hình 4). Có thể nói rằng phương pháp mô hình hoá là một phương pháp khá công dụng  khi nghiên cứu các vấn đề sư phạm kĩ thuật. Nó cho phép người nghiên cứu có hình  ảnh cụ thể về đối tượng nghiên cứu cùng các phần cấu trúc cơ bản và các mối quan hệ  của chúng. Chính đặc trưng đơn giản hoá đối tượng nghiên cứu trong mô hình tạo điều  kiện cho người nghiên cứu phân tích sâu sắc các khía cạnh khác nhau, tìm hiểu sâu  từng bộ phận cấu thành trong mô hình, loại bỏ yếu tố phụ, các mối quan hệ thứ yếu để  đi sâu tìm hiểu bản chất sự vật hoặc hiện tượng cần nghiên cứu. Phương pháp mô hình  nghiên cứu các sự vật, hiện tượng một cách gián tiếp (trên mô hình) nên có nhiều hạn  chế. Trước hết, các kết quả nghiên cứu phụ thuộc vào độ chính xác, chân thực của mô  hình được xây dựng và các suy luận chủ quan của người nghiên cứu. Việc chuyển các  kết quả nghiên cứu trên mô hình song các đối tượng thực đòi hỏi phải hết sức khách  quan, trung thực và cần có thực nghiệm kiểm chứng với độ tin cậy cao. Việc vận dụng  các kết quả nghiên cứu trên mô hình trong các điều kiện thực tế gặp nhiều khó khăn do  các nhân tố ảnh hưởng và tác dụng trong điều kiện thực tế không được phản ánh trong  mô hình nghiên cứu. 
+T 
+T Max Tεđ 
+Trình độ kỹ năng 
+Điểm 
+Cao nguyên (ổn định) 
+T Max: Đường tiệm cận trên (max) 
+Giảm sút tạm thời
+Tεđ: Đường tiệm cận dưới t 
+Hình 4. Đường biểu diễn kết quả luyện tập theo thời gian. c. Phương pháp chuyên gia trong NCKHSPNN 
+65 
+  
+Trong quá trình phát triển công tác đào tạo kĩ thuật-nghề nghiệp ở nhiều nước  trên thế giới cũng như ở nước ta đã hình thành và phát triển một đội ngũ chuyên gia  đông đảo trong nhiều lĩnh vực khác nhau của các chuyên ngành sư phạm kĩ thuật.  Những vốn kiến thức và kinh nghiệm nghề nghiệp của đội ngũ chuyên gia này trong  nghiên cứu, quản lý và giảng dạy trong lĩnh vực sư phạm kĩ thuật là vô cùng quý giá và  cần được khai thác có hiệu quả. Đây cũng là một phương pháp kinh tế và ít tốn kém,  nhất là so với phương pháp thực nghiệm. 
+Đội ngũ chuyên gia trong lĩnh vực sư phạm kĩ thuật thông thường bao gồm các  nhà nghiên cứu chuyên môn có trình độ cao về công nghệ, sản xuất, sư phạm,  v..v…Họ có thể là những nhà quản lý giáo dục lâu năm có nhiều kinh nghiệm, các nhà  khoa học sư phạm có trình độ chuyên môn cao; các cán bộ kĩ thuật và công nhân giỏi,  các giáo viên giỏi ở các cơ sở đào tạo. v..v…Những kiến thức và kinh nghiệm của họ  được thường xuyên tích luỹ, phát triển trong một thời gian dài theo một lĩnh vực  chuyên sâu nào đó có giá trị hết sức to lớn trong công tác nghiên cứu sư phạm kĩ thuật.  Những ý kiến của các chuyên gia phản ảnh những quan niệm, cách nhìn nhận và xu  hướng phát triển của đối tượng nghiên cứu tạo điều kiện bổ sung, hỗ trợ cho người  nghiên cứu tăng thêm hiểu biết mở rộng các khía cạnh của vấn đề và giúp cho việc lựa  chọn vấn đề và giải quyết vấn đề theo phưong án thích hợp nhất. Phương pháp chuyên  gia có ưu thế rất lớn trong các nghiên cứu lí luận cơ bản hoặc các nghiên cứu mà đối  tượng nghiên cứu phức tạp đòi hỏi có sự tiếp cận đa diện mà bản thân người nghiên  cứu không thể có điều kiện và khả năng tìm hiểu hoặc bao quát hết trong điều kiện  thời gian nghiên cứu là hữu hạn. Hơn nữa, các kinh nghiệm, kiến thức của các chuyên  gia không thể phản ảnh hết trong các tài liệu đã công bố mà chỉ được biết đến khi khai thác  trực tiếp ở nguồn chuyên gia. Những vấn đề mà họ rất am hiểu và cần nghiên cứu không chỉ  trong việc xác định đối tượng, mục đích- nội dung nghiên cứu mà còn có những lời khuyên  rất bổ ích về phương pháp nghiên cứu (cách tiếp cận, kĩ thuật nghiên cứu v…v…) 
+- Các hình thức tổ chức lấy ý kiến chuyên gia 
+Trong thực tế nghiên cứu sư phạm kĩ thuật, phương pháp chuyên gia được sử  dụng với nhiều dạng hình thức khác nhau. Tuỳ thuộc vào từng đề tài nghiên cứu cụ thể  mà chúng ta có thể dùng các hình thức sau: 
+* Tổ chức xemina hoặc hội thảo khoa học: Đây là cách thức khá phổ biến trong  các nghiên cứu khoa học nói chung và nghiên cứu sư phạm kĩ thuật nói riêng. Các hội  thảo khoa học thường được tổ chức từ một đến vài ngày theo một chủ đề nhất định với 
+66 
+  
+sự tham gia của nhóm nghiên cứu và các chuyên gia có uy tín khoa học trong các lĩnh  vực liên quan đến đề tài nghiên cứu. Việc tổ chức hội thảo thường được tiến hành theo  các bước sau: 
++ Chuẩn bị hội thảo: 
+Xác định vấn đề (chủ đề) của hội thảo khoa học phù hợp với mục tiêu, nhiệm  vụ và các nội dung nghiên cứu của đề tài. Xây dựng đề cương tổ chức hội thảo trong  đó dự kiến rõ thời gian, địa điểm, nội dung hội thảo và dự kiến danh sách các chuyên  gia sẽ mời tham gia hội thảo. Vấn đề quan trọng nhất của khâu chuẩn bị hội thảo là  phải chuẩn bị báo đề dẫn của ban tổ chức hội thảo (thường là chủ nhiệm đề tài) và các  báo cáo chính của các chuyên gia về các vấn đề được quan tâm trong hội thảo. Tốt  nhất là các báo cáo này và các tài liệu thông tin khác được hoàn thành sớm và gửi đến  các chuyên gia tham gia hội thảo một thời gian trước khi khai mạc. Cần chuẩn bị chu  đáo cơ sở vật chất phục vụ hội thảo bảo đảm tính trang trọng, lịch sự, văn minh của  hội thảo khoa học. 
++ Tổ chức điều hành hội thảo: Để đảm bảo yêu cầu tranh thủ ý kiến chuyên gia  về các vấn đề hội thảo quan tâm, việc tổ chức hội thảo cần được tiến hành linh hoạt và  thực sự khoa học. Những hội thảo lớn có nội dung nhiều thì có thể chia thành các tiểu  ban hoặc nhóm chuyên đề sau khi đã có buổi hội thảo chung. Các báo cáo trình bày  trong buổi hội thảo cần được trình bày ngắn gọn nêu rõ vấn đề chính. Việc điều hành  hội thảo có thể theo trình tự từng nội dung hội thảo sau khi nghe tất cả các bài báo  cáo rồi tiến hành trao đổi, thảo luận hoặc tiến hành xen kẽ quá trình trao đổi thảo  luận với từng bản báo cáo. Cũng có thể tiến hành trình tự hội thảo theo từng vấn đề  và giải quyết từng vấn đề được đưa ra thảo luận. Sau từng nội dung hoặc vấn đề  thảo luận ban tổ chức hội thảo cần có ý kiến tóm tắt, tổng hợp sơ bộ trước khi  chuyển sang những vấn đề khác. Tuỳ theo từng điều kiện cụ thể mà người tổ chức hội  thảo cần chú ý tăng thời gian cho hình thức trao đổi, thảo luận giữa nhóm nghiên cứu  và các chuyên gia về các khía cạnh mà đề tài quan tâm, tránh phát biểu hoặc đọc báo  cáo tràn lan chỉ đơn thuần cung cấp thông tin mà không có sự phân tích – thảo luận  nhằm rút ra những kết luận bổ ích. Chú ý sử dụng các phương tiện hiện đại khi trình  bày, thuyết trình vấn đề trong hội thảo (máy chiếu, hệ thống bảng biểu, sơ đồ, phim  ảnh, v.v…).Quá trình hội thảo cần tổ chức chu đáo khâu thư ký, ghi chép tiến trình  và nội dung phát biểu hoặc trao đổi trong hội thảo, có thể sử dụng các thiết bị ghi  âm, chụp ảnh để ghi lại các thông tin này bên cạnh việc sử dụng hình thức tốc ký 
+67 
+  
+hoặc ghi chép trong biên bản hội thảo. Trong điều kiện cho phép cần lựa chọn  nhóm thư ký hội thảo là người am hiểu về những vấn đề mà hội thảo quan tâm.  + Tổng kết hội thảo: Qua quá trình theo dõi các bản tham luận, trao đổi ý kiến  của các chuyên gia và các tư liệu thu thập được (biên bản, băng ghi âm, v.v…) Ban tổ  chức hội thảo cần có dự thảo báo cáo tổng kết những vấn đề được quan tâm. Dự thảo  này cũng cần nêu lên những tồn tại, những vấn đề cần tiếp tục ngiên cứu, thảo luận và  được trình bày tại buổi họp tổng kết hội thảo để lấy ý kiến bổ sung của các thành viên  tham gia hội thảo. Đây là căn cứ cơ bản để ban tổ chức hội thảo xây dựng bản tổng kết  cuối cùng và dự kiến các công việc cần tiếp tục nghiên cứu và triển khai theo kế hoạch  của đề tài nghiên cứu. Các báo cáo khoa học có giá trị cần được tạo điều kiện công bố  trên các phương tiện thông tin khoa học theo các chuyên ngành hoặc xuất bản tập kỷ  yếu của hội thảo khoa học. Một hình thức lấy ý kiến chuyên gia khá phổ biến và có  hiệu quả là cách thức phỏng vấn (Interview). Phỏng vấn được tiến hành trực tiếp và  theo một vấn đề cụ thể đối với từng chuyên gia của từng lĩnh vực cụ thể. Phương thức  này cho phép người nghiên cứu chủ động đưa ra câu hỏi (hoặc hệ thống câu hỏi gợi  mở), những câu hỏi này tạo điều kiện cho các chuyên gia được thăm dò ý kiến có thể  trình bày. Các suy nghĩ, quan điểm của mình một cách tự do, thoải mái. Trong quá  trình phỏng vấn theo các câu hỏi đã dự kiến sẵn, người nghiên cứu có thể dựa vào các  tình huống thựuc tế, các câu trả lời của chuyên gia để trao đổi, hỏi thêm, yêu cầu đi  sâu vào một khía cạnh nào đó để thu thập thêm những thông tin liên quan đến đề tài.  Nếu có điều kiện có thể tiến hành các phỏng vấn sơ bộ chuẩn bị cho các cuộc phỏng  vấn chính thức. Các tài liệu phỏng vấn trước khi công bố nên đưa lại cho người được  phỏng vấn xem lại và có những hiệu chỉnh cần thiết. Hiệu quả của cách thức phỏng  vấn chuyên gia phụ thuộc rất lớn vào khâu chuẩn bị và nghệ thuật hỏi chuyện của  người phỏng vấn. Cần hiểu rõ đối tượng được phỏng vấn cả về trình độ chuyên môn  với các đặc trưng tâm lý, lối sống.v..v. Sử dụng các thủ thuật làm quen, gợi mở, dẫn  chuyện… làm cho qúa trình phỏng vấn không đơn điệu, cứng nhắc và nhàm chán,  không gây ức chế cho người được phỏng vấn. Các vấn đề cần quan tâm, cần được tập  trung trong quá trình phỏng vấn và sử dụng rộng rãi các phương tiện thu thập thông tin  (ghi chép tốc ký, máy ghi âm, thiết bị video). Nói chung, việc lấy ý kiến chuyên gia  theo hình thức tổ chức phỏng vấn là phương pháp có nhiều ưu thế về thời gian, về  điều kiện vật chất và chuẩn bị không phức tạp. Nó có thể cho phép trực tiếp thu  nhận được các thông tin cần thiết cho vấn đề nghiên cứu từ các chuyên gia trong 
+68 
+  
+lĩnh vực này. Tuy nhiên, cách thức này cũng có một số hạn chế trước hết các  thông tin thu được chủ yếu phản ánh quan niệm chủ quan của người đọc hỏi ý  kiến và dễ bị biến dạng cho các tác động khác (sợ bị đánh giá, chủ quan, tư tưởng  thành tích…) các thông tin nhìn chung chưa cho phép nhận diện đầy đủ và chính  xác cấu trúc bản chất vấn đề nghiên cứu. Trong qúa trình khai thác ý kiến chuyên  gia, một phương pháp được sử dụng phổ biến từ những năm 50 là phương pháp “công  não”. Mục đích của phương pháp này là phát hiện những tư tưởng mới trên cơ sở trực  giác của các chuyên gia trong qúa trình “công não”. “Công não” trực diện có thể do  từng người hoặc các nhóm tiến hành. Nó căn cứ vào giả thiết cho rằng trong một số  lớn các tư tưởng ít ra cũng có một vài tư tưởng có giá trị. Người ta thường sử dụng  phương pháp “công não” theo các quy tắc cơ bản sau: 1/ Phát biểu đề tài dưới dạng  những thuật ngữ cơ bản và chỉ có một tiêu điểm (những vấn đề then chốt). 2/ Không đánh  giá ngay lập tức bất kỳ một quan điểm nào. 3/ ủng hộ tất cả các quan niệm được đưa ra  ngay cả những tư tưởng mơ hồ viễn cảnh xa. 4/Thường xuyên động viên người tham gia  để tạo ra các quan hệ tranh luận tự do. 
+* Một phương pháp khác được sử dụng khá phổ biến khi tham khảo ý kiến  chuyên gia là phương pháp “Delphi” phương pháp này được nêu ra ở Mỹ và được ứng  dụng rộng rãi trong các nghiên cứu khoa học đặc biệt là các dự báo khoa học. Đặc trưng  của phương pháp này là tập hợp các ý kiến của các chuyên gia theo từng vấn đề mà  người nghiên cứu quan tâm (ở dạng câu hỏi) và yêu cầu chuyên gia (hoặc nhóm chuyên  gia) trả lời ngắn. Sau khi thu thập ý kiến theo từng câu hỏi sẽ tiến hành ngay việc sử lý  thống kê các câu trả lời (phân loại, đánh giá mức độ nhất trí…) với sự tham gia trực  tuyến của các chuyên gia. Trình bày tự tiến hành theo phương pháp này có thể co các  bước sau :1/ Chuẩn bị câu hỏi cần lấy ý kiến chuyên gia và các điều kiện vật chất  (giấy, bút chuyên dùng) 2/ Nêu lần lượt từng câu hỏi và yêu cầu từng chuyên gia hoặc  nhóm chuyên gia trả lời các câu hỏi ngắn, cô đọng. 3/ Tập hợp các ý kiến trả lời của  các chuyên gia và phân loại sơ bộ các ý kiến này theo từng nhóm đồng nhất. 4/ Tổ  chức các nhóm đánh giá, lựa chọn các câu trả lời. Trường hợp những câu trả lời ngược  với ý kiến đa số thì có thể yêu cầu chuyên gia trình bày ngắn gọn cơ sở quan điểm của  mình. Các câu hỏi có thể tiến hành nhiều vòng để thu hẹp dần các ý kiến trả lời. 
+ Phương pháp “Delphi” cho phép tìm hiểu ý kiến các nhà chuyên môn về một vấn  đề nào đó không qua sự tranh luận trực tiếp giữa các chuyên gia và tạo điều kiện cho 
+69 
+  
+mọi người có thể xem xét, cân nhắc ý kiến của mình sau mỗi lần tham khảo câu hỏi và  câu trả lời của các chuyên gia khác. 
+d. Phương pháp quan sát trong NCKHSPNN 
+Trong NCKH sư phạm kỹ thuật, đối tượng và phạm vi quan sát có một phổ rất  rộng. Tuỳ thuộc vào từng mục đích, nhiệm vụ nghiên cứu cụ thể mà đối tượng quan  sát có thể là hoạt động của GV và HSSV trong một giờ dạy thực hành nghề; quá trình  hình thành và phát triển kỹ năng lao động của HSSV học nghề sau một tuần thực hành  cơ bản; hiện tượng suy giảm năng lực chú ý của HSSV vào giờ cuối của buổi học.v....  Phạm vi và mức độ quan sát cũng có nhiều tầng nấc khác nhau. Có thể thực hiện quan  sát tổng thể theo dõi, ghi nhận mọi mặt biểu hiện đối tượng quan sát.  
+ Trong trường hợp sử dụng các phương tiện nghe - nhìn để quan sát như sử dụng  quay video quan sát các hành động – thao tác, động tác – cử động của học sinh trong  quá trình hình thành các kỹ năng lao động của một nghề (công việc) nào đó thì người  quan sát phải thiết kế trước kịch bản. Trong kịch bản này, cần xác định rõ các phân  đoạn quan sát với thời gian thích hợp, các yêu cầu về góc độ thể hiện các động tác, tốc  độ quay nhanh – chậm.v.v… Các yêu cầu trên bảo đảm khả năng quan sát chi tiết các  hoạt động lao động làm cơ sở cho quá trình hoàn thiện, hợp lí hoá các động tác – cử  chỉ của học sinh trong quá trình hình thành các kỹ năng lao động của một nghề (công  việc) nào đó. 
+Phiếu quan sát giờ hướng dẫn thực hành nghề 
+Trường:................................. Người quan sát: 
+Lớp (khoá):........................... Thời gian: 
+Giờ học:................................ Giáo viên hướng dẫn: 
+Số  
+TT
+	Các giai đoạn quan sát 
+	Hoạt động dạy- học 
+	Ghi  
+chú
+	Giáo viên 
+	HSSV 
+	1 
+2 
+3 
+	Giai đoạn hướng dẫn ban đầu Giai đoạn hướng dẫn quá trình Giai đoạn hướng dẫn kết thúc đánh giá - tổng kết bài học
+	
+
+	
+
+	
+
+	
+
+
+
+Biểu A: Mẫu phiếu quan sát giờ học thực hành 
+e. Phương pháp điều tra - khảo sát trong NCKHSPNN 
+Trong nghiên cứu sư phạm kỹ thuật, đối tượng điều tra khá rộng rãi có thể bao  gồm các nhà quản lý giáo dục các cấp; các nhà hoạt động xã hội, các chuyên gia trong 
+70 
+  
+lĩnh vực công nghệ, công nhân, thợ thủ công, giáo viên và học sinh học nghề. Phạm vi  các vấn đề điều tra cũng khá rộng rãi từ các vấn đề về tổ chức, quản lý, chính sách đào  tạo đến các vấn đề cụ thể về cơ cấu hệ thống, nội dung chương trình; chất lượng dạy  học, tuyển chọn, đánh giá.v.v…thông thường có hai loại phiếu điều tra cơ bản: điều tra  thăm dò ý kiến và điều tra thu nhập các số liệu thực trạng, mỗi loại phiếu đều có  những yêu cầu riêng, đặc thù về nội dung và cấu trúc các phần trong phiếu. Chẳng hạn  như phiếu điều tra thực trạng cơ sở vật chất phục vụ cho công tác đào tạo của các  trường nghề có nội dung và cấu trúc khác với phiếu điều tra thăm dò của các ý kiến  của các cán bộ quản lý, giáo viên dạy nghề ở các trường về cơ sở vật chất phục vụ cho  các yêu cầu giảng dạy nghề nghiệp. Thông thường tuơng ứng với một nhiệm vụ điều  tra chúng ta phải thiết kế một bộ công cụ thích ứng. Tuy nhiên có nhiều trường hợp có  thể sử dụng những bộ công cụ điều tra mẫu đã có sẵn, chuyên dụng cho một vấn đề  nhất định nếu chúng phù hợp với nhiệm vụ, mục đích và nội dung cần nghiên cứu điều  tra. 
+- Thiết kế phiếu điều tra (bộ công cụ điều tra). 
+ Trên cơ sở xã định rõ đối tượng, mục đích, nhiệm vụ điều tra phù hợp với từng đề  tài nghiên cứu, chúng ta cần nghiên cứu thiết kế bộ công cụ điều tra (bộ phiếu) thông  thường theo 2 bước: 
+ Bước 1: Thiết kế mẫu để tiến hàng điều tra thử trong phạm vi hẹp.  Bước 2: Thiết kế bộ công cụ điều tra chính thức sau khi đã điều chỉnh sau đợt  điều tra thử. 
+ Quá trình thiết kế một bộ phiếu điều tra bao gồm nhiều giai đoạn khác nhau  trong đó có giai đoạn chính sau: 1/ Xác định đối tượng điều tra và những vấn đề cần  điều tra. 2/ Xác dịnh mức độ cần điều tra của từng vấn đề định tính hay định lượng  (mức độ cần tham khảo). vv..) phù hợp với nhiệm vụ của từng đề tài. 3/ Xác định nội  dung cần điều tra của từng vấn đề (thông thường mỗi vấn đề là một câu hỏi điều tra).  4/ Lựa chọn hình thức câu hỏi (câu hỏi đóng, câu hỏi mở…) phù hợp với từng vấn đề  (mục đích - mức độ - nội dung). 5/ Xây dựng cấu trúc chung của phiếu theo trình tự  hợp lí có thể đi từ câu hỏi chi tiết đến câu hỏi chung (hoặc ngược lại) có thể theo cấu  trúc của vấn đề cần điều tra. 6/ Tiến hành điều tra thử ở một số mẫu để sơ bộ xác định  mức phù hợp và hợp lý của bộ phiếu. 7/ Tiến hành điều chỉnh, sửa chữa bộ công cụ  theo kết quả điều tra thử. 8/ Thiết kế phương án thu thập, sử lý các số liệu điều tra (bao 
+71 
+  
+gồm cả phần thống kê sử lý sơ bộ các số liệu trong quá trình điều tra và sử lý kết quả  cuối cùng). - Những yêu cầu khoa học khi sử dụng phương pháp điều tra. Để đảm bảo tính khách quan, khoa học của kết quả nghiên cứu, việc sử dụng  phương pháp đièu tra cần lưu ý các yêu cầu sau: 1/ Xác định rõ mục đích điều tra và  nắm được các đặc điểm, khả năng của đối tượng điều tra. 2/ Cần đảm bảo số lượng  thông tin đủ lớn (số lượng đối tượng nghiên cứu đủ lớn theo yêu cầu của các qui luật  xác suất – thống kê). 3/ Các câu hỏi nêu trong phiếu điều tra phải rõ ràng, cụ thể, chính  xác. Tránh sự hiểu lầm hoặc có các cách hiểu khác nhau. Số lượng các câu hỏi trong  một phiếu không quá nhiều (thường từ 5 đến 10 câu hỏi). 4/ Các câu hỏi trong một  phiếu điều tra thường là những câu hỏi độc lập theo một vấn đề hoặc một khía cạnh  của vấn đề nghiên cứu. Tuy nhiên, cũng có thể thiết kế các câu hỏi có những khía cạnh  ràng buộc lẫn nhau để có thể so sánh đánh giá tính chính xác, trung thực của các câu  hỏi. 5/ Khi thiết kế bộ công cụ điều tra cần dự tính trước cách thức xử lý số liệu theo  từng giai đoạn cả vể định tính và định lượng (các bảng tổng hợp thống kê sơ bộ…) g. Vận dụng phương pháp nghiên cứu các sản phẩm hoạt động trong NCKH  SPKTNN 
+ Khi nghiên cứu các hoạt động sư phạm kĩ thuật chúng ta không chỉ nghiên cứu  quá trình hoạt động đó mà còn nghiên cứu kết quả, sản phẩm của các hoạt động đó..  Mọi sản phẩm hoạt động của con người nói chung và của giáo viên, cán bộ quản lí và  HSSV học nghề nói riêng đều phản ảnh năng lực nghề nghiệp của họ và đồng thời  cũng là biểu hiện cụ thể tư tưởng, tình cảm, ý chí của những người làm ra sản phẩm  đó. Chính vì vậy, việc nghiên cứu các sản phẩm hoạt động trong lĩnh vực sư phạm kĩ  thuật cho phép người nghiên cứu tìm hiểu khá chính xác các đặc trưng nhiều mặt của  những người làm ra sản phẩm đó. Trong lĩnh vực sư phạm kĩ thuật, các sản phẩm hoạt  động được nghiên cứu rất đa dạng. Chẳng hạn như có thể nghiên cứu số HSSV tốt  nghiệp một khoá đào tạo nghề nào đó (trong trường hợp này họ là sản phẩm đặc biệt  của một khoá đào tạo nghề để nghiên cứu, đánh giá chất lượng đào tạo nghề của khoá  đó về các mặt khác nhau. Cũng có thể nghiên cứu các sản phẩm HSSV làm ra trong  quá trình dạy thực hành nghề để đánh giá mức độ hình thành kỹ năng nghề nghiệp của  họ hoặc thông qua qúa trình nghiên cứu bộ giáo án và các phương tiện dạy học của  người giáo viên để đánh giá năng lực sư phạm của từng cá nhân giáo viên hoặc tập thể  giáo viên (nếu đó là sản phẩm chung của hoạt động tập thể. Thông thường, việc nghiên  cứu các sản phẩm hoạt động được tiến hành theo cách thức nghiên cứu trực tiếp trên 
+72 
+  
+các sản phẩm thực là kết quả hoạt động cụ thể của một hoặc một nhóm người. Các sản  phẩm này có thể là các sản phẩm vật chất cụ thể (một bức tường được xây; một chi tiết  máy được chế tạo, một chiếc áo được may; một phương tiện dạy học được chế  tạo.v.v..) Song cũng có nhiều trường hợp chung là các sản phẩm phi vật chất như một  tài liệu viết về phương pháp dạy học mới của giáo viên, cuốn sách ghi chép tài liệu  trên lớp học của sinh viên, bài làm kiểm tra lý thuyết nghề của sinh viên v.v.. 
+- Lựa chọn các sản phẩm nghiên cứu 
+ Tuỳ thuộc vào từng mục đích, nhiệm vụ của từng đề tài nghiên cứu mà người  nghiên cứu lựa chọn các sản phẩm khác nhau làm đối tượng nghiên cứu, trong các giai  đoạn nghiên cứu khác nhau. Có thể nghiên cứu một vài sản phẩm một vài sản phẩm  riêng lẻ hoặc một nhóm các sản phẩm nhất định. Nhìn chung, cần lựa chọn các sản  phẩm đặc trưng phản ánh đầy đủ và chính xác các mặt cần tìm hiểu và nghiên cứu, có  khả năng đem lại nguồn thông tin lớn nhất cho người nghiên cứu. Các sản phẩm cũng  cần được lựa chọn hoàn toàn khách quan tránh sự áp đặt chủ quan của người nghiên  cứu khi lựa chọn sản phẩm. 
+- Những yêu cầu khoa học khi sử dụng PPNC sản phẩm 
+ Trước khi nghiên cứu một sản phẩm hoạt động nào đó, người nghiên cứu cần  hiểu rõ đối tượng làm ra sản phẩm, môi trường điều kiện và quá trình làm ra sản phẩm  được lựa chọn để nghiên cứu. Chẳng hạn như khi nghiên cứu một cái bàn gỗ do học  sinh đóng, người nghiên cứu cần hiểu rõ trình độ nghề nghiệp đã được đào tạo của học  sinh, vật liệu gỗ dùng để đóng bàn cùng các công cụ, qui trình công nghệ và các yêu  cầu kỹ thuật - mỹ thuật của sản phẩm này. Tốt nhất là người nghiên cứu trực tiếp quan  sát quá trình gia công của học sinh, đàm thoại với học sinh trong quá trình làm.v.v…  và trên cơ sở nghiên cứu đó có những thông tin tốt để nghiên cứu, đánh giá chính xác  về chất lượng sản phẩm và qua đó về các đặc trưng, năng lực nghề nghiệp của người  làm ra sản phẩm đó. Các sản phẩm hoạt động được nghiên cứu cần được đánh giá toàn  diện về các mặt định tính và định lượng; nội dung hình thức; số lượng - chất lượng;  các giá trị lý luận và thực tiền.v.v… Tuỳ theo từng trường hợp nghiên cứu các sản  phẩm hoạt động theo từng giai đoạn, từng thời điểm hoặc theo từng chu kỳ lặp  lại.v.v… Việc tăng số lượng các sản phẩm nghiên cứu cũng tạo điều kiện loại bỏ  những nhân tố ngẫu nhiên tác động đến đối tượng trong quá trình làm sản phẩm đó. 
+Một yêu cầu rất quan trọng khi nghiên cứu sản phẩm hoạt động đặc biệt là các  nghiên cứu so sánh, đối chiếu, người nghiên cứu cần xây dựng các chuẩn đánh giá chính 
+73 
+  
+xác và khách quan về tất cả các mặt kỹ thuật và mỹ thuật; năng suất và các yếu tố sáng  tạo.v.v… phù hợp với các quy trình, quy phạm hiện hành. Đồng thời cần lựa chọn các  phương pháp đo - kiểm chính xác với các dụng cụ đo đạt chuẩn kết hợp chặt chẽ giữa  những đánh giá định tính với các kết quả đánh giá định lượng bảo đảm sự công bằng,  khách quan và chính xác khi đánh giá nhận xét  
+h. Vận dụng phương pháp thực nghiệm trong NCKHSPKTNN 
+Một trong những bước phát triển lớn về phương pháp nghiên cứu trong lĩnh vực  sư phạm nói chung và trong lĩnh vực sư phạm kỹ thuật nói riêng là chuyển từ các  phương pháp quan sát, mô tả biểu hiện bề ngoài của các sự vật và hiện tượng nghiên  cứu sang phương pháp kiểm nghiệm khách quan các qui luật và phân tích định lượng  các vấn đề nghiên cứu. Phương pháp thực nghiệm ra đời và thúc đẩy sự phát triển  nhanh chóng của các ngành khoa học đặc biệt là các ngành khoa học tự nhiên như Hoá  học, Vật lý, Sinh học.v.v….Trong các lĩnh vực khoa học đặc biệt là khoa học sư phạm,  phương pháp thực nghiệm tuy gặp nhiều khó khăn (vì đối tượng chủ yếu là con người)  trong tổ chức thực nghiệm và đánh giá song nó cũng được ứng dụng khá rộng rãi trong  hầu hết các lĩnh vực nghiên cứu của khoa học sư phạm kỹ thuật. Có thể nói thực  nghiệm sư phạm là một phương pháp nghiên cứu có hệ thống và logic những quá trình,  hiện tượng sư phạm. Các quá trình, hiện tượng này được chủ động gây ra và diễn biến  trong những điều kiện được khống chế nhằm xác định mối quan hệ nhân quả giữa từng  nhân tố tác động với hiện tượng và quá trình nghiên cứu. Nói cách khác, thực nghiệm sư  phạm được thực hiện nhằm trả lời một câu hỏi cơ bản là: Nếu hiện tượng và quá trình sư  phạm đó được diễn ra trong môi trường và các điều kiện được khống chế và kiểm soát  được một cách chủ động thì chúng sẽ diễn biến như thế nào về chiều hướng phát triển về  các mối liên hệ giữa nguyên nhân và kết quả. 
+- Phân loại thực nghiệm sư phạm kỹ thuật 
+Trong thực tiễn nghiên cứu các vấn đề sư phạm kỹ thuật, người ta sử dụng rất  nhiều loại thực nghiệm khác nhau: thực nghiệm đào tạo thí điểm một phương thức đào  tạo nghề mới; thực nghiệm kiểm tra một giả thiết khoa học; thực nghiệm đối chứng  giữa các cách thức đào tạo khác nhau; thực nghiệm nghiên cứu hiệu quả sử dụng một  thiết bị luyện tập mới, một chương trình hoặc một phương pháp đào tạo nghề  mới.v.v…Tuỳ theo từng tiêu chí khác nhau mà chúng ta có nhiều cách phân loại khác  nhau. Chẳng hạn theo GS. Trần Thúc Tình thì các phương pháp thực nghịêm có thể  được phân loại thành hai nhóm lớn: Nhóm các phương pháp thực nghiệm kiểm tra 
+74 
+  
+xem xét, đánh giá các giả thiết khoa học, các kinh nghiệm thực tiễn cần được tổng kết,  khái quát hoá và nhóm các phương pháp thực nghiệm sáng tạo được thực hiện nhằm  chủ động tìm ra các vấn đề mới, phát hiện mới trong các hoạt động sư phạm. Cũng có  tài liệu đưa ra một bản hệ thống hoá các loại thực nghiệm trên cơ sở kết hợp giữa đặc  trưng tính chất của các thực nghiệm với các giai đoạn nghiên cứu khoa học (xem  bảng3) 
+Đặc trưng cơ bản của thực nghiệm tâm lý – giáo dục là nghiên cứu sự phát  triển của các quá trình, hiện tượng sư phạm dưới tác động của các nhân tố thực  nghiệm. Chẳng hạn như thực nghiệm đánh giá hiệu quả của một phương pháp dạy  thực hành nghề mới đối với tốc độ tích luỹ và phát triển một hoặc một nhóm kỹ  năng nghề của HSSV.v.v…  
+Theo kiểu  
+Theo tính chất
+Theo giai  
+đoạn nghiên cứu 
+	Thực  
+nghiệm  
+trong phòng  thí nghiệm
+	Thực  
+nghiệm tự  nhiên
+	Thực  
+nghiệm  
+tâm lý - 
+giáo dục
+	Thực nghiệm được  viện dẫn
+	Thực nghiệm 
+chuẩn bị
+	Thực nghiệm thăm dò 
+………………………………… ………………………………… Thực nghiệm xét nghiệm
+	Tài liệu mô tả,  tường thuật, báo  cáo thực tế, báo cáo  kinh nghiệm v.v. .  có đầy đủ giá trị  khoa học về những  hiện tượng giáo dục  không thể thực  nghiệm lại được
+	Thực nghiệm 
+chính thức
+	Thực nghiệm sai biệt 
+Thực nghiệm trực tiếp định tính  hoặc gián tiếp 
+Thực nghiệm định lượng
+	
+
+
+
+Bảng 3: Bảng hệ thống hoá các phương pháp thực nghiệm 
+- Quy trình tổ chức thực nghiệm sư phạm 
+ Tuỳ theo từng loại thực nghiệm mà chúng ta có thể thiết kế các quy trình tổ  chức thực nghiệm phù hợp. Tuy nhiên, nhìn chung việc tiến hành một thực nghiệm sư  phạm có thể tiến hành theo bốn bước sau: 
+ Bước 1: Xác định vấn đề cần thực nghiệm. 
+ Trong nghiên cứu khoa học sư phạm kỹ thuật không phải vấn đề nào cũng cần  và có khả năng tổ chức thực nghiệm. Việc xác định vấn đề cần thực nghiệm cần căn 
+75 
+  
+cứ vào các nhân tố và điều kiện khách quan cũng như chủ quan: cơ sở lý luận và nhu cầu  thực tiễn; khả năng tiến hành của người thực nghiệm, các điều kiện cần cho thực nghiệm  (thời gian, địa điểm, phương tiện…) thông thường, vấn đề cần thực nghiệm nhằm hướng  tới 1 giải đáp, 1 câu hỏi, bộ phận về mối nhân quả giữa nhân tố tác động nào đó (thường  là nhân tố mà ta dự đoán là then chốt). Với diễn biến của đối tượng nghiên cứu. Câu hỏi  này đã được người nghiên cưu dự kiến câu trả lời (giả thuyết khoa học). 
+ Bước 2: Xây dựng giả thuyết khoa học. 
+ Xây dựng giả thuyết khoa học là một bước có tính quyết định đến kết quả thực  nghiệm và hiệu quả của thực nghiệm đó. Giả thuyết khoa học là câu trả lời dự kiến  vấn đề cần nghiên cứu và cần được kiểm nghiệm bằng thực nghiệm sư phạm. Giả  thuyết khoa học vừa có tính định hướng quá trình thực nghiệm vừa tạo cơ sở cho  người nghiên cứu xây dựng đề cương thực nghiệm với những nhiệm vụ, nội dung, giai  đoạn thích hợp. Để có giả thuyết khoa học tốt, người nghiên cứu ngoài việc có những  phẩm chất và năng lực NCKH tốt như óc tưởng tượng phong phú, trực giác khoa học  nhạy bén, tư duy khoa học phát triển ở trình độ cao… mà còn cần có các điều kiện  sau:  
+  
+Có những tài liệu quan sát, tổng kết kinh nghiệm cụ thể, chi tiết, phong phú  vấn đề sẽ thực nghiệm. 
+  
+Nắm vững lý luận và có hiểu biết các nghiên cứu trước đây (trong và ngoài  nước) đối với vấn đề nghiên cứu. 
+  
+Hiểu biết có phương pháp, các kỹ thuật, thủ thuật thường dùng trong các thực  nghiệm sư phạm các vấn đề cùng loại. Đặc biệt cần nắm vững kỹ thuật tổ chức  thực nghiệm và thu thập thông tin, cách thức và thước đo kết quả thực nghiệm. 
+  
+Hiểu biết về đối tượng, môi trường và các điều kiện thực nghiệm. Một giả thuyết tốt được đánh giá chủ yếu theo các mặt sau: 1/ Thể hiện rõ quan  điểm lý luận làm cơ sở cho giả thuyết đó. 2/ Giải thích được hoặc đa số hoặc tất cả các  tài liệu, sự kiện có liên quan đã thu thập được. 3/ Phù hợp với điều kiện thực tế  khách quan và chủ quan. Tính khả thi cao. 
+Bước 3: Tổ chức thực nghiệm. 
+Việc tổ chức thực nghiệm được tiến hành theo đề cương thực nghiệm đã được  các cấp có thẩm quyền thông qua (chẳng hạn như hội đồng khoa học). Giai đoạn này  có các công việc chính sau: 
++ Chọn mẫu thực nghiệm
+76 
+  
+Trong thực nghiệm sư phạm thông thường đối tượng thực nghiệm là một tập  hợp khá lớn (các loại hình trường dạy nghề theo một ngành, nhóm giáo viên thực hành  nghề; nhóm học sinh theo nghề hoặc một khoá đào tạo.v.v…). Đương nhiên, chúng ta  không thể tổ chức thực nghiệm bao chùm toàn bộ đối tượng nghiên cứu mà cần chọn  mẫu thực nghiệm thích hợp và với số lượng mẫu cần thiết. Số lượng mẫu thực nghiệm  càng nhiều thì kết quả nghiên cứu càng đáng tin cậy tuy nhiên ta có thể sử dụng “bảng  số” vừa đủ để xác định số lượng mẫu cần thiết thực nghiệm thoả mãn những yêu cầu cho  trước về xác suất sai của kết luận ước lượng và độ sai lệch tương đối của ước lượng (Bảng 4). 
+e 
+(Độ sai  
+lệch tương  đối của ước  lượng)
+	g 
+(Xác suất sai của kết luận ước lượng)
+	0,15 
+	0,10 
+	0,05 
+	0,01
+	0,05 
+0,04 
+0,03 
+0,02 
+0,01
+	207 
+323 
+575 
+1295 
+5180
+	270 
+420 
+755 
+1691 
+6764
+	384 
+600 
+1087 
+2400 
+9603
+	663 
+1035 
+1843 
+4146 
+16587
+	
+
+
+
+Bảng 4: Sác xuất sai của kết luận ước lượng 
+e: Xác suất sai kết luận ước lượng; g: Độ sai lệch tương đối của ước lượng. Bảng số  các số vừa đủ (Trích). Thí dụ: Với e = 0,10 (tức là độ tin cậy bằng 0,90) và g = 0,05 thì số  lượng tương ứng trên bảng là 270. Điều này có nghĩa là phải tiến hành thực nghiệm trên  270 đối tượng thì khi mở rộng ra đại trà 90% các đối tượng sẽ có kết quả trung bình so sánh  với kết quả trung bình rút ra ttừ thực nghiệm không sai quá 5%. Sau khi xác định số lượng  mẫu cần chọn thì chúng ta cần xác định các mẫu cụ thể theo ba cách chính: phương pháp  chọn ngẫu nhiên; phương pháp chọn máy móc và phương pháp chọn phân loại. 
++ Phương pháp chọn ngẫu nhiên: có thể sử dụng theo cách bắt thăm hoặc dùng bảng  số ngẫu nhiên
+5156 
+5323 
+6316 
+2354 
+8000 
+6263 
+7877 
+8832 
+5991 
+5238 
+0807 
+5277 
+2550 
+1796 
+4554 
+6380 
+1775 
+1189 
+5080 
+2105 
+9885 
+3645 
+6958 
+1740
+	
+
+
+
+77 
+  
+3371 7649 9660 4899 6005 4765
+	
+
+
+
+Bảng 5: Bảng số liệu chọn ngẫu nhiên 
+Khi sử dụng bảng này ta có thể làm như sau: Giả sử có 500 trường cần chọn 30  trường để thực nghiệm. Ta đánh số các trường từ 1-500, các trường được chọn là các  trường hợp có số liệu trùng với số liệu liên tiếp trong bảng (bỏ số cuối cùng hàng đơn  vị) ở đây có thể lấy các trường có số liệu 315, 287, 008,… 
++ Phương pháp chọn máy móc: 
+Cũng trong trường hợp trên ta đem chia 500 cho 30 được 16. Sau đó, chọn ngẫu  nhiên một trường trong số 20 trường đánh số từ 1- 20 (bằng cách rút thăm). Nếu rút  thăm được số 13 thì các trường được chọn sẽ cách số 13 một khoảng 16 như vậy ta có  thể chọn các trường theo số 13, 29, 45, 61, 77.v.v… 
++ Phương pháp chọn phân loại: 
+Ta có thể chọn các đối tượng nghiên cứu theo các dấu hiệu về vùng, về quy mô,  về chất lượng.v.v… hay nói một cách khác là theo các đặc trưng của đối tượng về  phân loại và chọn các mẫu điển hình với tỉ lệ tương ứng trong từng loại. 
+Trong thực tế nghiên cứu bên cạnh việc sử dụng các phương pháp lựa chọn đối  tượng nêu trên người nghiên cứu còn cần phải tính đến các điều kiện khác để đảm bảo  tính khả thi của thực nghiệm. 
++ Bồi dưỡng cộng tác viên  
+Nhìn chung, bất cứ một thực nghiệm sư phạm nào cũng cần có một đội ngũ cộng  tác viên của cơ sở nghiên cứu và cơ sở làm thực nghiệm. Đội ngũ này cần được định  hình phù hợp với từng loại thực nghiệm và được bồi dưỡng tốt về mọi mặt khi tiến  hành thực nghiệm. Cộng tác viên không chỉ cần hiểu rõ nhiệm vụ riêng của mình mà  còn phải nắm được mục đích, nhiệm vụ, nội dung, kế hoạch, tổng thể thực nghiệm và  các phương pháp tiến hành thực nghiệm. Có thể phải mở các khoá ngắn hạn để huấn  luyện chuyên biệt cho cộng tác viên và tổ chức thực nghiệm phục vụ yêu cầu luyện  tập. 
++ Theo dõi tiến trình thực nghiệm 
+Dù thực nghiệm được tiến hành ngắn hạn thì cần tiến hành theo dõi, quan sát toàn  bộ quá trình thực nghiệm theo từng giai đoạn. Sử dụng các bộ công cụ để ghi chép, đo  đạc, thu thập các số liệu thực nghiệm và có kiểm tra, đánh gía từng bước trong quá  trình thực nghiệm. Tuỳ theo từng trường hợp cụ thể mà người chịu trách nhiệm thực  nghiệm có thể điều chỉnh kế hoạch thực nghiệm cho phù hợp với tình hình thực tế và 
+78 
+  
+để đảm bảo có kết quả thực nghiệm tốt. Trong điều kiện hiện nay, ngoài các cách thu  thập số liệu thủ công chúng ta cần sử dụng rộng rãi các phương tiện kỹ thuật như máy  ảnh, máy ghi âm, băng ghi hình.v.v… để thu thập các tài liệu thực nghiệm. Bước 4 : Đánh giá kết quả thực nghiệm 
+Tất cả các tài liệu thu thập đựơc trong quá trình xây dựng cần được kiểm tra và  đánh giá sơ bộ, phân loại theo giai đoạn hoặc vấn đề nghiên cứu. Việc sử lý các tài liệu  thực nghiệm được tiến hành theo quy trình đã được dự kiến với phương pháp và mục  tiêu thích hợp với yêu cầu và nội dung nghiên cứu. Các phân tích chủ yếu theo hai  phần. Phần phân tích định tính và phân tích thống kê định lượng. Về mặt định lượng  việc sử lý các số liệu thực thường được sử dụng cách tính thống kê - xác suất với một  số giá trị như sau: 
+1) Giá trị trung bình: 
+X1+ X 2 + ...Xn =  
+X =n 
+i 
+  
+n 
+Σ 
+= 1 
+Xi n 
+2) Phương sai: Phương sai là tham số đo mức độ phân tán của các số liệu quanh  giá trị trung bình cộng. 
+ ( )2 
+1∑
+δ 
+2 
+=n 
+Xi X − 
+N 
+− 
+1 
+i 
+= 
+1 
+Trong đó: N là tổng số đối tượng điều tra, Xi Giá trị thứ i, XGiá trị trung bình 
+3) Độ lệch chuẩn: Phản ảnh phân bố các giá trị được tính theo công thức: ∑ − 
+( )2 
+Xi X d : độ lệch tiêu chuẩn 
+d = 1 
+n 
+− 
+ Trong đó : Xi giá trị thứ i 
+ X: giá trị trung bình 
+Nếu d càng nhỏ thì kết quả càng chụm tức là các giá trị thu được không có cách  biệt lớn với giá trị trung bình. Các giá trị trung bình và độ lệch tiêu chuẩn của tập mẫu  thực nghiệm sẽ được tính chuyển sang tập tổng quát theo các công thức của thống kê  toán học. 
+- Tác dụng và hạn chế của các phương pháp thực nghiệm
+79 
+  
+Trong các phương pháp nghiên cứu sư phạm, phương pháp thực nghiệm là một  phương pháp có khả năng lớn nhất khi cần nghiên cứu sâu cấu trúc, bản chất, các mối  quan hệ và qui luật của các đối tượng cần nghiên cứu. Phương pháp này có thể được  làm đi làm lại nhiều lần lên đối tượng cần nghiên cứu để có thể thu được những kết  quả khách quan và giống nhau phản ánh những mối liên hệ có tính quy luật. Thực  nghiệm sư phạm không chỉ có khả năng kiểm chứng các giả thiết mà qua đó có khả  năng phát hiện nhiều vấn đề mới trong lĩnh vực nghiên cứu. Tuy nhiên, cũng như bất  cứ một phương pháp nào, phương pháp thực nghiệm sư phạm cũng có nhiều hạn chế  nổi bật là phương pháp này chỉ có thể cho phép nghiên cứu, kiểm nghiệm mối quan hệ  nhân quả của một số ít nhân tố tác động với đối tượng nghiên cứu trong khi các đối  tượng nghiên cứu rất phức tạp và chịu nhiều yếu tố tác động. Phương pháp này đòi hỏi  có đầu tư lớn về nhân lực, thời gian, phương tiện do vậy rất tốn kém và không phải lúc  nào cũng thoả mãn. Trong thực tế, việc lựa chọn các tập mấu thực nghiệm đảm bảo  đầy đủ các yêu cầu về số lượng và đặc trưng đại diện là một việc hết sức khó khăn do  vậy các kết luận khái quát rút ra từ thực nghiệm có thể chưa phản ánh đầy đủ bản chất  của đối tượng nghiên cứu. 
+Phương pháp nghiên cứu khoa học rất đa dạng. Cần nghiên cứu bản chất, đặc  điểm, nội dung và cách sử dụng từng phương pháp để áp dụng cho phù hợp với từng  đề tài, từng chương trình nghiên cứu khoa học. 
+Nghiên cứu khoa học giáo dục luôn phải sử dụng phối hợp toàn bộ hệ thống các  phương pháp một cách hợp lý phù hợp với đối tượng, mục đích và nội dung nghiên  cứu. 
+câu hỏi ôn tập và thảo luận 
+ 1. Phân tích bản chất của phương pháp nghiên cứu khoa học giáo dục.  2. Trình bày hệ thống các PPNCKHGD và PPNCKHGD - NN (cách phân loại)  3. Trình bày bản chất, nội dung và cách thức thực hiện từng phương pháp nghiên cứu  tổng quát. 
+ 4. Trình bày các phương pháp nghiên cứu cụ thể trong nghiên cứu khoa học giáo  dục và nghiên cứu khoa học sư phạm kỹ thuật; nêu lên những thí dụ thực tiễn đã gặp.
+80
